@@ -1,0 +1,54 @@
+1x Stonecoil Serpent
+1x Sprite Dragon
+1x Snapcaster Mage
+1x Hullbreacher
+1x Sedgemoor Witch
+1x Glen Elendra Archmage
+1x Hostage Taker
+1x Ethereal Forager
+1x Clearwater Pathway
+1x Blightstep Pathway
+1x Fiery Islet
+1x Badlands
+1x Ketria Triome
+1x Bloodstained Mire
+3x Swamp
+2x Mountain
+7x Island
+1x Unearth
+1x Faithless Looting
+1x Unholy Heat
+1x Retrofitter Foundry
+1x Chromatic Sphere
+1x Narset, Parter of Veils
+1x Fable of the Mirror-Breaker
+1x Kaito Shizuki
+1x The Royal Scions
+1x Dack Fayden
+1x Prismari Command
+1x Kolaghan's Command
+1x Daretti, Ingenious Iconoclast
+1x Karn, Scion of Urza
+1x Time Spiral
+Sideboard
+1x Maze of Ith
+1x Cragcrown Pathway
+1x Rakdos Cackler
+1x Cryptbreaker
+1x Gravecrawler
+1x Orzhov Signet
+1x Goblin Engineer
+1x Sea Gate Stormcaller
+1x Najeela, the Blade-Blossom
+1x Midnight Reaper
+1x Thirst for Discovery
+1x Deceiver Exarch
+1x Birthing Pod
+1x Daretti, Scrap Savant
+1x Rankle, Master of Pranks
+1x Yorion, Sky Nomad
+
+27.6.
+0-3
+U,B,R
+Mid

@@ -1,0 +1,54 @@
+1x Orcish Lumberjack
+1x Gilded Goose
+1x Deathrite Shaman
+1x Tarmogoyf
+1x Lotus Cobra
+1x Lovestruck Beast
+1x Ramunap Excavator
+1x Knight of the Reliquary
+1x Omnath, Locus of Creation
+1x Titania, Protector of Argoth
+1x Cave of the Frost Dragon
+1x Temple Garden
+1x Tropical Island
+1x Blood Crypt
+1x Raging Ravine
+1x Indatha Triome
+1x Windswept Heath
+1x Scalding Tarn
+1x Misty Rainforest
+1x Verdant Catacombs
+1x Prismatic Vista
+1x Crystal Vein
+1x Mountain
+1x Island
+2x Forest
+1x Prismatic Ending
+1x Chain Lightning
+1x Abundant Harvest
+1x Growth Spiral
+1x Wrenn and Six
+1x Brazen Borrower
+1x Pest Infestation
+1x Esika's Chariot
+1x Garruk, Unleashed
+1x Arlinn, the Pack's Hope
+1x Vivien, Monsters' Advocate
+1x Teferi, Hero of Dominaria
+1x Elspeth, Sun's Champion
+1x Treasure Cruise
+Sideboard
+1x Brightclimb Pathway
+1x Fastbond
+1x Soul-Scar Mage
+1x Ponder
+1x Baleful Strix
+1x Edge of Autumn
+1x Crucible of Worlds
+1x Chord of Calling
+1x Dryad of the Ilysian Grove
+
+27.6.
+3-0
+W,U,R,G
+Mid,Con

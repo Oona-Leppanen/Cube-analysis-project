@@ -1,0 +1,53 @@
+1x Joraga Treespeaker
+1x Gilded Goose
+1x Avacyn's Pilgrim
+1x Elvish Mystic
+1x Sylvan Caryatid
+1x Devoted Druid
+1x Courser of Kruphix
+1x Oracle of Mul Daya
+1x Titania, Protector of Argoth
+1x Carnage Tyrant
+1x Ulamog, the Infinite Gyre
+1x Emrakul, the Aeons Torn
+1x Taiga
+1x Stomping Ground
+1x Raging Ravine
+1x Jetmir's Garden
+1x Scalding Tarn
+1x Verdant Catacombs
+1x Wooded Foothills
+1x Mountain
+8x Forest
+1x Unholy Heat
+1x Fastbond
+1x Exploration
+1x Worldly Tutor
+1x Survival of the Fittest
+1x Wrenn and Six
+1x Gruul Signet
+1x Worn Powerstone
+1x Crucible of Worlds
+1x Sneak Attack
+1x Nissa, Who Shakes the World
+1x Ugin, the Spirit Dragon
+Sideboard
+1x Bayou
+1x Savannah
+1x Lotus Petal
+1x Abundant Harvest
+1x Falkenrath Pit Fighter
+1x Seal of Fire
+1x Voracious Hydra
+1x Young Pyromancer
+1x Dire Fleet Daredevil
+1x Kaito Shizuki
+1x Spike Feeder
+1x Goblin Rabblemaster
+1x Teferi, Hero of Dominaria
+1x Elspeth, Sun's Champion
+
+13.6.
+1-2
+R,G
+Ram,Com

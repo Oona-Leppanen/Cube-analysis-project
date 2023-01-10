@@ -1,0 +1,53 @@
+1x Vampire Hexmage
+1x Jace, Vryn's Prodigy
+1x Priest of Fell Rites
+1x Grief
+1x Golos, Tireless Pilgrim
+1x Myr Battlesphere
+1x Karakas
+1x Godless Shrine
+1x Overgrown Tomb
+1x Raffine's Tower
+1x Xander's Lounge
+1x Flooded Strand
+1x Thespian's Stage
+1x Dark Depths
+5x Island
+5x Swamp
+1x Bloodchief's Thirst
+1x Vampiric Tutor
+1x Entomb
+1x Mystical Tutor
+1x Portent
+1x Serum Visions
+1x Unmarked Grave
+1x Damn
+1x Demonic Tutor
+1x Exhume
+1x Chart a Course
+1x Remand
+1x Necromancy
+1x Coalition Relic
+1x Jace, the Mind Sculptor
+1x Mystic Confluence
+Sideboard
+1x Field of the Dead
+1x Viscera Seer
+1x Mind Stone
+1x Rakdos Signet
+1x Azorius Signet
+1x Dimir Signet
+1x Simic Signet
+1x Oona's Prowler
+1x Mana Leak
+1x Vizier of Remedies
+1x Balance
+1x Leovold, Emissary of Trest
+1x Mayhem Devil
+1x Cogwork Librarian
+1x Parallax Wave
+
+27.6.
+2-1
+U,B
+Con,Com

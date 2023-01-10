@@ -1,0 +1,53 @@
+1x Kytheon, Hero of Akros
+1x Giver of Runes
+1x Noble Hierarch
+1x Elves of Deep Shadow
+1x Ignoble Hierarch
+1x Lotus Cobra
+1x Selfless Spirit
+1x Lion Sash
+1x White Plume Adventurer
+1x Thalia, Heretic Cathar
+1x Laelia, the Blade Reforged
+1x Erinis, Gloom Stalker
+1x Lovestruck Beast
+1x Toski, Bearer of Secrets
+1x Ulvenwald Oddity
+1x Mox Diamond
+1x Sunbaked Canyon
+1x Temple Garden
+1x Nurturing Peatland
+1x Wooded Foothills
+1x Misty Rainforest
+1x Strip Mine
+1x Urza's Saga
+2x Arid Mesa
+1x Mountain
+3x Plains
+4x Forest
+1x Swift Reconfiguration
+1x Retrofitter Foundry
+1x Eater of Virtue
+1x Once Upon a Time
+1x The Wandering Emperor
+1x Esika's Chariot
+1x Minsc & Boo, Timeless Heroes
+Sideboard
+1x Phyrexian Tower
+1x Breeding Pool
+1x Stonecoil Serpent
+1x Crop Rotation
+1x Legion's Landing
+1x Containment Construct
+1x Expressive Iteration
+1x Eladamri's Call
+1x Uro, Titan of Nature's Wrath
+1x Bounding Krasis
+1x Kitchen Finks
+1x Ranger-Captain of Eos
+1x Cogwork Librarian
+
+13.6.
+3-0
+W,R,G
+Agg,Mid

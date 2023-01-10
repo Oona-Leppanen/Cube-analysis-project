@@ -1,0 +1,54 @@
+1x Llanowar Elves
+1x Fyndhorn Elves
+1x Birds of Paradise
+1x Arbor Elf
+1x Snapcaster Mage
+1x Blade of the Oni
+1x Tarmogoyf
+1x Llanowar Visionary
+1x Questing Beast
+1x Phyrexian Metamorph
+1x Deep Forest Hermit
+1x Thragtusk
+1x Craterhoof Behemoth
+1x Sundering Titan
+1x Blightsteel Colossus
+1x Darkbore Pathway
+1x Barkchannel Pathway
+1x Tropical Island
+1x Zagoth Triome
+1x Misty Rainforest
+1x Prismatic Vista
+2x Island
+3x Swamp
+5x Forest
+1x Imperial Seal
+1x Green Sun's Zenith
+1x Infernal Grasp
+1x Dimir Signet
+1x Show and Tell
+1x Chord of Calling
+1x Maelstrom Pulse
+1x Coalition Relic
+1x Birthing Pod
+Sideboard
+1x Indatha Triome
+1x Cragcrown Pathway
+1x Tolarian Academy
+1x Rakdos Cackler
+1x Viscera Seer
+1x Thought Scour
+1x Champion of the Parish
+1x Selesnya Signet
+1x Boros Signet
+1x Rofellos, Llanowar Emissary
+1x Scavenging Ooze
+1x Liliana, the Last Hope
+1x Omnath, Locus of Creation
+1x Time Warp
+1x Karmic Guide
+
+13.6.
+1-2
+U,B,G
+Mid,Com

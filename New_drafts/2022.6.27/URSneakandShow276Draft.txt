@@ -1,0 +1,53 @@
+1x Dragon's Rage Channeler
+1x Young Pyromancer
+1x Spellseeker
+1x Venser, Shaper Savant
+1x Fury
+1x Wurmcoil Engine
+1x Elesh Norn, Grand Cenobite
+1x Murktide Regent
+1x Ancient Stone Idol
+1x Ulamog, the Infinite Gyre
+1x Hall of Storm Giants
+1x Riverglide Pathway
+1x Den of the Bugbear
+1x Volcanic Island
+1x Scalding Tarn
+4x Mountain
+6x Island
+1x Thought Scour
+1x Gitaxian Probe
+1x Strangle
+1x Dismember
+1x Counterspell
+1x Impulse
+1x Shatterskull Smashing
+1x Expressive Iteration
+1x Force of Negation
+1x Show and Tell
+1x Frantic Search
+1x Rift Bolt
+1x Chandra, Acolyte of Flame
+1x Sneak Attack
+1x Through the Breach
+Sideboard
+1x Ash Barrens
+1x Watery Grave
+1x Bomat Courier
+1x Zurgo Bellstriker
+1x Goblin Welder
+1x Ephemerate
+1x Izzet Signet
+1x Scrapheap Scrounger
+1x Putrid Goblin
+1x Murderous Redcap
+1x Nahiri, the Harbinger
+1x Splinter Twin
+1x Snuff Out
+1x Thragtusk
+1x Deep Forest Hermit
+
+27.6.
+1-2
+U,R
+Con

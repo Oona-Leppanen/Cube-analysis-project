@@ -1,0 +1,54 @@
+1x Knight of the Ebon Legion
+1x Usher of the Fallen
+1x Hopeful Initiate
+1x Sungold Sentinel
+1x Intrepid Adversary
+1x Ledger Shredder
+1x Suspicious Stowaway
+1x Dark Confidant
+1x Ophiomancer
+1x Recruiter of the Guard
+1x Murderous Rider
+1x Lurrus of the Dream-Den
+1x Hero of Bladehold
+1x Solitude
+1x Hive of the Eye Tyrant
+1x Celestial Colonnade
+1x Creeping Tar Pit
+1x Tundra
+1x Underground Sea
+1x Spara's Headquarters
+1x Marsh Flats
+1x Polluted Delta
+4x Plains
+5x Swamp
+1x Swords to Plowshares
+1x Legion's Landing
+1x Bonesplitter
+1x Hymn to Tourach
+1x Vanishing Verse
+1x Bitterblossom
+1x Council's Judgment
+1x Liliana of the Veil
+1x Grafted Wargear
+1x Sword of Fire and Ice
+1x Lingering Souls
+Sideboard
+1x Plains
+1x Chrome Mox
+1x Bloodsoaked Champion
+1x Putrid Imp
+1x Hard Evidence
+1x Charming Prince
+1x Woe Strider
+1x Vendilion Clique
+1x Monastery Mentor
+1x Rotting Regisaur
+1x Blade Splicer
+1x Opposition
+1x Yawgmoth, Thran Physician
+
+27.6.
+2-1
+W,U,B
+Agg,Mid

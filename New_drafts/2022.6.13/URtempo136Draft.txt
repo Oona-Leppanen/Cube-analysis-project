@@ -1,0 +1,53 @@
+1x Ragavan, Nimble Pilferer
+1x Monastery Swiftspear
+1x Suspicious Stowaway
+1x Sea Gate Stormcaller
+1x Bloodthirsty Adversary
+1x Earthshaker Khenra
+1x Cemetery Gatekeeper
+1x Robber of the Rich
+1x Dreadhorde Arcanist
+1x Kari Zev, Skyship Raider
+1x Hullbreacher
+1x Bonecrusher Giant
+1x Riverglide Pathway
+1x Den of the Bugbear
+1x Volcanic Island
+1x Fiery Islet
+5x Mountain
+6x Island
+1x Spell Pierce
+1x Sleight of Hand
+1x Opt
+1x Serum Visions
+1x Strangle
+1x Tarfire
+1x Counterspell
+1x Lightning Strike
+1x Reckless Impulse
+1x Abrade
+1x Force of Negation
+1x The Royal Scions
+1x Fiery Confluence
+Sideboard
+1x Mutavault
+1x Bonesplitter
+1x Dauntless Bodyguard
+1x Elvish Reclaimer
+1x Gutterbones
+1x Golgari Signet
+1x Timetwister
+1x Adeline, Resplendent Cathar
+1x Blade Splicer
+1x Gale, Waterdeep Prodigy
+1x Eternal Witness
+1x Master of Death
+1x Wrath of God
+1x Arlinn, the Pack's Hope
+1x Pia and Kiran Nalaar
+1x Zealous Conscripts
+
+13.6.
+2-1
+U,R
+Agg, Con

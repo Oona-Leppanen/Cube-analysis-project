@@ -1,0 +1,53 @@
+1x Hangarback Walker
+1x Walking Ballista
+1x Goblin Welder
+1x Goblin Engineer
+1x Heliod, Sun-Crowned
+1x Emry, Lurker of the Loch
+1x Golos, Tireless Pilgrim
+1x Inferno Titan
+1x Triplicate Titan
+1x Cave of the Frost Dragon
+1x Shelldock Isle
+1x Plateau
+1x Steam Vents
+1x Ancient Tomb
+1x Mishra's Factory
+2x Flooded Strand
+1x Plains
+3x Island
+4x Mountain
+1x Mystical Tutor
+1x Chromatic Star
+1x Pyrite Spellbomb
+1x Balance
+1x Winter Orb
+1x Azorius Signet
+1x Prismatic Lens
+1x Mind Stone
+1x Orzhov Signet
+1x Simic Signet
+1x Tinker
+1x Dack Fayden
+1x Memory Deluge
+1x Daretti, Scrap Savant
+1x Karn, Scion of Urza
+Sideboard
+1x Engineered Explosives
+1x Mental Note
+1x Prismatic Ending
+1x Grim Monolith
+1x Putrid Goblin
+1x Priest of Fell Rites
+1x Embereth Shieldbreaker
+1x Ledger Shredder
+1x Basalt Monolith
+1x Rotting Regisaur
+1x Parallax Wave
+1x Yorion, Sky Nomad
+1x Treachery
+
+13.6.
+2-1
+W,U,R
+Con,Ram

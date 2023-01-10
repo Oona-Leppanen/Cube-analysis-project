@@ -1,0 +1,53 @@
+1x Thraben Inspector
+1x Grim Lavamancer
+1x Figure of Destiny
+1x Thalia, Guardian of Thraben
+1x Lion Sash
+1x Safehold Elite
+1x White Plume Adventurer
+1x Seasoned Pyromancer
+1x Good-Fortune Unicorn
+1x Luminous Broodmoth
+1x Palace Jailer
+1x Archangel of Thune
+1x Glorybringer
+1x Branchloft Pathway
+1x Silent Clearing
+1x Savannah
+1x Stomping Ground
+1x Flooded Strand
+1x Fabled Passage
+2x Arid Mesa
+3x Plains
+4x Mountain
+1x Forest
+1x Portable Hole
+1x Swift Reconfiguration
+1x Mana Tithe
+1x Path to Exile
+1x Green Sun's Zenith
+1x Unexpectedly Absent
+1x Goblin Bombardment
+1x Bonecrusher Giant
+1x Eladamri's Call
+1x Smuggler's Copter
+1x Chandra, Torch of Defiance
+Sideboard
+1x Darkbore Pathway
+1x Worldly Tutor
+1x Noble Hierarch
+1x Malakir Rebirth
+1x Altar of Dementia
+1x Containment Construct
+1x Outland Liberator
+1x The Meathook Massacre
+1x Animate Dead
+1x Thalia's Lieutenant
+1x Adanto Vanguard
+1x Vindicate
+1x Day of Judgment
+
+27.6.
+1-2
+W,R,G
+Mid,Com

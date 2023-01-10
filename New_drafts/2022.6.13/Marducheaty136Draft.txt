@@ -1,0 +1,53 @@
+1x Cryptbreaker
+1x Carrion Feeder
+1x Murderous Rider
+1x Imperial Recruiter
+1x Luminous Broodmoth
+1x Ravenous Chupacabra
+1x Murderous Redcap
+1x Falkenrath Aristocrat
+1x Fury
+1x Elesh Norn, Grand Cenobite
+1x Myr Battlesphere
+1x Ulamog, the Ceaseless Hunger
+1x Brightclimb Pathway
+1x Godless Shrine
+1x Silent Clearing
+1x Sacred Foundry
+1x Blackcleave Cliffs
+1x Bloodstained Mire
+1x Fabled Passage
+2x Swamp
+4x Mountain
+1x Vampiric Tutor
+1x Unearth
+1x Malakir Rebirth
+1x Bloodchief's Thirst
+1x Faithless Looting
+1x Flame Slash
+1x Exhume
+1x Animate Dead
+1x Shatterskull Smashing
+1x Rip Apart
+1x Liliana of the Veil
+1x Fable of the Mirror-Breaker
+1x Kolaghan's Command
+1x Chandra, Torch of Defiance
+1x Through the Breach
+Sideboard
+1x Rishadan Port
+1x Mind Twist
+1x Growth Spiral
+1x Eidolon of the Great Revel
+1x Knight of Autumn
+1x Briarbridge Tracker
+1x Rift Bolt
+1x Sulfuric Vortex
+1x Hazoret the Fervent
+1x Ancient Stone Idol
+1x Dragonlord Atarka
+
+13.6.
+2-1
+W,B,R
+Mid,Com

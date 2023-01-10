@@ -1,0 +1,53 @@
+1x Student of Warfare
+1x Esper Sentinel
+1x Cathar Commando
+1x Luminarch Aspirant
+1x Sungold Sentinel
+1x Adanto Vanguard
+1x Intrepid Adversary
+1x Elite Spellbinder
+1x Flickerwisp
+1x Skyclave Apparition
+1x Soulherder
+1x Restoration Angel
+1x Venser, Shaper Savant
+1x Chrome Mox
+1x Spara's Headquarters
+1x Raugrin Triome
+1x Polluted Delta
+1x Ash Barrens
+4x Island
+8x Plains
+1x Swords to Plowshares
+1x Portable Hole
+1x Ephemerate
+1x Skullclamp
+1x Unexpectedly Absent
+1x Miscalculation
+1x Smuggler's Copter
+1x Council's Judgment
+1x Teferi, Time Raveler
+1x Gideon, Ally of Zendikar
+Sideboard
+1x Field of the Dead
+1x Horizon Canopy
+1x Branchloft Pathway
+1x Grim Lavamancer
+1x Ponder
+1x Brainstorm
+1x Izzet Signet
+1x Phyrexian Revoker
+1x Vanishing Verse
+1x Safehold Elite
+1x Remand
+1x Daze
+1x Chandra, Acolyte of Flame
+1x Monastery Mentor
+1x Hellrider
+1x Grief
+1x Murktide Regent
+
+13.6.
+1-2
+W,U
+Agg,Mid

@@ -1,0 +1,53 @@
+1x Walking Ballista
+1x Heliod, Sun-Crowned
+1x Emry, Lurker of the Loch
+1x Phyrexian Metamorph
+1x Urza, Lord High Artificer
+1x Mishra's Bauble
+1x Mox Diamond
+1x Waterlogged Grove
+1x Raugrin Triome
+1x Urza's Saga
+2x Plains
+11x Island
+1x Opt
+1x Consider
+1x Sensei's Divining Top
+1x Daze
+1x Miscalculation
+1x Prismatic Lens
+1x Boros Signet
+1x Grim Monolith
+1x Selesnya Signet
+1x Memory Lapse
+1x Basalt Monolith
+1x Worn Powerstone
+1x Cryptic Command
+1x Memory Deluge
+1x Force of Will
+1x Upheaval
+1x Dig Through Time
+Sideboard
+1x Rishadan Port
+1x Gaea's Cradle
+1x Engineered Explosives
+1x Pyrite Spellbomb
+1x Joraga Treespeaker
+1x Carrion Feeder
+1x Gruul Signet
+1x Lesser Masticore
+1x Blasting Station
+1x Bounding Krasis
+1x Soulherder
+1x Teferi, Time Raveler
+1x Imperial Recruiter
+1x Gale, Waterdeep Prodigy
+1x Tinker
+1x Flickerwisp
+1x Time Warp
+1x Emrakul, the Aeons Torn
+
+27.6.
+1-1-1
+U
+Con,Ram
