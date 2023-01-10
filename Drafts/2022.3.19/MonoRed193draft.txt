@@ -1,0 +1,54 @@
+1x Falkenrath Pit Fighter
+1x Zurgo Bellstriker
+1x Monastery Swiftspear
+1x Soul-Scar Mage
+1x Grim Lavamancer
+1x Ragavan, Nimble Pilferer
+1x Earthshaker Khenra
+1x Eidolon of the Great Revel
+1x Phyrexian Revoker
+1x Bonecrusher Giant
+1x Hellrider
+1x Murderous Redcap
+1x Zealous Conscripts
+1x Urza's Bauble
+1x Den of the Bugbear
+1x Mutavault
+14x Mountain
+1x Seal of Fire
+1x Tarfire
+1x Flame Slash
+1x Searing Spear
+1x Abrade
+1x Sulfuric Vortex
+1x Rift Bolt
+1x Wheel of Fortune
+1x Fiery Confluence
+1x Fireblast
+Sideboard
+1x Inspiring Vantage
+1x Sacred Foundry
+1x Plateau
+1x Raging Ravine
+1x Spirebluff Canal
+1x Duress
+1x Izzet Charm
+1x Lightning Greaves
+1x Vizier of Remedies
+1x Intrepid Adversary
+1x Monastery Mentor
+1x Elite Spellbinder
+1x Maul of the Skyclaves
+1x Falkenrath Aristocrat
+1x Polukranos, World Eater
+1x Splinter Twin
+1x Wrath of God
+1x Kenrith, the Returned King
+1x Mindslaver
+1x Ethereal Forager
+1x Myr Battlesphere
+
+19.3.
+2-1
+R
+Agg

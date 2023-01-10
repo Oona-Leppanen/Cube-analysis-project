@@ -1,0 +1,56 @@
+1x Fyndhorn Elves
+1x Elvish Reclaimer
+1x Dark Confidant
+1x Robber of the Rich
+1x Lotus Cobra
+1x Murderous Rider
+1x Mayhem Devil
+1x Falkenrath Aristocrat
+1x Bloodbraid Elf
+1x Glorybringer
+1x Grave Titan
+1x Lotus Petal
+1x Blightstep Pathway
+1x Cragcrown Pathway
+1x Tranquil Thicket
+1x Lair of the Hydra
+1x Plateau
+1x Overgrown Tomb
+1x Bayou
+1x Raging Ravine
+1x Marsh Flats
+1x Arid Mesa
+1x Wooded Foothills
+1x Strip Mine
+1x Mountain
+2x Swamp
+2x Forest
+1x Bloodchief's Thirst
+1x Lightning Bolt
+1x Abundant Harvest
+1x Chromatic Star
+1x Sylvan Library
+1x Wrenn and Six
+1x Dismember
+1x Grist, the Hunger Tide
+1x Garruk Wildspeaker
+1x Arlinn, the Pack's Hope
+1x Nissa, Who Shakes the World
+Sideboard
+1x Urza's Bauble
+1x Imperial Seal
+1x Lore Seeker
+1x Life from the Loam
+1x Lose Focus
+1x Toxic Deluge
+1x Emry, Lurker of the Loch
+1x Damnation
+1x Golos, Tireless Pilgrim
+1x Niv-Mizzet Reborn
+1x Shark Typhoon
+1x Nexus of Fate
+
+2.4.
+1-2
+B,R,G
+Mid

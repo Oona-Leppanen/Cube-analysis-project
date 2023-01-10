@@ -1,0 +1,54 @@
+1x Walking Ballista
+1x Birds of Paradise
+1x Ignoble Hierarch
+1x Elvish Mystic
+1x Robber of the Rich
+1x Voracious Hydra
+1x Hydroid Krasis
+1x Goblin Rabblemaster
+1x Laelia, the Blade Reforged
+1x Tireless Tracker
+1x Bloodbraid Elf
+1x Glorybringer
+1x Fury
+1x Chrome Mox
+1x Savannah
+1x Steam Vents
+1x Overgrown Tomb
+1x Blooming Marsh
+1x Stomping Ground
+1x Raugrin Triome
+1x Windswept Heath
+1x Scalding Tarn
+1x Misty Rainforest
+1x Bloodstained Mire
+2x Wooded Foothills
+1x Mountain
+2x Forest
+1x Swords to Plowshares
+1x Demonic Tutor
+1x Shatterskull Smashing
+1x Lightning Helix
+1x Rip Apart
+1x Growth Spiral
+1x Smuggler's Copter
+1x Dismember
+1x Kolaghan's Command
+1x Daretti, Ingenious Iconoclast
+1x Esika's Chariot
+Sideboard
+1x Ash Barrens
+1x Forgotten Cave
+1x Sakura-Tribe Elder
+1x Smoldering Egg
+1x Augur of Autumn
+1x Karn, Scion of Urza
+1x Toski, Bearer of Secrets
+1x Deep Forest Hermit
+1x Nicol Bolas, God-Pharaoh
+1x Emeria's Call
+
+19.3.
+1-2
+W,U,B,R,G
+Mid

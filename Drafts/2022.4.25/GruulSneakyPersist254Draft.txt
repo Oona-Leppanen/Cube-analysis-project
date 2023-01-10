@@ -1,0 +1,55 @@
+1x Carrion Feeder
+1x Elvish Mystic
+1x Gilded Goose
+1x Tarmogoyf
+1x Devoted Druid
+1x Melira, Sylvok Outcast
+1x Voracious Hydra
+1x Reckless Stormseeker
+1x Briarbridge Tracker
+1x Tireless Tracker
+1x Augur of Autumn
+1x Kitchen Finks
+1x Murderous Redcap
+1x Thragtusk
+1x Deranged Hermit
+1x Tovolar's Huntmaster
+1x Triplicate Titan
+1x Lotus Petal
+1x Cragcrown Pathway
+1x Tranquil Thicket
+1x Stomping Ground
+2x Swamp
+3x Mountain
+7x Forest
+1x Gitaxian Probe
+1x Spikefield Hazard
+1x Fable of the Mirror-Breaker
+1x Chord of Calling
+1x Sneak Attack
+1x Birthing Pod
+1x Arlinn, the Pack's Hope
+Sideboard
+1x Needleverge Pathway
+1x Carrion Feeder
+1x Legion's Landing
+1x Student of Warfare
+1x Dire Fleet Daredevil
+1x Oona's Prowler
+1x Goblin Engineer
+1x Spike Feeder
+1x Legion Warboss
+1x Recurring Nightmare
+1x Pestermite
+1x Hedron Archive
+1x Hazoret the Fervent
+1x Hellrider
+1x Parallax Wave
+1x Hero of Bladehold
+1x Grave Titan
+1x Terastodon
+
+25.4.
+1-2
+R,G
+Mid,Com

@@ -1,0 +1,55 @@
+1x Putrid Imp
+1x Jace, Vryn's Prodigy
+1x Snapcaster Mage
+1x Oona's Prowler
+1x Woe Strider
+1x Glen Elendra Archmage
+1x Archon of Cruelty
+1x Griselbrand
+1x Triplicate Titan
+1x Ulamog, the Ceaseless Hunger
+1x Creeping Tar Pit
+7x Island
+8x Swamp
+1x Consider
+1x Hard Evidence
+1x Mystical Tutor
+1x Bone Shards
+1x Entomb
+1x Lose Focus
+1x Collective Brutality
+1x Animate Dead
+1x Unmarked Grave
+1x Persist
+1x Frantic Search
+1x Necromancy
+1x Recurring Nightmare
+1x Snuff Out
+Sideboard
+1x Green Sun's Zenith
+1x Avacyn's Pilgrim
+1x Fastbond
+1x Knight of the Ebon Legion
+1x Sleight of Hand
+1x Portable Hole
+1x Dimir Signet
+1x Devoted Druid
+1x Putrid Goblin
+1x Thassa's Oracle
+1x Prismari Command
+1x Liliana, the Last Hope
+1x Show and Tell
+1x Deceiver Exarch
+1x Pestermite
+1x Jace, Wielder of Mysteries
+1x Memory Jar
+1x Niv-Mizzet Reborn
+1x Through the Breach
+1x Ancient Stone Idol
+1x Woodfall Primus
+1x Dig Through Time
+
+19.3.
+2-1
+U,B
+Agg,Com

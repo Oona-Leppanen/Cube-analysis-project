@@ -1,0 +1,56 @@
+1x Llanowar Elves
+1x Elvish Mystic
+1x Vampire Hexmage
+1x Dauthi Voidwalker
+1x Grim Flayer
+1x Reclamation Sage
+1x Dryad of the Ilysian Grove
+1x Rankle, Master of Pranks
+1x Oracle of Mul Daya
+1x Magus of the Order
+1x Thragtusk
+1x Deranged Hermit
+1x The Gitrog Monster
+1x Archon of Cruelty
+1x Engineered Explosives
+1x Hive of the Eye Tyrant
+1x Lair of the Hydra
+1x Tranquil Thicket
+1x Blooming Marsh
+1x Field of Ruin
+1x Fabled Passage
+1x Dark Depths
+3x Swamp
+6x Forest
+1x Abundant Harvest
+1x Demonic Tutor
+1x Once Upon a Time
+1x Agadeem's Awakening
+1x Toxic Deluge
+1x Bala Ged Recovery
+1x Worn Powerstone
+1x Damnation
+1x Thran Dynamo
+Sideboard
+1x Urza's Bauble
+1x Inquisition of Kozilek
+1x Dark Ritual
+1x Chromatic Star
+1x Falkenrath Gorger
+1x Growth Spiral
+1x Mind Stone
+1x Rift Bolt
+1x Maul of the Skyclaves
+1x Birthing Pod
+1x Fiery Confluence
+1x Nicol Bolas, God-Pharaoh
+1x Craterhoof Behemoth
+1x Terastodon
+1x Ancient Stone Idol
+1x Ulamog, the Infinite Gyre
+1x Hullbreaker Horror
+
+1.3.
+2-1
+B,G
+Ram,Com

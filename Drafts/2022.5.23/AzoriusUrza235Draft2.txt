@@ -1,0 +1,54 @@
+1x Giver of Runes
+1x Hangarback Walker
+1x Vendilion Clique
+1x Urza, Lord High Artificer
+1x Glen Elendra Archmage
+1x Myr Battlesphere
+1x Cave of the Frost Dragon
+1x Hengegate Pathway
+1x Tolarian Academy
+1x Hall of Storm Giants
+1x Raffine's Tower
+1x Raugrin Triome
+1x Zagoth Triome
+1x Flooded Strand
+1x Arid Mesa
+1x Windswept Heath
+1x Fabled Passage
+1x Urza's Saga
+1x Maze of Ith
+3x Island
+1x Plains
+1x Swift Reconfiguration
+1x Consider
+1x Counterspell
+1x Golgari Signet
+1x Azorius Signet
+1x Prismatic Lens
+1x Dimir Signet
+1x Everflowing Chalice
+1x Show and Tell
+1x Teferi, Time Raveler
+1x Fact or Fiction
+1x Supreme Verdict
+1x Karn, Scion of Urza
+1x Mystic Confluence
+1x Force of Will
+1x Teferi, Hero of Dominaria
+1x Approach of the Second Sun
+1x Dig Through Time
+Sideboard
+1x Ash Barrens
+1x Eater of Virtue
+1x Thought Scour
+1x Hard Evidence
+1x Prismatic Ending
+1x Ramunap Excavator
+1x Murderous Cut
+1x Time Spiral
+1x Blightsteel Colossus
+
+23.5.
+0-0-3, Draft 2
+W,U
+Con,Com

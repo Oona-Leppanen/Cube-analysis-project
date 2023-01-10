@@ -1,0 +1,52 @@
+1x Bloodsoaked Champion
+1x Jace, Vryn's Prodigy
+1x Jadar, Ghoulcaller of Nephalia
+1x Vampire Hexmage
+1x Baleful Strix
+1x Spellseeker
+1x Sedgemoor Witch
+1x Venser, Shaper Savant
+1x Fury
+1x Grave Titan
+1x Wurmcoil Engine
+1x Triplicate Titan
+1x Shelldock Isle
+1x Hive of the Eye Tyrant
+2x Polluted Delta
+7x Swamp
+6x Island
+1x Opt
+1x Reanimate
+1x Thoughtseize
+1x Unearth
+1x Memory Lapse
+1x Miscalculation
+1x Demonic Tutor
+1x Animate Dead
+1x Unmarked Grave
+1x Thirst for Knowledge
+1x Necromancy
+Sideboard
+1x Phyrexian Tower
+1x Savai Triome
+1x Stomping Ground
+1x Waterlogged Grove
+1x Scrubland
+1x Godless Shrine
+1x Dark Ritual
+1x Oust
+1x Smuggler's Copter
+1x Blood Artist
+1x Stoneforge Mystic
+1x Eternal Witness
+1x Polukranos, World Eater
+1x The Gitrog Monster
+1x Titania, Protector of Argoth
+1x Archangel of Thune
+1x Ulamog, the Infinite Gyre
+1x Nexus of Fate
+
+23.5.
+0-1-2, Draft 2
+U,B
+Agg,Com

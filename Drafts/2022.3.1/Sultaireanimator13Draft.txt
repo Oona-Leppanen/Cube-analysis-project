@@ -1,0 +1,56 @@
+1x Vendilion Clique
+1x Griselbrand
+1x Myr Battlesphere
+1x Emrakul, the Aeons Torn
+1x Mox Diamond
+1x Watery Grave
+1x Underground Sea
+1x Bayou
+1x Misty Rainforest
+1x Bloodstained Mire
+1x Forest
+5x Swamp
+6x Island
+1x Ponder
+1x Opt
+1x Occult Epiphany
+1x Dread Fugue
+1x Reanimate
+1x Bone Shards
+1x Miscalculation
+1x Remand
+1x Exhume
+1x Infernal Grasp
+1x Oath of Druids
+1x Force of Negation
+1x Dismember
+1x Ashiok, Nightmare Weaver
+1x Cryptic Command
+1x Commit // Memory
+1x Dig Through Time
+1x Ugin, the Spirit Dragon
+Sideboard
+1x Viscera Seer
+1x Putrid Imp
+1x Lesser Masticore
+1x Grim Monolith
+1x Rip Apart
+1x Melira, Sylvok Outcast
+1x Sakura-Tribe Elder
+1x Goblin Bombardment
+1x Eidolon of the Great Revel
+1x Blood Artist
+1x Dark Confidant
+1x Fateful Absence
+1x Lutri, the Spellchaser
+1x Good-Fortune Unicorn
+1x Hedron Archive
+1x Hostage Taker
+1x Nissa, Who Shakes the World
+1x Riftwing Cloudskate
+1x Time Spiral
+
+1.3.
+1-2
+U,B,G
+Mid,Com

@@ -1,0 +1,52 @@
+1x Noble Hierarch
+1x Fyndhorn Elves
+1x Rofellos, Llanowar Emissary
+1x Scavenging Ooze
+1x Devoted Druid
+1x Containment Construct
+1x Augur of Autumn
+1x Reclamation Sage
+1x Dryad of the Ilysian Grove
+1x Briarbridge Tracker
+1x Carnage Tyrant
+1x Craterhoof Behemoth
+1x Lotus Petal
+1x Engineered Explosives
+1x Verdant Catacombs
+15x Forest
+1x Pest Infestation
+1x Skullclamp
+1x Edge of Autumn
+1x Bala Ged Recovery
+1x Chord of Calling
+1x Garruk Wildspeaker
+1x Esika's Chariot
+1x Nissa, Who Shakes the World
+1x Batterskull
+1x Mindslaver
+Sideboard
+1x Crystal Vein
+1x Badlands
+1x Breeding Pool
+1x Fastbond
+1x Orcish Lumberjack
+1x Imperial Seal
+1x Vampiric Tutor
+1x Gravecrawler
+1x Selesnya Signet
+1x Simic Signet
+1x Assassin's Trophy
+1x Life from the Loam
+1x Infernal Grasp
+1x Basalt Monolith
+1x Maelstrom Pulse
+1x Liliana of the Veil
+1x Smokestack
+1x Hostage Taker
+1x Grief
+1x Escape to the Wilds
+
+23.5.
+1-0-2, Draft 2
+G
+Mid,Ram

@@ -1,0 +1,56 @@
+1x Hangarback Walker
+1x Figure of Destiny
+1x Stoneforge Mystic
+1x Adanto Vanguard
+1x Cathar Commando
+1x Containment Priest
+1x Oona's Prowler
+1x Skyclave Shade
+1x Phyrexian Revoker
+1x Monastery Mentor
+1x Sedgemoor Witch
+1x Hero of Bladehold
+1x Grief
+1x Godless Shrine
+1x Scrubland
+1x Ash Barrens
+1x Mutavault
+1x Polluted Delta
+1x Windswept Heath
+5x Plains
+5x Swamp
+1x Legion's Landing
+1x Swords to Plowshares
+1x Thoughtseize
+1x Skullclamp
+1x Unexpectedly Absent
+1x Vanishing Verse
+1x Smuggler's Copter
+1x Umezawa's Jitte
+1x Council's Judgment
+1x Ravages of War
+1x Karn, Scion of Urza
+Sideboard
+1x Blackcleave Cliffs
+1x Creeping Tar Pit
+1x Razorverge Thicket
+1x Thought Scour
+1x Ephemerate
+1x Champion of the Parish
+1x Shatterskull Smashing
+1x Thalia's Lieutenant
+1x Mayhem Devil
+1x Daretti, Ingenious Iconoclast
+1x Thief of Sanity
+1x Chandra, Acolyte of Flame
+1x Brutal Cathar
+1x Showdown of the Skalds
+1x Hellrider
+1x Day of Judgment
+1x Reveillark
+1x Sphinx of the Steel Wind
+
+1.3.
+2-1
+W,B
+Agg,Mid

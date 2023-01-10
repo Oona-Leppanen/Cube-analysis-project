@@ -1,0 +1,53 @@
+1x Mother of Runes
+1x Usher of the Fallen
+1x Giver of Runes
+1x Dragon Hunter
+1x Kytheon, Hero of Akros
+1x Figure of Destiny
+1x Adanto Vanguard
+1x Anafenza, Kin-Tree Spirit
+1x Thalia, Guardian of Thraben
+1x Cathar Commando
+1x Thalia's Lieutenant
+1x Porcelain Legionnaire
+1x Brutal Cathar
+1x Recruiter of the Guard
+1x Skyclave Apparition
+1x Adeline, Resplendent Cathar
+1x Blade Splicer
+1x Palace Jailer
+1x Basri's Lieutenant
+1x Hero of Bladehold
+1x Cave of the Frost Dragon
+1x Rishadan Port
+14x Plains
+1x Ephemerate
+1x Gitaxian Probe
+1x Unexpectedly Absent
+1x Council's Judgment
+Sideboard
+1x Marsh Flats
+1x Breeding Pool
+1x Temple Garden
+1x Godless Shrine
+1x Needleverge Pathway
+1x Traverse the Ulvenwald
+1x Gutterbones
+1x Oust
+1x Goblin Cratermaker
+1x Containment Priest
+1x Worn Powerstone
+1x Soulherder
+1x Ramunap Excavator
+1x Seasoned Pyromancer
+1x Oracle of Mul Daya
+1x Restoration Angel
+1x Parallax Wave
+1x Teferi, Hero of Dominaria
+1x Primeval Titan
+1x Emrakul, the Aeons Torn
+
+19.3.
+1-1-1
+W
+Agg

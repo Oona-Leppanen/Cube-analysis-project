@@ -1,0 +1,56 @@
+1x Noble Hierarch
+1x Fyndhorn Elves
+1x Suspicious Stowaway
+1x Scavenging Ooze
+1x Tarmogoyf
+1x Courser of Kruphix
+1x Hostage Taker
+1x Thragtusk
+1x Engineered Explosives
+1x Hall of Storm Giants
+1x Barkchannel Pathway
+1x Darkbore Pathway
+1x Clearwater Pathway
+1x Underground Sea
+1x Tropical Island
+1x Verdant Catacombs
+1x Flooded Strand
+1x Swamp
+4x Forest
+4x Island
+1x Bloodchief's Thirst
+1x Remand
+1x Memory Lapse
+1x Censor
+1x Sylvan Library
+1x Maelstrom Pulse
+1x Grist, the Hunger Tide
+1x Jace, the Mind Sculptor
+1x Cryptic Command
+1x Memory Deluge
+1x Treachery
+1x Mystic Confluence
+1x Shark Typhoon
+1x Treasure Cruise
+Sideboard
+1x Maze of Ith
+1x Dread Fugue
+1x Oath of Druids
+1x Goblin Bombardment
+1x Crucible of Worlds
+1x Shardless Agent
+1x Lutri, the Spellchaser
+1x Spike Feeder
+1x Reclamation Sage
+1x Agadeem's Awakening
+1x Narset, Parter of Veils
+1x Solemn Simulacrum
+1x Birthing Pod
+1x Damnation
+1x Inferno Titan
+1x Ulamog, the Infinite Gyre
+
+19.3.
+3-0
+U,B,G
+Mid

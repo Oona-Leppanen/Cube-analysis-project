@@ -1,0 +1,53 @@
+1x Stoneforge Mystic
+1x Snapcaster Mage
+1x Phantasmal Image
+1x Elite Spellbinder
+1x Yorion, Sky Nomad
+1x Ethereal Forager
+1x Murktide Regent
+1x Cave of the Frost Dragon
+1x Celestial Colonnade
+1x Hallowed Fountain
+1x Raffine's Tower
+1x Flooded Strand
+1x Prismatic Vista
+2x Plains
+8x Island
+1x Path to Exile
+1x Preordain
+1x Thought Scour
+1x Ponder
+1x Gitaxian Probe
+1x Remand
+1x Memory Lapse
+1x Impulse
+1x Force of Negation
+1x Thirst for Knowledge
+1x Frantic Search
+1x Teferi, Time Raveler
+1x Jace, the Mind Sculptor
+1x Force of Will
+1x Batterskull
+1x Shark Typhoon
+1x Treasure Cruise
+Sideboard
+1x Volcanic Island
+1x Figure of Destiny
+1x Viscera Seer
+1x Mystical Tutor
+1x Champion of the Parish
+1x Dragon Hunter
+1x Student of Warfare
+1x Giver of Runes
+1x Thraben Inspector
+1x Smuggler's Copter
+1x Vizier of Remedies
+1x Dismember
+1x Pestermite
+1x Flickerwisp
+1x Archangel of Thune
+
+9.5.
+1-0-2
+W,U
+Con

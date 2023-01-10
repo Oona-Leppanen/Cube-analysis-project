@@ -1,0 +1,55 @@
+1x Carrion Feeder
+1x Bloodsoaked Champion
+1x Bomat Courier
+1x Putrid Goblin
+1x Blood Artist
+1x Jadar, Ghoulcaller of Nephalia
+1x Bloodghast
+1x Dire Fleet Daredevil
+1x Woe Strider
+1x Ophiomancer
+1x Goblin Rabblemaster
+1x Rankle, Master of Pranks
+1x Yawgmoth, Thran Physician
+1x Grief
+1x Zealous Conscripts
+1x Mishra's Bauble
+1x Hive of the Eye Tyrant
+1x Badlands
+1x Scalding Tarn
+1x Verdant Catacombs
+3x Mountain
+8x Swamp
+1x Inquisition of Kozilek
+1x Seal of Fire
+1x Collective Brutality
+1x Goblin Bombardment
+1x Agadeem's Awakening
+1x Liliana, the Last Hope
+1x Blasting Station
+1x Snuff Out
+1x Murderous Cut
+Sideboard
+1x Everflowing Chalice
+1x Godless Shrine
+1x Concealed Courtyard
+1x Scrubland
+1x Field of Ruin
+1x Sensei's Divining Top
+1x Vanishing Verse
+1x Damn
+1x Altar of Dementia
+1x Pack Rat
+1x Life // Death
+1x Reckless Stormseeker
+1x Porcelain Legionnaire
+1x Armageddon
+1x Gideon, Ally of Zendikar
+1x Supreme Verdict
+1x Fury
+1x Approach of the Second Sun
+
+2.4.
+2-1
+B,R
+Agg,Mid

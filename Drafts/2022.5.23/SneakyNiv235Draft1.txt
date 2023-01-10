@@ -1,0 +1,55 @@
+1x Sylvan Caryatid
+1x Grim Flayer
+1x Ophiomancer
+1x Master of Death
+1x Leovold, Emissary of Trest
+1x Thragtusk
+1x Niv-Mizzet Reborn
+1x Golos, Tireless Pilgrim
+1x Griselbrand
+1x Emrakul, the Aeons Torn
+1x Blightstep Pathway
+1x Cragcrown Pathway
+1x Celestial Colonnade
+1x Watery Grave
+1x Underground Sea
+1x Bayou
+1x Overgrown Tomb
+1x Nurturing Peatland
+1x Bloodstained Mire
+1x Wooded Foothills
+1x Field of the Dead
+2x Forest
+1x Mountain
+1x Swamp
+2x Island
+1x Brainstorm
+1x Portent
+1x Mind Twist
+1x Chart a Course
+1x Collective Brutality
+1x Gruul Signet
+1x Liliana, the Last Hope
+1x Kaito Shizuki
+1x Kolaghan's Command
+1x Daretti, Ingenious Iconoclast
+1x Grist, the Hunger Tide
+1x Damnation
+1x Sneak Attack
+Sideboard
+1x Elvish Reclaimer
+1x Gutterbones
+1x Hopeful Initiate
+1x Priest of Fell Rites
+1x Survival of the Fittest
+1x Dark Confidant
+1x Shardless Agent
+1x Vindicate
+1x Force of Negation
+1x Reveillark
+1x Murktide Regent
+
+23.5.
+1-2, Draft 1
+W,U,B,R,G
+Mid,Com

@@ -1,0 +1,53 @@
+1x Joraga Treespeaker
+1x Phantasmal Image
+1x Earthshaker Khenra
+1x Young Pyromancer
+1x Spellseeker
+1x Shardless Agent
+1x Phyrexian Metamorph
+1x Pia and Kiran Nalaar
+1x Bloodbraid Elf
+1x Fury
+1x Inferno Titan
+1x Hall of Storm Giants
+1x Shelldock Isle
+1x Steam Vents
+1x Tropical Island
+1x Raging Ravine
+1x Ancient Tomb
+1x Fabled Passage
+1x Forest
+2x Island
+7x Mountain
+1x Sleight of Hand
+1x Thought Scour
+1x Lightning Bolt
+1x Unholy Heat
+1x Chromatic Star
+1x Impulse
+1x Lightning Strike
+1x Expressive Iteration
+1x Chandra, Acolyte of Flame
+1x Fact or Fiction
+1x Escape to the Wilds
+1x Shark Typhoon
+Sideboard
+1x Celestial Colonnade
+1x Hangarback Walker
+1x Engineered Explosives
+1x Stonecoil Serpent
+1x Dread Wanderer
+1x Liquimetal Torque
+1x Lesser Masticore
+1x Wrenn and Six
+1x Hymn to Tourach
+1x Lutri, the Spellchaser
+1x Thran Dynamo
+1x Daretti, Scrap Savant
+1x Batterskull
+1x Sundering Titan
+
+25.4.
+2-1
+U,R,G
+Mid

@@ -1,0 +1,54 @@
+1x Deathrite Shaman
+1x Vampire Hexmage
+1x Dauthi Voidwalker
+1x Elesh Norn, Grand Cenobite
+1x Ulamog, the Ceaseless Hunger
+1x Hengegate Pathway
+1x Karakas
+1x Branchloft Pathway
+1x Botanical Sanctum
+1x Bayou
+1x Thespian's Stage
+2x Marsh Flats
+1x Bloodstained Mire
+1x Verdant Catacombs
+1x Dark Depths
+1x Plains
+3x Island
+1x Swamp
+1x Forest
+1x Portent
+1x Fatal Push
+1x Vampiric Tutor
+1x Jack-o'-Lantern
+1x Remand
+1x Infernal Grasp
+1x Oath of Druids
+1x Vanishing Verse
+1x Prismatic Lens
+1x Mind Stone
+1x Grim Monolith
+1x Simic Signet
+1x Force of Negation
+1x Basalt Monolith
+1x Wrath of God
+1x Day of Judgment
+1x Damnation
+1x Mystic Confluence
+Sideboard
+1x Tolarian Academy
+1x Baleful Strix
+1x Flickerwisp
+1x Lingering Souls
+1x Thalia, Heretic Cathar
+1x Adeline, Resplendent Cathar
+1x Maul of the Skyclaves
+1x Emry, Lurker of the Loch
+1x Brazen Borrower
+1x Woe Strider
+1x Knight of Autumn
+
+25.4.
+1-1-1
+W,U,B,G
+Con,Com

@@ -1,0 +1,54 @@
+1x Birds of Paradise
+1x Arbor Elf
+1x Noble Hierarch
+1x Charming Prince
+1x Scavenging Ooze
+1x Tarmogoyf
+1x Hydroid Krasis
+1x Tireless Tracker
+1x Reclamation Sage
+1x Kitchen Finks
+1x Knight of Autumn
+1x Questing Beast
+1x Solemn Simulacrum
+1x Thragtusk
+1x Carnage Tyrant
+1x Branchloft Pathway
+1x Savannah
+1x Windswept Heath
+2x Misty Rainforest
+2x Island
+7x Forest
+3x Plains
+1x Traverse the Ulvenwald
+1x Worldly Tutor
+1x Unexpectedly Absent
+1x Survival of the Fittest
+1x Once Upon a Time
+1x Eladamri's Call
+1x Bala Ged Recovery
+1x Elspeth, Sun's Champion
+Sideboard
+1x Mutavault
+1x Celestial Colonnade
+1x Hengegate Pathway
+1x Crop Rotation
+1x Fastbond
+1x Gitaxian Probe
+1x Prismatic Ending
+1x Oust
+1x Skyclave Shade
+1x Balance
+1x Imperial Recruiter
+1x Sneak Attack
+1x Day of Judgment
+1x Tovolar's Huntmaster
+1x Inferno Titan
+1x Sundering Titan
+1x Myr Battlesphere
+1x Elesh Norn, Grand Cenobite
+
+2.4.
+0-2-1
+W,G
+Mid,Ram

@@ -1,0 +1,53 @@
+1x Cryptbreaker
+1x Knight of the Ebon Legion
+1x Dread Wanderer
+1x Ragavan, Nimble Pilferer
+1x Figure of Destiny
+1x Rakdos Cackler
+1x Blade of the Oni
+1x Bloodghast
+1x Recruiter of the Guard
+1x Thalia, Heretic Cathar
+1x Rotting Regisaur
+1x Palace Jailer
+1x Restoration Angel
+1x Falkenrath Aristocrat
+1x Glorybringer
+1x Cave of the Frost Dragon
+1x Den of the Bugbear
+1x Godless Shrine
+1x Inspiring Vantage
+1x Sacred Foundry
+1x Badlands
+1x Blackcleave Cliffs
+1x Flooded Strand
+1x Marsh Flats
+2x Arid Mesa
+1x Plains
+2x Swamp
+2x Mountain
+1x Prismatic Ending
+1x Duress
+1x Fateful Absence
+1x Abrade
+1x Goblin Bombardment
+1x Vanishing Verse
+1x Dismember
+1x Daretti, Ingenious Iconoclast
+1x Fireblast
+Sideboard
+1x Goblin Welder
+1x Serum Visions
+1x Lesser Masticore
+1x Izzet Charm
+1x Vizier of Remedies
+1x Stoneforge Mystic
+1x Teferi, Time Raveler
+1x Emry, Lurker of the Loch
+1x Karn, Scion of Urza
+1x Escape to the Wilds
+
+16.4.
+1-2
+W,B,R
+Agg,Mid

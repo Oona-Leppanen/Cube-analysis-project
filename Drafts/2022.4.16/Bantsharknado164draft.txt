@@ -1,0 +1,54 @@
+1x Thraben Inspector
+1x Elvish Reclaimer
+1x Sakura-Tribe Elder
+1x Deceiver Exarch
+1x Reclamation Sage
+1x Knight of Autumn
+1x Hullbreaker Horror
+1x Lotus Petal
+1x Hengegate Pathway
+1x Celestial Colonnade
+1x Savannah
+1x Temple Garden
+1x Raugrin Triome
+3x Plains
+4x Forest
+4x Island
+1x Mana Tithe
+1x Portable Hole
+1x Hard Evidence
+1x Unexpectedly Absent
+1x Daze
+1x Eladamri's Call
+1x Growth Spiral
+1x Lingering Souls
+1x Council's Judgment
+1x Show and Tell
+1x Thirst for Discovery
+1x Narset, Parter of Veils
+1x Memory Deluge
+1x Shark Typhoon
+1x Emeria's Call
+1x Treasure Cruise
+Sideboard
+1x Ash Barrens
+1x Chromatic Sphere
+1x Malakir Rebirth
+1x Azorius Signet
+1x Mayhem Devil
+1x Uro, Titan of Nature's Wrath
+1x Chord of Calling
+1x Spike Feeder
+1x Light Up the Stage
+1x Thirst for Knowledge
+1x Elite Spellbinder
+1x Porcelain Legionnaire
+1x Pia and Kiran Nalaar
+1x The Gitrog Monster
+1x Sundering Titan
+1x Approach of the Second Sun
+
+16.4.
+1-1-1
+W,U,G
+Ram,Com

@@ -1,0 +1,51 @@
+1x Charming Prince
+1x Flickerwisp
+1x Brazen Borrower
+1x Glen Elendra Archmage
+1x Solitude
+1x Ethereal Forager
+1x Hive of the Eye Tyrant
+1x Hallowed Fountain
+1x Creeping Tar Pit
+1x Indatha Triome
+1x Marsh Flats
+1x Flooded Strand
+1x Misty Rainforest
+1x Fabled Passage
+5x Island
+4x Plains
+1x Sleight of Hand
+1x Brainstorm
+1x Portent
+1x Preordain
+1x Bone Shards
+1x Chromatic Star
+1x Sensei's Divining Top
+1x Counterspell
+1x Miscalculation
+1x Impulse
+1x Orzhov Signet
+1x Mind Stone
+1x Coalition Relic
+1x Gideon, Ally of Zendikar
+1x Jace, the Mind Sculptor
+1x Supreme Verdict
+1x Murderous Cut
+Sideboard
+1x Urza's Bauble
+1x Seal of Fire
+1x Spikefield Hazard
+1x Entomb
+1x Gravecrawler
+1x Selesnya Signet
+1x Gruul Signet
+1x Altar of Dementia
+1x Lightning Helix
+1x Prismari Command
+1x Lutri, the Spellchaser
+1x Ulamog, the Ceaseless Hunger
+
+16.4.
+2-1
+W,U,B
+Con

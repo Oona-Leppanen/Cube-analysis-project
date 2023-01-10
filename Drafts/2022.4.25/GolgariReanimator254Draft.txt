@@ -1,0 +1,52 @@
+1x Bloodghast
+1x Rotting Regisaur
+1x Murderous Rider
+1x Ophiomancer
+1x Rankle, Master of Pranks
+1x The Gitrog Monster
+1x Griselbrand
+1x Archon of Cruelty
+1x Mox Diamond
+1x Indatha Triome
+1x Urza's Saga
+1x Phyrexian Tower
+1x Polluted Delta
+1x Prismatic Vista
+3x Forest
+9x Swamp
+1x Thoughtseize
+1x Imperial Seal
+1x Entomb
+1x Skullclamp
+1x Retrofitter Foundry
+1x Mind Twist
+1x Collective Brutality
+1x Unmarked Grave
+1x Animate Dead
+1x Life from the Loam
+1x Toxic Deluge
+1x Liliana of the Veil
+1x Necromancy
+1x Grist, the Hunger Tide
+Sideboard
+1x Badlands
+1x Creeping Tar Pit
+1x Everflowing Chalice
+1x Pest Infestation
+1x Fyndhorn Elves
+1x Noble Hierarch
+1x Crop Rotation
+1x Bitterblossom
+1x Sylvan Library
+1x Finale of Devastation
+1x Leovold, Emissary of Trest
+1x Knight of the Reliquary
+1x Courser of Kruphix
+1x Heliod, Sun-Crowned
+1x Falkenrath Aristocrat
+1x Nissa, Who Shakes the World
+
+25.4.
+0-2-1
+B,G
+Mid,Com

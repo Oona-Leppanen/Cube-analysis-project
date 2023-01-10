@@ -1,0 +1,55 @@
+1x Dragon's Rage Channeler
+1x Soul-Scar Mage
+1x Suspicious Stowaway
+1x Snapcaster Mage
+1x Earthshaker Khenra
+1x Vendilion Clique
+1x Brazen Borrower
+1x Legion Warboss
+1x Glen Elendra Archmage
+1x Sacred Foundry
+1x Steam Vents
+1x Flooded Strand
+1x Polluted Delta
+1x Bloodstained Mire
+1x Prismatic Vista
+1x Plains
+4x Mountain
+5x Island
+1x Ponder
+1x Thought Scour
+1x Preordain
+1x Sleight of Hand
+1x Daze
+1x Izzet Charm
+1x Smuggler's Copter
+1x Umezawa's Jitte
+1x Chandra, Acolyte of Flame
+1x Teferi, Time Raveler
+1x Prismari Command
+1x Cryptic Command
+1x Force of Will
+1x Treachery
+1x Fireblast
+Sideboard
+1x Indatha Triome
+1x Figure of Destiny
+1x Falkenrath Gorger
+1x Dread Fugue
+1x Legion's Landing
+1x Izzet Signet
+1x Golgari Signet
+1x Grafted Wargear
+1x Coalition Relic
+1x Shardless Agent
+1x Lurrus of the Dream-Den
+1x Soulherder
+1x Briarbridge Tracker
+1x Frantic Search
+1x Omnath, Locus of Creation
+1x Time Spiral
+
+2.4.
+0-2-1
+W,U,R
+Agg,Con

@@ -1,0 +1,56 @@
+1x Llanowar Elves
+1x Gilded Goose
+1x Avacyn's Pilgrim
+1x Joraga Treespeaker
+1x Ignoble Hierarch
+1x Rofellos, Llanowar Emissary
+1x Voracious Hydra
+1x Eternal Witness
+1x Uro, Titan of Nature's Wrath
+1x Phyrexian Metamorph
+1x Deep Forest Hermit
+1x Dragonlord Atarka
+1x Blightsteel Colossus
+1x Tropical Island
+1x Taiga
+1x Zagoth Triome
+1x Windswept Heath
+1x Wooded Foothills
+2x Island
+7x Forest
+1x Green Sun's Zenith
+1x Prismatic Lens
+1x Mind Stone
+1x Simic Signet
+1x Grim Monolith
+1x Selesnya Signet
+1x Timetwister
+1x Tinker
+1x Opposition
+1x Esika's Chariot
+1x Natural Order
+1x Thran Dynamo
+1x Upheaval
+Sideboard
+1x Forest
+1x Ash Barrens
+1x Goblin Welder
+1x Putrid Imp
+1x Hard Evidence
+1x Serum Visions
+1x Impulse
+1x Mana Leak
+1x Basalt Monolith
+1x Good-Fortune Unicorn
+1x Chord of Calling
+1x Karn, Scion of Urza
+1x Toski, Bearer of Secrets
+1x Birthing Pod
+1x Daretti, Scrap Savant
+1x Parallax Wave
+1x The Gitrog Monster
+
+2.4.
+3-0
+U,R,G
+Ram,Com

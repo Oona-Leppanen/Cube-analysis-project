@@ -1,0 +1,53 @@
+1x Arbor Elf
+1x Avacyn's Pilgrim
+1x Ignoble Hierarch
+1x Intrepid Adversary
+1x Lotus Cobra
+1x Sakura-Tribe Elder
+1x Phyrexian Revoker
+1x Ramunap Excavator
+1x Basri's Lieutenant
+1x Omnath, Locus of Creation
+1x Dragonlord Atarka
+1x Myr Battlesphere
+1x Blightsteel Colossus
+1x Barkchannel Pathway
+1x Riverglide Pathway
+1x Sacred Foundry
+1x Inspiring Vantage
+1x Temple Garden
+1x Razorverge Thicket
+1x Volcanic Island
+1x Arid Mesa
+1x Windswept Heath
+1x Scalding Tarn
+1x Plains
+4x Forest
+1x Oust
+1x Abrade
+1x Once Upon a Time
+1x Eladamri's Call
+1x Orzhov Signet
+1x Boros Signet
+1x Bala Ged Recovery
+1x Elspeth, Knight-Errant
+1x Gideon, Ally of Zendikar
+1x Garruk Wildspeaker
+1x Nahiri, the Harbinger
+1x Through the Breach
+1x Elspeth, Sun's Champion
+Sideboard
+1x Duress
+1x Kytheon, Hero of Akros
+1x Lurrus of the Dream-Den
+1x Soulherder
+1x Deceiver Exarch
+1x Tinker
+1x Natural Order
+1x Grief
+1x Restoration Angel
+
+25.4.
+0-3
+W,U,R,G
+Mid

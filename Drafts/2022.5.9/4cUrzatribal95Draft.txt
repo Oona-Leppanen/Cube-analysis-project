@@ -1,0 +1,54 @@
+1x Emry, Lurker of the Loch
+1x Urza, Lord High Artificer
+1x Wurmcoil Engine
+1x Ulamog, the Infinite Gyre
+1x Blightsteel Colossus
+1x Urza's Bauble
+1x Chrome Mox
+1x Hengegate Pathway
+1x Tundra
+1x Scrubland
+1x Fiery Islet
+1x Raugrin Triome
+1x Savai Triome
+1x Marsh Flats
+2x Arid Mesa
+1x Scalding Tarn
+1x Strip Mine
+1x Urza's Saga
+2x Plains
+1x Island
+1x Swamp
+1x Mountain
+1x Unholy Heat
+1x Chromatic Sphere
+1x Balance
+1x Rip Apart
+1x Selesnya Signet
+1x Orzhov Signet
+1x Grim Monolith
+1x Lingering Souls
+1x Council's Judgment
+1x Show and Tell
+1x Tinker
+1x Toxic Deluge
+1x Vindicate
+1x Gideon, Ally of Zendikar
+1x Sneak Attack
+1x Coercive Portal
+Sideboard
+1x Overgrown Tomb
+1x Lotus Petal
+1x Malakir Rebirth
+1x Goblin Bombardment
+1x Selfless Spirit
+1x Daretti, Scrap Savant
+1x Yawgmoth, Thran Physician
+1x Armageddon
+1x Wrath of God
+1x Luminous Broodmoth
+
+9.5.
+0-3
+W,U,B,R
+Mid,Com

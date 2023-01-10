@@ -1,0 +1,56 @@
+1x Hangarback Walker
+1x Ragavan, Nimble Pilferer
+1x Phantasmal Image
+1x Baleful Strix
+1x Seasoned Pyromancer
+1x Laelia, the Blade Reforged
+1x Fable of the Mirror-Breaker
+1x Venser, Shaper Savant
+1x The Scarab God
+1x Archon of Cruelty
+1x Triplicate Titan
+1x Hall of Storm Giants
+1x Clearwater Pathway
+1x Riverglide Pathway
+1x Watery Grave
+1x Underground Sea
+1x Blackcleave Cliffs
+1x Fabled Passage
+1x Island
+3x Swamp
+6x Mountain
+1x Bone Shards
+1x Fatal Push
+1x Reanimate
+1x Unholy Heat
+1x Animate Dead
+1x Unmarked Grave
+1x Expressive Iteration
+1x Liliana of the Veil
+1x Recurring Nightmare
+1x Dack Fayden
+1x Chandra, Torch of Defiance
+1x Time Warp
+Sideboard
+1x Spell Pierce
+1x Lightning Greaves
+1x Winter Orb
+1x Thing in the Ice
+1x Memory Lapse
+1x Maelstrom Pulse
+1x Leovold, Emissary of Trest
+1x Lutri, the Spellchaser
+1x Ashiok, Nightmare Weaver
+1x Light Up the Stage
+1x Midnight Reaper
+1x Sedgemoor Witch
+1x Rotting Regisaur
+1x Narset, Parter of Veils
+1x Memory Deluge
+1x Fact or Fiction
+1x Emeria's Call
+
+2.4.
+2-1
+U,B,R
+Mid,Com

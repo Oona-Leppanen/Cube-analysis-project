@@ -1,0 +1,55 @@
+1x Monastery Swiftspear
+1x Falkenrath Pit Fighter
+1x Zurgo Bellstriker
+1x Luminarch Aspirant
+1x Seasoned Hallowblade
+1x Selfless Spirit
+1x Thalia's Lieutenant
+1x Kari Zev, Skyship Raider
+1x Bloodthirsty Adversary
+1x Embereth Shieldbreaker
+1x Adeline, Resplendent Cathar
+1x Skyclave Apparition
+1x Monastery Mentor
+1x Hanweir Garrison
+1x Basri's Lieutenant
+1x Karakas
+1x Cave of the Frost Dragon
+1x Inspiring Vantage
+1x Arid Mesa
+6x Mountain
+5x Plains
+1x Mana Tithe
+1x Portable Hole
+1x Spikefield Hazard
+1x Eater of Virtue
+1x Abrade
+1x Lightning Helix
+1x Maul of the Skyclaves
+1x Wheel of Fortune
+1x Elspeth, Knight-Errant
+1x Showdown of the Skalds
+Sideboard
+1x Thespian's Stage
+1x Temple Garden
+1x Pyrite Spellbomb
+1x Dimir Signet
+1x Boros Signet
+1x Rip Apart
+1x Oath of Druids
+1x Persist
+1x Crucible of Worlds
+1x Vindicate
+1x Necromancy
+1x Force of Negation
+1x Heliod, Sun-Crowned
+1x Nahiri, the Harbinger
+1x Murderous Redcap
+1x Wrath of God
+1x Memory Jar
+1x Ancient Stone Idol
+
+2.4.
+1-2
+W,R
+Agg

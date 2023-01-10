@@ -1,0 +1,52 @@
+1x Stonecoil Serpent
+1x Fyndhorn Elves
+1x Cemetery Gatekeeper
+1x Tarmogoyf
+1x Outland Liberator
+1x Fauna Shaman
+1x Bonecrusher Giant
+1x Augur of Autumn
+1x Reclamation Sage
+1x Briarbridge Tracker
+1x Toski, Bearer of Secrets
+1x Glorybringer
+1x Zealous Conscripts
+1x Primeval Titan
+1x Dragonlord Atarka
+1x Ulamog, the Ceaseless Hunger
+1x Den of the Bugbear
+1x Cragcrown Pathway
+1x Stomping Ground
+1x Mutavault
+2x Wooded Foothills
+2x Mountain
+7x Forest
+1x Skullclamp
+1x Sensei's Divining Top
+1x Eater of Virtue
+1x Abrade
+1x Shatterskull Smashing
+1x Grafted Wargear
+1x Birthing Pod
+1x Arlinn, the Pack's Hope
+1x Through the Breach
+Sideboard
+1x Maze of Ith
+1x Needleverge Pathway
+1x Traverse the Ulvenwald
+1x Falkenrath Pit Fighter
+1x Altar of Dementia
+1x Finale of Devastation
+1x Adanto Vanguard
+1x Basalt Monolith
+1x Spike Feeder
+1x Heliod, Sun-Crowned
+1x Recruiter of the Guard
+1x Falkenrath Aristocrat
+1x Supreme Verdict
+1x Omnath, Locus of Creation
+
+9.5.
+1-2
+R,G
+Agg,Mid

@@ -1,0 +1,53 @@
+1x Dragon's Rage Channeler
+1x Goblin Guide
+1x Sea Gate Stormcaller
+1x Suspicious Stowaway
+1x Robber of the Rich
+1x Cemetery Gatekeeper
+1x Dreadhorde Arcanist
+1x Brazen Borrower
+1x Goblin Rabblemaster
+1x Hazoret the Fervent
+1x Glorybringer
+1x Riverglide Pathway
+1x Tundra
+1x Volcanic Island
+1x Steam Vents
+1x Flooded Strand
+1x Scalding Tarn
+1x Misty Rainforest
+1x Bloodstained Mire
+1x Wasteland
+4x Island
+3x Mountain
+1x Ponder
+1x Spell Pierce
+1x Preordain
+1x Flame Slash
+1x Strangle
+1x Remand
+1x Mana Leak
+1x Abrade
+1x Reckless Impulse
+1x Expressive Iteration
+1x Rift Bolt
+1x Chandra, Acolyte of Flame
+1x Cryptic Command
+Sideboard
+1x Dark Depths
+1x Indatha Triome
+1x Mox Diamond
+1x Exploration
+1x Dread Wanderer
+1x Growth Spiral
+1x Rip Apart
+1x Melira, Sylvok Outcast
+1x Metalworker
+1x Crucible of Worlds
+1x Cogwork Librarian
+1x Yorion, Sky Nomad
+
+23.5.
+1-1-1, Draft 2
+U,R
+Agg,Con

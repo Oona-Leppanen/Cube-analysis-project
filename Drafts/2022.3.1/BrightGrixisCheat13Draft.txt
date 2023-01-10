@@ -1,0 +1,58 @@
+1x Phantasmal Image
+1x Priest of Fell Rites
+1x Deceiver Exarch
+1x Seasoned Pyromancer
+1x Zealous Conscripts
+1x Kiki-Jiki, Mirror Breaker
+1x Inferno Titan
+1x Wurmcoil Engine
+1x Dragonlord Atarka
+1x Blightsteel Colossus
+1x Clearwater Pathway
+1x Riverglide Pathway
+1x Volcanic Island
+1x Wasteland
+1x Strip Mine
+1x Flooded Strand
+1x Arid Mesa
+1x Polluted Delta
+1x Bloodstained Mire
+1x Plains
+2x Island
+3x Swamp
+2x Mountain
+1x Gitaxian Probe
+1x Entomb
+1x Imperial Seal
+1x Izzet Charm
+1x Boros Signet
+1x Rakdos Signet
+1x Narset, Parter of Veils
+1x Recurring Nightmare
+1x Dack Fayden
+1x Crucible of Worlds
+1x Splinter Twin
+1x Sneak Attack
+1x Through the Breach
+Sideboard
+1x Everflowing Chalice
+1x Tectonic Edge
+1x Tarfire
+1x Carrion Feeder
+1x Monastery Swiftspear
+1x Lightning Greaves
+1x Eladamri's Call
+1x Memory Lapse
+1x Vizier of Remedies
+1x Young Pyromancer
+1x Bloodthirsty Adversary
+1x Spike Feeder
+1x Jace, Wielder of Mysteries
+1x Opposition
+1x Upheaval
+1x Karn Liberated
+
+1.3.
+1-2
+W,U,B,R
+Mid,Com

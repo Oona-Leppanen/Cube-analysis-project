@@ -1,0 +1,54 @@
+1x Joraga Treespeaker
+1x Arbor Elf
+1x Ignoble Hierarch
+1x Elvish Reclaimer
+1x Sylvan Caryatid
+1x Vampire Hexmage
+1x Dauthi Voidwalker
+1x Hydroid Krasis
+1x Eternal Witness
+1x Leovold, Emissary of Trest
+1x The Gitrog Monster
+1x Tovolar's Huntmaster
+1x Darkbore Pathway
+1x Horizon Canopy
+1x Tropical Island
+1x Bayou
+1x Indatha Triome
+1x Ketria Triome
+1x Windswept Heath
+1x Scalding Tarn
+1x Fabled Passage
+1x Thespian's Stage
+1x Dark Depths
+2x Swamp
+2x Island
+2x Forest
+1x Sleight of Hand
+1x Crop Rotation
+1x Worldly Tutor
+1x Mind Twist
+1x Once Upon a Time
+1x Golgari Signet
+1x Mind Stone
+1x Coalition Relic
+1x Opposition
+1x Garruk Wildspeaker
+1x Upheaval
+Sideboard
+1x Godless Shrine
+1x Exploration
+1x Oust
+1x Gravecrawler
+1x Goblin Guide
+1x Life from the Loam
+1x Life // Death
+1x Metalworker
+1x Hero of Bladehold
+1x Craterhoof Behemoth
+1x Emrakul, the Aeons Torn
+
+9.5.
+3-0
+U,B,G
+Mid,Com

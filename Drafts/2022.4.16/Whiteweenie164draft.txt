@@ -1,0 +1,53 @@
+1x Dragon Hunter
+1x Student of Warfare
+1x Giver of Runes
+1x Usher of the Fallen
+1x Thalia's Lieutenant
+1x Intrepid Adversary
+1x Seasoned Hallowblade
+1x Dark Confidant
+1x Monastery Mentor
+1x Blade Splicer
+1x Ranger-Captain of Eos
+1x Adeline, Resplendent Cathar
+1x Skyclave Apparition
+1x Yorion, Sky Nomad
+1x Mox Diamond
+1x Needleverge Pathway
+1x Scrubland
+1x Wasteland
+1x Mutavault
+1x Urza's Saga
+1x Rishadan Port
+3x Swamp
+9x Plains
+1x Swords to Plowshares
+1x Path to Exile
+1x Legion's Landing
+1x Pyrite Spellbomb
+1x Eater of Virtue
+1x Parallax Wave
+1x Armageddon
+Sideboard
+1x Ancient Tomb
+1x Avacyn's Pilgrim
+1x Boros Signet
+1x Dimir Signet
+1x Grim Monolith
+1x Lotus Cobra
+1x Goblin Engineer
+1x Infernal Grasp
+1x Crucible of Worlds
+1x Ashiok, Nightmare Weaver
+1x Tireless Tracker
+1x Wheel of Fortune
+1x Reckless Stormseeker
+1x Agadeem's Awakening
+1x Thran Dynamo
+1x Daretti, Scrap Savant
+1x Karmic Guide
+
+16.4.
+1-1-1
+W
+Agg
