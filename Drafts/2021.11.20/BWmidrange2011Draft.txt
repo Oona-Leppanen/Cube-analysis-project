@@ -1,0 +1,55 @@
+1x Thraben Inspector
+1x Dragon Hunter
+1x Champion of the Parish
+1x Usher of the Fallen
+1x Luminarch Aspirant
+1x Adeline, Resplendent Cathar
+1x Flickerwisp
+1x Blade Splicer
+1x Hero of Bladehold
+1x Shambling Vent
+1x Evolving Wilds
+7x Plains
+6x Swamp
+1x Swords to Plowshares
+1x Legion's Landing
+1x Inquisition of Kozilek
+1x Bone Shards
+1x Reanimate
+1x Bonesplitter
+1x Damn
+1x Demonic Tutor
+1x Lingering Souls
+1x History of Benalia
+1x Liliana, the Last Hope
+1x Armageddon
+1x Baleful Mastery
+1x Karn, Scion of Urza
+1x Emeria's Call
+1x Castle Ardenvale
+Sideboard
+1x Celestial Colonnade
+1x Stomping Ground
+1x Gavony Township
+1x Needleverge Pathway
+1x Carrion Feeder
+1x Dread Wanderer
+1x Brainstorm
+1x Priest of Fell Rites
+1x Persist
+1x Sea Gate Stormcaller
+1x Worn Powerstone
+1x Teferi, Time Raveler
+1x Midnight Reaper
+1x Lodestone Golem
+1x Supreme Verdict
+1x Gilded Lotus
+1x Kenrith, the Returned King
+1x Doomskar
+1x Nicol Bolas, Planeswalker
+1x Lightning Helix
+
+20.11.2021
+1-1-1
+W,B
+Agg,Mid

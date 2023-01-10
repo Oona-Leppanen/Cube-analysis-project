@@ -1,0 +1,55 @@
+1x Goblin Welder
+1x Glasspool Mimic
+1x Imperial Recruiter
+1x Metalworker
+1x Phyrexian Metamorph
+1x Glen Elendra Archmage
+1x Solemn Simulacrum
+1x Sphinx of the Steel Wind
+1x Phyrexian Triniform
+1x Ulamog, the Infinite Gyre
+1x Hengegate Pathway
+1x Mystic Sanctuary
+1x Shelldock Isle
+1x Great Furnace
+1x Hallowed Fountain
+1x Sacred Foundry
+1x Steam Vents
+1x Volcanic Island
+1x Scalding Tarn
+1x Ash Barrens
+2x Island
+2x Mountain
+1x Plains
+1x Enlightened Tutor
+1x Balance
+1x Chart a Course
+1x Boros Signet
+1x Dimir Signet
+1x Azorius Signet
+1x Tinker
+1x Dack Fayden
+1x Coalition Relic
+1x Chromatic Lantern
+1x Sneak Attack
+1x Daretti, Scrap Savant
+1x Mystic Confluence
+1x Through the Breach
+1x Wildfire
+Sideboard
+1x Taiga
+1x Botanical Sanctum
+1x Bayou
+1x Unholy Heat
+1x Phyrexian Revoker
+1x Remand
+1x Selfless Spirit
+1x Falkenrath Aristocrat
+1x Magus of the Order
+1x Fires of Invention
+1x Parallax Wave
+
+20.11.2021
+2-1
+W,U,R
+Con,Com

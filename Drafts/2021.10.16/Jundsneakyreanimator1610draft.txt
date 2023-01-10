@@ -1,0 +1,55 @@
+1x Putrid Imp
+1x Arbor Elf
+1x Elvish Mystic
+1x Scavenging Ooze
+1x Wall of Roots
+1x Ornithopter of Paradise
+1x Rotting Regisaur
+1x Ophiomancer
+1x Thragtusk
+1x Griselbrand
+1x Hornet Queen
+1x Woodfall Primus
+1x Kozilek, Butcher of Truth
+1x Sphinx of the Steel Wind
+1x Bayou
+1x Overgrown Tomb
+1x Copperline Gorge
+1x Stomping Ground
+1x Mountain
+5x Forest
+5x Swamp
+1x Faithless Looting
+1x Unmarked Grave
+1x Shallow Grave
+1x Animate Dead
+1x Exhume
+1x Survival of the Fittest
+1x Corpse Dance
+1x Necromancy
+1x Liliana of the Veil
+1x Recurring Nightmare
+1x Sneak Attack
+Sideboard
+1x Darksteel Citadel
+1x Carrion Feeder
+1x Hard Evidence
+1x Mother of Runes
+1x Phyrexian Revoker
+1x Eladamri's Call
+1x Voracious Hydra
+1x Outland Liberator
+1x Sword of Fire and Ice
+1x Tireless Tracker
+1x Xathrid Necromancer
+1x Magus of the Order
+1x The Scarab God
+1x Escape to the Wilds
+1x Tasigur, the Golden Fang
+1x Ulamog, the Infinite Gyre
+1x Myr Battlesphere
+
+16.10.2021
+1-2
+B,R,G
+Mid,Com

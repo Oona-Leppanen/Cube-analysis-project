@@ -1,0 +1,53 @@
+1x Ragavan, Nimble Pilferer
+1x Elvish Reclaimer
+1x Llanowar Elves
+1x Ignoble Hierarch
+1x Adanto Vanguard
+1x Outland Liberator
+1x Sakura-Tribe Elder
+1x Laelia, the Blade Reforged
+1x Dryad of the Ilysian Grove
+1x Augur of Autumn
+1x Reclamation Sage
+1x Pia and Kiran Nalaar
+1x Magus of the Order
+1x Questing Beast
+1x Primeval Titan
+1x Plateau
+1x Needleverge Pathway
+1x Sacred Foundry
+1x Golgari Rot Farm
+1x Blooming Marsh
+1x Field of the Dead
+1x Rishadan Port
+1x Wasteland
+1x Arid Mesa
+1x Misty Rainforest
+1x Scalding Tarn
+4x Forest
+1x Mountain
+1x Traverse the Ulvenwald
+1x Sensei's Divining Top
+1x Once Upon a Time
+1x Wrenn and Six
+1x Assassin's Trophy
+1x Crucible of Worlds
+1x Garruk Relentless
+1x Esika's Chariot
+1x Garruk Wildspeaker
+Sideboard
+1x Needle Spires
+1x Hive of the Eye Tyrant
+1x Carrion Feeder
+1x Dauthi Voidwalker
+1x Bloodghast
+1x Jadar, Ghoulcaller of Nephalia
+1x Kolaghan's Command
+1x Armageddon
+1x Natural Order
+1x Emeria's Call
+
+11.12.2021
+0-2-1
+R,G
+Mid,Ram

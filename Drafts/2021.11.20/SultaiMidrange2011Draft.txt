@@ -1,0 +1,55 @@
+1x Joraga Treespeaker
+1x Gilded Goose
+1x Ignoble Hierarch
+1x Elvish Mystic
+1x Noble Hierarch
+1x Phantasmal Image
+1x Tireless Tracker
+1x Thief of Sanity
+1x Rankle, Master of Pranks
+1x Hostage Taker
+1x Consecrated Sphinx
+1x Primeval Titan
+1x Urza's Saga
+1x Barkchannel Pathway
+1x Tundra
+1x Creeping Tar Pit
+1x Breeding Pool
+1x Overgrown Tomb
+1x Fabled Passage
+1x Prismatic Vista
+1x Marsh Flats
+2x Swamp
+4x Forest
+1x Island
+1x Skullclamp
+1x Hymn to Tourach
+1x Once Upon a Time
+1x Grim Monolith
+1x Toxic Deluge
+1x Liliana of the Veil
+1x Ashiok, Nightmare Weaver
+1x Grist, the Hunger Tide
+1x Agadeem's Awakening
+1x Opposition
+1x Coercive Portal
+1x Time Warp
+Sideboard
+1x Plateau
+1x Dragon's Rage Channeler
+1x Chain Lightning
+1x Falkenrath Gorger
+1x Eidolon of the Great Revel
+1x Animate Dead
+1x Cabal Initiate
+1x Grafted Wargear
+1x Seasoned Pyromancer
+1x Xathrid Necromancer
+1x Trinket Mage
+1x Porcelain Legionnaire
+1x Escape to the Wilds
+
+20.11.2021
+1-1-1
+U,B,G
+Mid

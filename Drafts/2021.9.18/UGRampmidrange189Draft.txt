@@ -1,0 +1,57 @@
+1x Stonecoil Serpent
+1x Gilded Goose
+1x Phantasmal Image
+1x Sakura-Tribe Elder
+1x Vendilion Clique
+1x Springbloom Druid
+1x Dryad of the Ilysian Grove
+1x Nissa, Vastwood Seer
+1x Shardless Agent
+1x Venser, Shaper Savant
+1x Questing Beast
+1x Riftwing Cloudskate
+1x Consecrated Sphinx
+1x Woodfall Primus
+1x Lumbering Falls
+1x Gaea's Cradle
+1x Shelldock Isle
+1x Tropical Island
+1x Breeding Pool
+1x Misty Rainforest
+5x Island
+4x Forest
+1x Gitaxian Probe
+1x Opt
+1x Abundant Harvest
+1x Daze
+1x Lose Focus
+1x Simic Signet
+1x Force of Negation
+1x Primal Command
+1x Treasure Cruise
+1x Tooth and Nail
+1x Thing in the Ice
+Sideboard
+1x Blooming Marsh
+1x Clearwater Pathway
+1x Spirebluff Canal
+1x Thespian's Stage
+1x Island
+1x Green Sun's Zenith
+1x Carrion Feeder
+1x Mizzium Mortars
+1x Ancient Grudge
+1x Baral, Chief of Compliance
+1x Tourach, Dread Cantor
+1x Chromatic Lantern
+1x Pestermite
+1x Natural Order
+1x Xenagos, the Reveler
+1x Casualties of War
+1x Sea Gate Stormcaller
+1x Sea Gate Restoration
+
+18.9.2021
+2-1
+U,G
+Mid,Ram

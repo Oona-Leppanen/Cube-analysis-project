@@ -1,0 +1,56 @@
+1x Avacyn's Pilgrim
+1x Thing in the Ice
+1x Jace, Vryn's Prodigy
+1x Sakura-Tribe Elder
+1x Hydroid Krasis
+1x Thalia, Heretic Cathar
+1x Monastery Mentor
+1x Vendilion Clique
+1x Shardless Agent
+1x Leovold, Emissary of Trest
+1x Questing Beast
+1x Thragtusk
+1x Engineered Explosives
+1x Clearwater Pathway
+1x Tropical Island
+1x Zagoth Triome
+4x Plains
+2x Swamp
+3x Island
+4x Forest
+1x Path to Exile
+1x Consider
+1x Ponder
+1x Cabal Therapy
+1x Fatal Push
+1x Fateful Absence
+1x Vanishing Verse
+1x Jace, the Mind Sculptor
+1x Fact or Fiction
+1x Force of Will
+1x Primal Command
+1x Dig Through Time
+Sideboard
+1x Maze of Ith
+1x Phyrexian Tower
+1x Secluded Steppe
+1x Lotus Petal
+1x Chromatic Star
+1x Baleful Strix
+1x Dark Confidant
+1x Skyclave Shade
+1x Sedgemoor Witch
+1x Prime Speaker Vannifar
+1x Natural Order
+1x Yawgmoth, Thran Physician
+1x Batterskull
+1x Memory Jar
+1x Cavalier of Gales
+1x Ethereal Forager
+1x Torrential Gearhulk
+1x Ugin, the Spirit Dragon
+
+20.11.2021
+1-1-1
+W,U,B,G
+Mid

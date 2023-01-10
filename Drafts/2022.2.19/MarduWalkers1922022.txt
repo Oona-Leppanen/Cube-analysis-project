@@ -1,0 +1,58 @@
+1x Thraben Inspector
+1x Cathar Commando
+1x Selfless Spirit
+1x Hanweir Garrison
+1x Basri's Lieutenant
+1x Pia and Kiran Nalaar
+1x Blightstep Pathway
+1x Den of the Bugbear
+1x Concealed Courtyard
+1x Sacred Foundry
+1x Blackcleave Cliffs
+1x Marsh Flats
+1x Bloodstained Mire
+4x Plains
+2x Mountain
+3x Swamp
+1x Path to Exile
+1x Imperial Seal
+1x Duress
+1x Fateful Absence
+1x Damn
+1x Searing Spear
+1x Rip Apart
+1x Rakdos Signet
+1x Lingering Souls
+1x Council's Judgment
+1x Daretti, Ingenious Iconoclast
+1x Vindicate
+1x Elspeth, Knight-Errant
+1x Day of Judgment
+1x Nahiri, the Harbinger
+1x Karn, Scion of Urza
+1x Approach of the Second Sun
+1x Emeria's Call
+Sideboard
+1x Mox Diamond
+1x Figure of Destiny
+1x Goblin Guide
+1x Bone Shards
+1x Dark Ritual
+1x Gutterbones
+1x Knight of the Ebon Legion
+1x Giver of Runes
+1x Dragon Hunter
+1x Eidolon of the Great Revel
+1x Adanto Vanguard
+1x Lurrus of the Dream-Den
+1x Spike Feeder
+1x Dryad of the Ilysian Grove
+1x Sulfuric Vortex
+1x Feldon of the Third Path
+1x Agadeem's Awakening
+1x Damnation
+
+19.2.
+0-2-1
+W,B,R
+Con

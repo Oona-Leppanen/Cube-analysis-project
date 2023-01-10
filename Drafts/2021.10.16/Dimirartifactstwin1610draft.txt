@@ -1,0 +1,56 @@
+1x Deathrite Shaman
+1x Pestermite
+1x Deceiver Exarch
+1x Emry, Lurker of the Loch
+1x Metalworker
+1x Urza, Lord High Artificer
+1x Kiki-Jiki, Mirror Breaker
+1x Torrential Gearhulk
+1x Tolarian Academy
+1x Watery Grave
+1x Verdant Catacombs
+1x Flooded Strand
+1x Steam Vents
+1x Ash Barrens
+1x Maze of Ith
+3x Mountain
+3x Swamp
+5x Island
+1x Brainstorm
+1x Inquisition of Kozilek
+1x Sensei's Divining Top
+1x Miscalculation
+1x Demonic Tutor
+1x Winter Orb
+1x Grim Monolith
+1x Boros Signet
+1x Coalition Relic
+1x Snuff Out
+1x Splinter Twin
+1x Gilded Lotus
+1x Mindslaver
+1x Dig Through Time
+Sideboard
+1x Thespian's Stage
+1x Tranquil Thicket
+1x Phyrexian Tower
+1x Dragon's Rage Channeler
+1x Bone Shards
+1x Collective Brutality
+1x Hymn to Tourach
+1x Daze
+1x Memory Lapse
+1x Thief of Sanity
+1x Liliana, the Last Hope
+1x Hullbreacher
+1x Flickerwisp
+1x Karn, Scion of Urza
+1x Daretti, Scrap Savant
+1x Fact or Fiction
+1x Riftwing Cloudskate
+1x Ugin, the Spirit Dragon
+
+16.10.2021
+1-2
+U,B
+Con,Com

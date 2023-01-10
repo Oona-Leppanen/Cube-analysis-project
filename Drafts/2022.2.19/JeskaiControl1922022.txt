@@ -1,0 +1,58 @@
+1x Esper Sentinel
+1x Dragon's Rage Channeler
+1x Thing in the Ice
+1x Monastery Mentor
+1x Skyclave Apparition
+1x Palace Jailer
+1x Solitude
+1x Glorybringer
+1x Fury
+1x Urza's Bauble
+1x Needleverge Pathway
+1x Karakas
+1x Plateau
+1x Steam Vents
+1x Maze of Ith
+2x Plains
+3x Mountain
+6x Island
+1x Opt
+1x Lightning Bolt
+1x Tarfire
+1x Mana Leak
+1x Lose Focus
+1x Shatterskull Smashing
+1x Lightning Strike
+1x Lightning Helix
+1x Narset, Parter of Veils
+1x Force of Negation
+1x Memory Deluge
+1x Chandra, Torch of Defiance
+1x Fiery Confluence
+1x Teferi, Hero of Dominaria
+Sideboard
+1x Temple Garden
+1x Dark Depths
+1x Stonecoil Serpent
+1x Walking Ballista
+1x Usher of the Fallen
+1x Finale of Devastation
+1x Skyclave Shade
+1x Soulherder
+1x Mayhem Devil
+1x Maelstrom Pulse
+1x Knight of Autumn
+1x Knight of the Reliquary
+1x Lutri, the Spellchaser
+1x Legion Warboss
+1x Chandra, Acolyte of Flame
+1x Bloodbraid Elf
+1x Showdown of the Skalds
+1x Hellrider
+1x Archangel Avacyn
+1x Dig Through Time
+
+19.2.
+2-1
+W,U,R
+Con

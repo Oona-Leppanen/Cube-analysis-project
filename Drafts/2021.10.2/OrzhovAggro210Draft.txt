@@ -1,0 +1,59 @@
+1x Hangarback Walker
+1x Thraben Inspector
+1x Giver of Runes
+1x Usher of the Fallen
+1x Sungold Sentinel
+1x Thalia, Guardian of Thraben
+1x Stoneforge Mystic
+1x Seasoned Hallowblade
+1x Dark Confidant
+1x Priest of Forgotten Gods
+1x Blade Splicer
+1x Thalia, Heretic Cathar
+1x Flickerwisp
+1x Xathrid Necromancer
+1x Murderous Rider
+1x Kitchen Finks
+1x Palace Jailer
+1x Reveillark
+1x Arid Mesa
+1x Fabled Passage
+1x Cave of the Frost Dragon
+1x Scrubland
+1x Shambling Vent
+1x Savai Triome
+1x Strip Mine
+1x Urza's Saga
+3x Swamp
+5x Plains
+1x Mana Tithe
+1x Skullclamp
+1x Lingering Souls
+1x Gideon, Ally of Zendikar
+1x Ravages of War
+1x Elspeth Conquers Death
+Sideboard
+1x Gavony Township
+1x Great Furnace
+1x Thespian's Stage
+1x Darksteel Citadel
+1x Fastbond
+1x Putrid Imp
+1x Lore Seeker
+1x Outland Liberator
+1x Wall of Omens
+1x Metalworker
+1x Smokestack
+1x Esika's Chariot
+1x Splinter Twin
+1x Kenrith, the Returned King
+1x Grave Titan
+1x Nicol Bolas, Planeswalker
+1x Turntimber Symbiosis
+1x Deep Forest Hermit
+1x Blooming Marsh
+
+2.10.2021
+2-1
+W,B
+Agg

@@ -1,0 +1,56 @@
+1x Champion of the Parish
+1x Dauntless Bodyguard
+1x Intrepid Adversary
+1x Containment Priest
+1x Anafenza, Kin-Tree Spirit
+1x Jace, Vryn's Prodigy
+1x Phantasmal Image
+1x Blade Splicer
+1x Flickerwisp
+1x Adeline, Resplendent Cathar
+1x Vendilion Clique
+1x Timeless Dragon
+1x Mishra's Bauble
+1x Hall of Storm Giants
+1x Cave of the Frost Dragon
+1x Celestial Colonnade
+1x Mutavault
+1x Flooded Strand
+6x Plains
+5x Island
+1x Gitaxian Probe
+1x Preordain
+1x Ponder
+1x Unexpectedly Absent
+1x Daze
+1x Censor
+1x Maul of the Skyclaves
+1x Gideon, Ally of Zendikar
+1x Parallax Wave
+1x Supreme Verdict
+1x Time Warp
+Sideboard
+1x Razorverge Thicket
+1x Branchloft Pathway
+1x Ephemerate
+1x Azorius Signet
+1x Scavenging Ooze
+1x Tainted Pact
+1x Thalia, Guardian of Thraben
+1x Vizier of Remedies
+1x Basalt Monolith
+1x Bala Ged Recovery
+1x Deceiver Exarch
+1x Heliod, Sun-Crowned
+1x Opposition
+1x Wrath of God
+1x Kenrith, the Returned King
+1x Reveillark
+1x Mindslaver
+1x Alrund's Epiphany
+1x Elesh Norn, Grand Cenobite
+
+19.2.
+0-2-1
+W,U
+Agg,Con

@@ -1,0 +1,57 @@
+1x Tithe Taker
+1x Snapcaster Mage
+1x Skyclave Apparition
+1x Lurrus of the Dream-Den
+1x Thief of Sanity
+1x Kitchen Finks
+1x Solitude
+1x Iona, Shield of Emeria
+1x Terastodon
+1x Myr Battlesphere
+1x Watery Grave
+1x Darkslick Shores
+1x Tundra
+1x Celestial Colonnade
+1x Shambling Vent
+1x Temple of Silence
+1x Concealed Courtyard
+1x Raugrin Triome
+1x Maze of Ith
+1x Marsh Flats
+2x Plains
+1x Island
+4x Swamp
+1x Swords to Plowshares
+1x Ponder
+1x Entomb
+1x Dark Ritual
+1x Reanimate
+1x Unmarked Grave
+1x Animate Dead
+1x Exhume
+1x Necromancy
+1x Recurring Nightmare
+1x Vindicate
+1x Faith's Fetters
+1x Looter il-Kor
+Sideboard
+1x Temple of Malady
+1x Plateau
+1x Mana Tithe
+1x Pest Infestation
+1x Negate
+1x Manamorphose
+1x Selesnya Signet
+1x Golgari Signet
+1x Elite Spellbinder
+1x Maelstrom Pulse
+1x Dack Fayden
+1x Grist, the Hunger Tide
+1x Supreme Verdict
+1x Deep Forest Hermit
+1x The Scarab God
+
+18.9.2021
+3-0
+W,U,B
+Con,Com

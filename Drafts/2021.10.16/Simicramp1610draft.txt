@@ -1,0 +1,53 @@
+1x Dryad Arbor
+1x Stonecoil Serpent
+1x Joraga Treespeaker
+1x Noble Hierarch
+1x Lotus Cobra
+1x Sakura-Tribe Elder
+1x Vendilion Clique
+1x Reclamation Sage
+1x Courser of Kruphix
+1x Primeval Titan
+1x Wurmcoil Engine
+1x Simic Growth Chamber
+1x Breeding Pool
+1x Botanical Sanctum
+1x Strip Mine
+5x Forest
+5x Island
+1x Abundant Harvest
+1x Lose Focus
+1x Sylvan Library
+1x Edge of Autumn
+1x Gruul Signet
+1x Worn Powerstone
+1x Cryptic Command
+1x Garruk Wildspeaker
+1x Esika's Chariot
+1x Treachery
+1x Time Spiral
+1x Alrund's Epiphany
+1x Turntimber Symbiosis
+Sideboard
+1x Underground Sea
+1x Darkbore Pathway
+1x Jack-o'-Lantern
+1x Vampiric Tutor
+1x Knight of the Ebon Legion
+1x Enlightened Tutor
+1x Rip Apart
+1x Skyclave Shade
+1x Bloodghast
+1x Knight of the Reliquary
+1x Agadeem's Awakening
+1x Cogwork Librarian
+1x Hostage Taker
+1x Natural Order
+1x Baleful Mastery
+1x Bring to Light
+1x Upheaval
+
+16.10.2021
+1-1-1
+U,G
+Mid, Ram

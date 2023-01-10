@@ -1,0 +1,57 @@
+1x Hangarback Walker
+1x Putrid Imp
+1x Suspicious Stowaway
+1x Dauthi Voidwalker
+1x Baleful Strix
+1x Glasspool Mimic
+1x Midnight Reaper
+1x Murderous Rider
+1x Thief of Sanity
+1x Rankle, Master of Pranks
+1x Ravenous Chupacabra
+1x Hullbreaker Horror
+1x Griselbrand
+1x Woodfall Primus
+1x Myr Battlesphere
+1x Shelldock Isle
+1x Hive of the Eye Tyrant
+1x Polluted Delta
+5x Island
+8x Swamp
+1x Occult Epiphany
+1x Bloodchief's Thirst
+1x Entomb
+1x Counterspell
+1x Exhume
+1x Infernal Grasp
+1x Animate Dead
+1x Smuggler's Copter
+1x Snuff Out
+Sideboard
+1x Rishadan Port
+1x Tranquil Thicket
+1x Engineered Explosives
+1x Dread Wanderer
+1x Necrogen Spellbomb
+1x Chromatic Star
+1x Deathrite Shaman
+1x Falkenrath Gorger
+1x Grim Lavamancer
+1x Viscera Seer
+1x Lightning Greaves
+1x Assassin's Trophy
+1x Oath of Druids
+1x Bloodthirsty Adversary
+1x Bloodghast
+1x Thassa's Oracle
+1x Sword of Fire and Ice
+1x Teferi, Time Raveler
+1x Leovold, Emissary of Trest
+1x Bonecrusher Giant
+1x Murderous Redcap
+1x Hero of Bladehold
+
+19.2.
+1-2
+U,B,R
+Mid,Com

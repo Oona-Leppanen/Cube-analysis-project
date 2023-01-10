@@ -1,0 +1,52 @@
+1x Stonecoil Serpent
+1x Soul-Scar Mage
+1x Suspicious Stowaway
+1x Legion Warboss
+1x Cavalier of Gales
+1x Wurmcoil Engine
+1x Sundering Titan
+1x Phyrexian Triniform
+1x Mishra's Bauble
+1x Urza's Saga
+1x Chrome Mox
+7x Island
+6x Mountain
+1x Sleight of Hand
+1x Miscalculation
+1x Searing Spear
+1x Lightning Strike
+1x Dimir Signet
+1x Azorius Signet
+1x Mind Stone
+1x Show and Tell
+1x Valakut Awakening
+1x Jace, the Mind Sculptor
+1x Chandra, Torch of Defiance
+1x Karn, Scion of Urza
+1x Through the Breach
+1x Commit // Memory
+1x Karn Liberated
+Sideboard
+1x Savannah
+1x Razorverge Thicket
+1x Inspiring Vantage
+1x Darkbore Pathway
+1x Prismatic Ending
+1x Thraben Inspector
+1x Thing in the Ice
+1x Ashiok, Nightmare Weaver
+1x Shardless Agent
+1x Lutri, the Spellchaser
+1x Maul of the Skyclaves
+1x Showdown of the Skalds
+1x Supreme Verdict
+1x Palace Jailer
+1x Reveillark
+1x Torrential Gearhulk
+1x Ulamog, the Infinite Gyre
+1x Ugin, the Spirit Dragon
+
+11.12.2021
+2-1
+U,R
+Mid,Com

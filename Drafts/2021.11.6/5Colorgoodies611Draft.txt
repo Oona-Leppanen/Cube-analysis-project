@@ -1,0 +1,57 @@
+1x Noble Hierarch
+1x Birds of Paradise
+1x Sylvan Caryatid
+1x Hydroid Krasis
+1x Ornithopter of Paradise
+1x Ramunap Excavator
+1x Dryad of the Ilysian Grove
+1x General Ferrous Rokiric
+1x Omnath, Locus of Creation
+1x Bloodbraid Elf
+1x Golos, Tireless Pilgrim
+1x Plains
+1x Island
+1x Swamp
+1x Mountain
+1x Forest
+1x Savannah
+1x Temple Garden
+1x Darkslick Shores
+1x Watery Grave
+1x Steam Vents
+1x Tropical Island
+1x Taiga
+1x Stomping Ground
+1x Zagoth Triome
+1x Windswept Heath
+1x Wooded Foothills
+1x Bloodstained Mire
+1x Hard Evidence
+1x Flame Slash
+1x Green Sun's Zenith
+1x Abundant Harvest
+1x Eladamri's Call
+1x Expressive Iteration
+1x Growth Spiral
+1x Wrenn and Six
+1x Dack Fayden
+1x Maelstrom Pulse
+1x Coercive Portal
+1x Nicol Bolas, Planeswalker
+1x Ugin, the Spirit Dragon
+Sideboard
+1x Tranquil Thicket
+1x Bomat Courier
+1x Dragon's Rage Channeler
+1x Falkenrath Gorger
+1x Goblin Engineer
+1x Flametongue Yearling
+1x Earthshaker Khenra
+1x Lingering Souls
+1x Memory Jar
+1x Ulamog, the Infinite Gyre
+
+6.11.2021
+2-1
+W,U,B,R,G
+Mid

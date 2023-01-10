@@ -1,0 +1,56 @@
+1x Pack Rat
+1x Urza, Lord High Artificer
+1x Venser, Shaper Savant
+1x Golos, Tireless Pilgrim
+1x Triplicate Titan
+1x Ancient Stone Idol
+1x Urza's Saga
+1x Brightclimb Pathway
+1x Godless Shrine
+1x Watery Grave
+1x Badlands
+1x Polluted Delta
+1x Verdant Catacombs
+1x Misty Rainforest
+1x Bloodstained Mire
+5x Island
+3x Swamp
+1x Brainstorm
+1x Hard Evidence
+1x Vampiric Tutor
+1x Dread Fugue
+1x Retrofitter Foundry
+1x Lotus Petal
+1x Chrome Mox
+1x Dismember
+1x Demonic Tutor
+1x Grim Monolith
+1x Prismatic Lens
+1x Thirst for Knowledge
+1x Tinker
+1x Timetwister
+1x Toxic Deluge
+1x Ashiok, Nightmare Weaver
+1x Kolaghan's Command
+Sideboard
+1x Field of the Dead
+1x Raging Ravine
+1x Tolarian Academy
+1x Zurgo Bellstriker
+1x Goblin Welder
+1x Oona's Prowler
+1x Metalworker
+1x Shardless Agent
+1x Porcelain Legionnaire
+1x Thran Dynamo
+1x Cogwork Librarian
+1x Hazoret the Fervent
+1x Memory Jar
+1x Fireblast
+1x Emrakul, the Aeons Torn
+1x Ulamog, the Infinite Gyre
+
+19.2.
+1-2
+U,B
+Mid,Com

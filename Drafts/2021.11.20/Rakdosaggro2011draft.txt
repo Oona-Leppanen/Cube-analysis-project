@@ -1,0 +1,55 @@
+1x Bloodsoaked Champion
+1x Cryptbreaker
+1x Ragavan, Nimble Pilferer
+1x Goblin Guide
+1x Flametongue Yearling
+1x Robber of the Rich
+1x Kari Zev, Skyship Raider
+1x Goblin Cratermaker
+1x Metallic Mimic
+1x Legion Warboss
+1x Pia and Kiran Nalaar
+1x Zealous Conscripts
+1x Castle Embereth
+1x Blood Crypt
+1x Lavaclaw Reaches
+1x Bloodstained Mire
+7x Mountain
+5x Swamp
+1x Faithless Looting
+1x Light Up the Night
+1x Firebolt
+1x Flame Slash
+1x Infernal Grasp
+1x Collective Brutality
+1x Searing Spear
+1x Sulfuric Vortex
+1x Chandra, Acolyte of Flame
+1x Kolaghan's Command
+1x Daretti, Ingenious Iconoclast
+1x Heirloom Blade
+Sideboard
+1x Misty Rainforest
+1x Copperline Gorge
+1x Concealed Courtyard
+1x Fyndhorn Elves
+1x Knight of the Ebon Legion
+1x Gutterbones
+1x Vampiric Tutor
+1x Dark Ritual
+1x Izzet Charm
+1x Devoted Druid
+1x Dreadhorde Arcanist
+1x Goblin Engineer
+1x Shallow Grave
+1x Priest of Forgotten Gods
+1x Dauthi Voidwalker
+1x Life // Death
+1x Wheel of Fortune
+1x Necromancy
+1x Corpse Dance
+
+20.11.2021
+1-1-1
+B,R
+Agg,Mid

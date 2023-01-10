@@ -1,0 +1,54 @@
+1x Tithe Taker
+1x Wall of Roots
+1x Sylvan Caryatid
+1x Goblin Rabblemaster
+1x Dryad of the Ilysian Grove
+1x General Ferrous Rokiric
+1x Spell Queller
+1x Toski, Bearer of Secrets
+1x Glorybringer
+1x Tovolar's Huntmaster
+1x Island
+1x Forest
+1x Cragcrown Pathway
+1x Seachrome Coast
+1x Inspiring Vantage
+1x Needle Spires
+1x Savannah
+1x Temple Garden
+1x Underground Sea
+1x Badlands
+1x Spirebluff Canal
+1x Thespian's Stage
+1x Dark Depths
+1x Ketria Triome
+1x Raugrin Triome
+1x Windswept Heath
+1x Arid Mesa
+1x Prismatic Ending
+1x Crop Rotation
+1x Expedition Map
+1x Search for Azcanta
+1x Rip Apart
+1x Council's Judgment
+1x Valakut Awakening
+1x Bala Ged Recovery
+1x Gideon, Ally of Zendikar
+1x Nahiri, the Harbinger
+1x Treachery
+1x Elspeth, Sun's Champion
+1x Commit // Memory
+Sideboard
+1x Tectonic Edge
+1x Rishadan Port
+1x Gaea's Cradle
+1x Jack-o'-Lantern
+1x Student of Warfare
+1x Kitchen Finks
+1x Soulherder
+1x Karn Liberated
+
+20.11.2021
+1-2
+W,U,R,G
+Mid,Com

@@ -1,0 +1,55 @@
+1x Hangarback Walker
+1x Thraben Inspector
+1x Stoneforge Mystic
+1x Wall of Omens
+1x Phantasmal Image
+1x Jace, Vryn's Prodigy
+1x Restoration Angel
+1x Glen Elendra Archmage
+1x Golos, Tireless Pilgrim
+1x Cave of the Frost Dragon
+1x Karakas
+1x Shelldock Isle
+1x Tundra
+1x Godless Shrine
+1x Darkslick Shores
+1x Volcanic Island
+1x Wandering Fumarole
+1x Spirebluff Canal
+1x Scalding Tarn
+1x Prismatic Vista
+1x Island
+1x Swamp
+1x Mountain
+2x Plains
+1x Swords to Plowshares
+1x Mana Tithe
+1x Ponder
+1x Counterspell
+1x Lightning Strike
+1x Narset, Parter of Veils
+1x Teferi, Time Raveler
+1x Ashiok, Nightmare Weaver
+1x Kolaghan's Command
+1x Daretti, Ingenious Iconoclast
+1x Vindicate
+1x Wrath of God
+1x Coercive Portal
+1x Teferi, Hero of Dominaria
+1x Batterskull
+Sideboard
+1x Everflowing Chalice
+1x Balance
+1x Recruiter of the Guard
+1x Toski, Bearer of Secrets
+1x Fiery Confluence
+1x Braids, Cabal Minion
+1x Hero of Bladehold
+1x Gideon, Ally of Zendikar
+1x Inferno Titan
+1x Nicol Bolas, Planeswalker
+
+16.10.2021
+2-1
+W,U,B,R
+Con

@@ -1,0 +1,55 @@
+1x Grim Lavamancer
+1x Ragavan, Nimble Pilferer
+1x Falkenrath Pit Fighter
+1x Goblin Cratermaker
+1x Ophiomancer
+1x Yawgmoth, Thran Physician
+1x Rankle, Master of Pranks
+1x Braids, Cabal Minion
+1x Glorybringer
+1x Emrakul, the Aeons Torn
+1x Lavaclaw Reaches
+1x Blood Crypt
+1x Ash Barrens
+1x Ancient Tomb
+6x Mountain
+5x Swamp
+1x Burst Lightning
+1x Light Up the Night
+1x Faithless Looting
+1x Infernal Grasp
+1x Abrade
+1x Shatterskull Smashing
+1x Lightning Strike
+1x Dismember
+1x Liliana of the Veil
+1x Chandra, Acolyte of Flame
+1x Wheel of Fortune
+1x Damnation
+1x Chandra, Torch of Defiance
+1x Through the Breach
+1x Fireblast
+Sideboard
+1x Mishra's Factory
+1x Everflowing Chalice
+1x Lotus Petal
+1x Winter Orb
+1x Liquimetal Torque
+1x Dreadhorde Arcanist
+1x Unexpectedly Absent
+1x Mimic Vat
+1x Sulfuric Vortex
+1x Goblin Rabblemaster
+1x Smokestack
+1x Falkenrath Aristocrat
+1x Hazoret the Fervent
+1x Escape to the Wilds
+1x Carnage Tyrant
+1x Ulamog, the Ceaseless Hunger
+1x Sundering Titan
+1x Karn Liberated
+
+6.11.2021
+1-1-1
+B,R
+Mid,Com

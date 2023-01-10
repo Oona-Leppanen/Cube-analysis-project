@@ -1,0 +1,56 @@
+1x Mother of Runes
+1x Deathrite Shaman
+1x Scavenging Ooze
+1x Elite Spellbinder
+1x Brutal Cathar
+1x Skyclave Apparition
+1x Ophiomancer
+1x Archangel Avacyn
+1x Solitude
+1x Grave Titan
+1x Mishra's Bauble
+1x Brightclimb Pathway
+1x Darkbore Pathway
+1x Scrubland
+1x Godless Shrine
+1x Razorverge Thicket
+1x Blooming Marsh
+1x Indatha Triome
+1x Wasteland
+1x Verdant Catacombs
+2x Swamp
+3x Plains
+3x Forest
+1x Mana Tithe
+1x Gitaxian Probe
+1x Thoughtseize
+1x Duress
+1x Abundant Harvest
+1x Bitterblossom
+1x Assassin's Trophy
+1x Maelstrom Pulse
+1x Wrath of God
+1x Snuff Out
+1x Elspeth Conquers Death
+1x Casualties of War
+Sideboard
+1x Arbor Elf
+1x Green Sun's Zenith
+1x Liquimetal Torque
+1x Eladamri's Call
+1x Survival of the Fittest
+1x Rofellos, Llanowar Emissary
+1x Abrade
+1x Exhume
+1x Ramunap Excavator
+1x Search for Tomorrow
+1x The Scarab God
+1x Plow Under
+1x Fury
+1x Archon of Cruelty
+1x Griselbrand
+
+20.11.2021
+0-3
+W,B,G
+Mid

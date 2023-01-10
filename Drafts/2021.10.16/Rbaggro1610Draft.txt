@@ -1,0 +1,55 @@
+1x Grim Lavamancer
+1x Falkenrath Pit Fighter
+1x Blazing Rootwalla
+1x Rakdos Cackler
+1x Bomat Courier
+1x Dark Confidant
+1x Embereth Shieldbreaker
+1x Kari Zev, Skyship Raider
+1x Scrapheap Scrounger
+1x Metallic Mimic
+1x Lore Seeker
+1x Porcelain Legionnaire
+1x Goblin Rabblemaster
+1x Hanweir Garrison
+1x Legion Warboss
+1x Hellrider
+1x Falkenrath Aristocrat
+1x Lodestone Golem
+1x Fury
+1x Chrome Mox
+1x Forgotten Cave
+1x Mutavault
+1x Fabled Passage
+1x Wasteland
+1x Mishra's Factory
+2x Swamp
+6x Mountain
+1x Chain Lightning
+1x Bonesplitter
+1x Shatterskull Smashing
+1x Umezawa's Jitte
+1x Chandra, Acolyte of Flame
+1x Grafted Wargear
+1x Fireblast
+Sideboard
+1x Engineered Explosives
+1x Marsh Flats
+1x Needleverge Pathway
+1x Dread Wanderer
+1x Bloodchief's Thirst
+1x Reanimate
+1x Duress
+1x Adanto Vanguard
+1x Goblin Engineer
+1x Priest of Fell Rites
+1x Midnight Reaper
+1x Murderous Rider
+1x General Ferrous Rokiric
+1x Lutri, the Spellchaser
+1x Smokestack
+
+16.10.2021
+2-1
+B,R
+Agg

@@ -1,0 +1,58 @@
+1x Mother of Runes
+1x Student of Warfare
+1x Selfless Spirit
+1x Charming Prince
+1x Ornithopter of Paradise
+1x Scrapheap Scrounger
+1x Adeline, Resplendent Cathar
+1x Skyclave Apparition
+1x Brutal Cathar
+1x Solitude
+1x Cavalier of Gales
+1x The Scarab God
+1x Sun Titan
+1x Consecrated Sphinx
+1x Swamp
+1x Lonely Sandbar
+1x Secluded Steppe
+1x Watery Grave
+1x Darkslick Shores
+1x Creeping Tar Pit
+1x Celestial Colonnade
+1x Tundra
+1x Seachrome Coast
+1x Hallowed Fountain
+5x Plains
+1x Unexpectedly Absent
+1x Memory Lapse
+1x Mana Leak
+1x Umezawa's Jitte
+1x Azorius Signet
+1x History of Benalia
+1x Parallax Wave
+1x Armageddon
+1x Karn, Scion of Urza
+1x Batterskull
+1x Emeria's Call
+Sideboard
+1x Dryad Arbor
+1x Razorverge Thicket
+1x Plateau
+1x Bomat Courier
+1x Goblin Guide
+1x Gutterbones
+1x Champion of the Parish
+1x Rip Apart
+1x Lotus Cobra
+1x Devoted Druid
+1x Balance
+1x Soulherder
+1x Nahiri, the Harbinger
+1x Ajani Vengeant
+1x Doomskar
+1x Ugin, the Spirit Dragon
+
+2.10.2021
+1-2
+W,U,B
+Mid

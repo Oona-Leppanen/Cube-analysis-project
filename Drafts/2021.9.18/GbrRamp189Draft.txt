@@ -1,0 +1,57 @@
+1x Elvish Reclaimer
+1x Joraga Treespeaker
+1x Birds of Paradise
+1x Arbor Elf
+1x Rofellos, Llanowar Emissary
+1x Laelia, the Blade Reforged
+1x Thragtusk
+1x Craterhoof Behemoth
+1x Ulamog, the Ceaseless Hunger
+1x Plains
+1x Polluted Delta
+1x Bloodstained Mire
+1x Sacred Foundry
+1x Wasteland
+2x Swamp
+10x Forest
+1x Fastbond
+1x Grim Monolith
+1x Boros Signet
+1x Valakut Awakening
+1x Search for Tomorrow
+1x Crucible of Worlds
+1x Snuff Out
+1x Garruk Wildspeaker
+1x Nissa, Who Shakes the World
+1x Memory Jar
+1x Karn Liberated
+1x Ugin, the Spirit Dragon
+1x Assassin's Trophy
+1x Sedgemoor Witch
+Sideboard
+1x Raging Ravine
+1x Copperline Gorge
+1x Cragcrown Pathway
+1x Seachrome Coast
+1x Hallowed Fountain
+1x Gavony Township
+1x Flame Slash
+1x Crop Rotation
+1x Dragon Hunter
+1x Gruul Signet
+1x Liquimetal Torque
+1x Narset, Parter of Veils
+1x Liliana, the Last Hope
+1x Seasoned Pyromancer
+1x Knight of the Reliquary
+1x Knight of Autumn
+1x Hero of Bladehold
+1x Cogwork Librarian
+1x Expansion // Explosion
+1x Emeria's Call
+1x Kozilek, Butcher of Truth
+
+18.9.2021
+1-2
+B,R,G
+Mid, Ram

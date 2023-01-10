@@ -1,0 +1,57 @@
+1x Dread Wanderer
+1x Monastery Swiftspear
+1x Bomat Courier
+1x Wight
+1x Kari Zev, Skyship Raider
+1x Earthshaker Khenra
+1x Robber of the Rich
+1x Rotting Regisaur
+1x Goblin Rabblemaster
+1x Grief
+1x Hellrider
+1x Ilharg, the Raze-Boar
+1x Zealous Conscripts
+1x Inferno Titan
+1x Blood Crypt
+1x Blackcleave Cliffs
+1x Fabled Passage
+3x Plains
+5x Swamp
+5x Mountain
+1x Fatal Push
+1x Duress
+1x Bone Shards
+1x Vampiric Tutor
+1x Hymn to Tourach
+1x Lightning Helix
+1x Lingering Souls
+1x Fireblast
+1x Sulfuric Vortex
+1x Lightning Strike
+Sideboard
+1x Wandering Fumarole
+1x Phyrexian Tower
+1x Kytheon, Hero of Akros
+1x Giver of Runes
+1x Path to Exile
+1x Student of Warfare
+1x Cryptbreaker
+1x Blazing Rootwalla
+1x Soul-Scar Mage
+1x Vampire Hexmage
+1x Life from the Loam
+1x Toxic Deluge
+1x Midnight Reaper
+1x Light Up the Stage
+1x Wrath of God
+1x Prime Speaker Vannifar
+1x Timeless Dragon
+1x Ob Nixilis Reignited
+1x Niv-Mizzet Reborn
+1x Batterskull
+1x Wildfire
+
+18.9.2021
+1-2
+W,B,R
+Agg,Mid

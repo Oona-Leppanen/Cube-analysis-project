@@ -1,0 +1,59 @@
+1x Vendilion Clique
+1x Hullbreacher
+1x Phyrexian Metamorph
+1x Riftwing Cloudskate
+1x Misty Rainforest
+1x Shelldock Isle
+1x Mystic Sanctuary
+1x Riverglide Pathway
+1x Barkchannel Pathway
+1x Stomping Ground
+1x Raugrin Triome
+4x Mountain
+5x Island
+1x Serum Visions
+1x Gitaxian Probe
+1x Faithless Looting
+1x Abrade
+1x Grim Monolith
+1x Thirst for Knowledge
+1x Narset, Parter of Veils
+1x Wheel of Fortune
+1x Dack Fayden
+1x Coalition Relic
+1x Jace, the Mind Sculptor
+1x Fires of Invention
+1x Coercive Portal
+1x Treachery
+1x Force of Will
+1x Gilded Lotus
+1x Memory Jar
+1x Escape to the Wilds
+1x Upheaval
+1x Dig Through Time
+Sideboard
+1x Golgari Rot Farm
+1x Sacred Foundry
+1x Blightstep Pathway
+1x Reanimate
+1x Growth Spiral
+1x Eidolon of the Great Revel
+1x Leovold, Emissary of Trest
+1x Ashiok, Nightmare Weaver
+1x Thief of Sanity
+1x Spell Queller
+1x Maelstrom Pulse
+1x Grist, the Hunger Tide
+1x Augur of Autumn
+1x Eternal Witness
+1x Omnath, Locus of Creation
+1x Xenagos, the Reveler
+1x Niv-Mizzet Reborn
+1x Primal Command
+1x Kiki-Jiki, Mirror Breaker
+1x Time Warp
+
+2.10.2021
+1-2
+U,R,G
+Mid,Con

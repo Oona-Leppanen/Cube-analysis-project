@@ -1,0 +1,53 @@
+1x Dread Wanderer
+1x Knight of the Ebon Legion
+1x Gutterbones
+1x Skyclave Shade
+1x Goblin Cratermaker
+1x Young Pyromancer
+1x Kari Zev, Skyship Raider
+1x Midnight Reaper
+1x Bonecrusher Giant
+1x Hanweir Garrison
+1x Mayhem Devil
+1x Rankle, Master of Pranks
+1x Braids, Cabal Minion
+1x Yawgmoth, Thran Physician
+1x Blightstep Pathway
+1x Castle Locthwain
+1x Phyrexian Tower
+1x Blackcleave Cliffs
+1x Badlands
+1x Strip Mine
+1x Tectonic Edge
+3x Mountain
+5x Swamp
+1x Inquisition of Kozilek
+1x Duress
+1x Spikefield Hazard
+1x Flame Slash
+1x Light Up the Night
+1x Bitterblossom
+1x Goblin Bombardment
+1x Smuggler's Copter
+1x Liliana, the Last Hope
+1x Daretti, Ingenious Iconoclast
+1x Snuff Out
+Sideboard
+1x Temple Garden
+1x Branchloft Pathway
+1x Cragcrown Pathway
+1x Bomat Courier
+1x Dark Ritual
+1x Prismatic Lens
+1x Eidolon of the Great Revel
+1x Oona's Prowler
+1x Infernal Grasp
+1x Maelstrom Pulse
+1x Bloodbraid Elf
+1x Fires of Invention
+1x Baleful Mastery
+
+11.12.2021
+2-0-1
+B,R
+Agg,Mid

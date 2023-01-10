@@ -1,0 +1,57 @@
+1x Thraben Inspector
+1x Goblin Welder
+1x Thalia, Guardian of Thraben
+1x Phyrexian Revoker
+1x Monastery Mentor
+1x General Ferrous Rokiric
+1x Phyrexian Metamorph
+1x Solemn Simulacrum
+1x Lodestone Golem
+1x Golos, Tireless Pilgrim
+1x Sphinx of the Steel Wind
+1x Lotus Petal
+1x Tolarian Academy
+1x Needle Spires
+3x Island
+4x Mountain
+8x Plains
+1x Orzhov Signet
+1x Smuggler's Copter
+1x Mind Stone
+1x Sorcerous Spyglass
+1x Teferi, Time Raveler
+1x Nahiri, the Harbinger
+1x Ajani Vengeant
+1x Smokestack
+1x Karn, Scion of Urza
+1x Thran Dynamo
+1x Teferi, Hero of Dominaria
+1x Mindslaver
+Sideboard
+1x Temple Garden
+1x Indatha Triome
+1x Skullclamp
+1x Balance
+1x Stoneforge Mystic
+1x Unexpectedly Absent
+1x Dark Confidant
+1x Runaway Steam-Kin
+1x Vanishing Verse
+1x Angrath's Rampage
+1x History of Benalia
+1x Tireless Tracker
+1x Lutri, the Spellchaser
+1x Heirloom Blade
+1x Opposition
+1x Rankle, Master of Pranks
+1x Harmonize
+1x Reveillark
+1x Spectral Procession
+1x Torrential Gearhulk
+1x Embercleave
+1x Hornet Queen
+
+18.9.2021
+2-1
+W,U,R
+Mid,Con

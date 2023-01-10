@@ -1,0 +1,55 @@
+1x Arbor Elf
+1x Fyndhorn Elves
+1x Cabal Initiate
+1x Fauna Shaman
+1x Wall of Roots
+1x Tireless Tracker
+1x Augur of Autumn
+1x Questing Beast
+1x Magus of the Order
+1x Thragtusk
+1x Tasigur, the Golden Fang
+1x Hornet Queen
+1x Woodfall Primus
+1x Dragonlord Atarka
+1x Blooming Marsh
+1x Overgrown Tomb
+1x Raging Ravine
+7x Swamp
+7x Forest
+1x Reanimate
+1x Thoughtseize
+1x Persist
+1x Unmarked Grave
+1x Demonic Tutor
+1x Dimir Signet
+1x Life // Death
+1x Baleful Mastery
+1x Primal Command
+Sideboard
+1x Krosan Verge
+1x Creeping Tar Pit
+1x Barkchannel Pathway
+1x Lonely Sandbar
+1x Clearwater Pathway
+1x Gravecrawler
+1x Cryptbreaker
+1x Brainstorm
+1x Lore Seeker
+1x Priest of Forgotten Gods
+1x Jadar, Ghoulcaller of Nephalia
+1x Remand
+1x Heirloom Blade
+1x Thief of Sanity
+1x Thirst for Knowledge
+1x Vendilion Clique
+1x Venser, Shaper Savant
+1x Parallax Wave
+1x Reveillark
+1x Shark Typhoon
+1x Treasure Cruise
+
+6.11.2021
+1-2
+B,G
+Mid,Com

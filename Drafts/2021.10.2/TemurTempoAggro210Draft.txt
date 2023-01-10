@@ -1,0 +1,59 @@
+1x Dragon's Rage Channeler
+1x Zurgo Bellstriker
+1x Blazing Rootwalla
+1x Grim Lavamancer
+1x Ragavan, Nimble Pilferer
+1x Flametongue Yearling
+1x Snapcaster Mage
+1x Hanweir Garrison
+1x Deceiver Exarch
+1x Glasspool Mimic
+1x Nissa, Vastwood Seer
+1x Hellrider
+1x Oracle of Mul Daya
+1x Bloodbraid Elf
+1x Scalding Tarn
+1x Castle Embereth
+1x Steam Vents
+1x Tropical Island
+1x Breeding Pool
+1x Mutavault
+1x Forest
+4x Island
+5x Mountain
+1x Firebolt
+1x Flame Slash
+1x Ponder
+1x Jack-o'-Lantern
+1x Counterspell
+1x Chart a Course
+1x Izzet Charm
+1x Prismari Command
+1x Shark Typhoon
+1x Alrund's Epiphany
+Sideboard
+1x Hard Evidence
+1x Village Rites
+1x Elvish Mystic
+1x Green Sun's Zenith
+1x Noble Hierarch
+1x Gilded Goose
+1x Sakura-Tribe Elder
+1x Scavenging Ooze
+1x Rofellos, Llanowar Emissary
+1x Survival of the Fittest
+1x Dimir Signet
+1x Show and Tell
+1x Wrath of God
+1x Natural Order
+1x Prime Speaker Vannifar
+1x Titania, Protector of Argoth
+1x Carnage Tyrant
+1x Casualties of War
+1x Dragonlord Atarka
+1x Blightsteel Colossus
+
+2.10.2021
+2-1
+U,R,G
+Agg,Mid

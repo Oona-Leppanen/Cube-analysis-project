@@ -1,0 +1,54 @@
+1x Hangarback Walker
+1x Walking Ballista
+1x Stonecoil Serpent
+1x Monastery Swiftspear
+1x Zurgo Bellstriker
+1x Soul-Scar Mage
+1x Grim Lavamancer
+1x Rakdos Cackler
+1x Bomat Courier
+1x Bloodthirsty Adversary
+1x Embereth Shieldbreaker
+1x Scrapheap Scrounger
+1x Hanweir Garrison
+1x Laelia, the Blade Reforged
+1x Bonecrusher Giant
+1x Hazoret the Fervent
+1x Forgotten Cave
+1x Savai Triome
+1x Mishra's Factory
+1x Strip Mine
+1x Wooded Foothills
+1x Plains
+7x Mountain
+1x Spikefield Hazard
+1x Burst Lightning
+1x Lightning Strike
+1x Shatterskull Smashing
+1x Umezawa's Jitte
+1x Smuggler's Copter
+1x Dismember
+1x Sword of Fire and Ice
+1x Fiery Confluence
+1x Showdown of the Skalds
+Sideboard
+1x Wandering Fumarole
+1x Unexpectedly Absent
+1x Goblin Bombardment
+1x Wrenn and Six
+1x Seasoned Hallowblade
+1x Cathar Commando
+1x Adanto Vanguard
+1x Lore Seeker
+1x Vryn Wingmare
+1x Woe Strider
+1x Mayhem Devil
+1x Oracle of Mul Daya
+1x Nissa, Who Shakes the World
+1x Siege-Gang Commander
+1x Burning of Xinye
+
+20.11.2021
+3-0
+W,B,R
+Agg

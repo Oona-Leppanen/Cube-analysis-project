@@ -1,0 +1,36 @@
+1x Elvish Reclaimer
+1x Birds of Paradise
+1x Elves of Deep Shadow
+1x Avacyn's Pilgrim
+1x Gilded Goose
+1x Ignoble Hierarch
+1x Springbloom Druid
+1x Tireless Tracker
+1x Timeless Witness
+1x Hornet Queen
+1x Myr Battlesphere
+1x Emrakul, the Aeons Torn
+1x Temple of Malice
+1x Overgrown Tomb
+1x Raging Ravine
+1x Swamp
+10x Forest
+2x Mountain
+1x Vampiric Tutor
+1x Fatal Push
+1x Skullclamp
+1x Channel
+1x Assassin's Trophy
+1x Agadeem's Awakening
+1x Xenagos, the Reveler
+1x Natural Order
+1x Thran Dynamo
+1x Coercive Portal
+1x Through the Breach
+1x Ugin, the Spirit Dragon
+Sideboard
+
+21.8.2021
+1-1-1
+B,R,G
+Ram,Com

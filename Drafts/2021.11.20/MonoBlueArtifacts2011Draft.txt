@@ -1,0 +1,55 @@
+1x Chrome Mox
+1x Everflowing Chalice
+1x Mox Diamond
+1x Emry, Lurker of the Loch
+1x Urza, Lord High Artificer
+1x Venser, Shaper Savant
+1x Riftwing Cloudskate
+1x Myr Battlesphere
+1x Lonely Sandbar
+1x Tolarian Academy
+1x Seat of the Synod
+1x Watery Grave
+1x Darksteel Citadel
+1x Ancient Tomb
+3x Swamp
+6x Island
+1x Preordain
+1x Mind Twist
+1x Lose Focus
+1x Mana Leak
+1x Counterspell
+1x Winter Orb
+1x Mind Stone
+1x Simic Signet
+1x Izzet Signet
+1x Thirst for Knowledge
+1x Memory Deluge
+1x Cryptic Command
+1x Shark Typhoon
+1x Mindslaver
+1x Treasure Cruise
+1x Force of Negation
+Sideboard
+1x Entomb
+1x Putrid Imp
+1x Gruul Signet
+1x Earthshaker Khenra
+1x Oona's Prowler
+1x Unmarked Grave
+1x Baral, Chief of Compliance
+1x Lutri, the Spellchaser
+1x Show and Tell
+1x Cogwork Librarian
+1x Braids, Cabal Minion
+1x Elspeth, Knight-Errant
+1x Niv-Mizzet Reborn
+1x Inferno Titan
+1x Blightsteel Colossus
+1x Craterhoof Behemoth
+1x Alrund's Epiphany
+
+20.11.2021
+1-1-1
+U,B
+Mid,Ram

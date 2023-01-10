@@ -1,0 +1,54 @@
+1x Elvish Reclaimer
+1x Birds of Paradise
+1x Fauna Shaman
+1x Lotus Cobra
+1x Ornithopter of Paradise
+1x Recruiter of the Guard
+1x Eternal Witness
+1x Nissa, Vastwood Seer
+1x Courser of Kruphix
+1x Lurrus of the Dream-Den
+1x Knight of the Reliquary
+1x Titania, Protector of Argoth
+1x Sun Titan
+1x Wurmcoil Engine
+1x Elesh Norn, Grand Cenobite
+1x Krosan Verge
+1x Simic Growth Chamber
+6x Plains
+9x Forest
+1x Fastbond
+1x Edge of Autumn
+1x Crucible of Worlds
+1x Ravages of War
+1x Harmonize
+1x Esika's Chariot
+1x Garruk Wildspeaker
+1x Teferi, Hero of Dominaria
+Sideboard
+1x Gravecrawler
+1x Kytheon, Hero of Akros
+1x Esper Sentinel
+1x Dauntless Bodyguard
+1x Giver of Runes
+1x Ephemerate
+1x Life from the Loam
+1x Young Pyromancer
+1x Thalia, Guardian of Thraben
+1x Mimic Vat
+1x Reclamation Sage
+1x Brazen Borrower
+1x Maul of the Skyclaves
+1x Smokestack
+1x Omnath, Locus of Creation
+1x Bring to Light
+1x Reveillark
+1x Ulamog, the Ceaseless Hunger
+1x Kozilek, Butcher of Truth
+1x Woodfall Primus
+1x Hornet Queen
+
+20.11.2021
+1-1-1
+W,U,G
+Mid,Ram

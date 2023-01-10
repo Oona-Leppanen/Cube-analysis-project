@@ -1,0 +1,58 @@
+1x Carrion Feeder
+1x Ignoble Hierarch
+1x Birds of Paradise
+1x Elvish Mystic
+1x Blood Artist
+1x Putrid Goblin
+1x Melira, Sylvok Outcast
+1x Fauna Shaman
+1x Lesser Masticore
+1x Woe Strider
+1x Good-Fortune Unicorn
+1x Kitchen Finks
+1x Grief
+1x Deranged Hermit
+1x Darkbore Pathway
+1x Gaea's Cradle
+1x Zagoth Triome
+1x Strip Mine
+1x Ash Barrens
+1x Windswept Heath
+1x Verdant Catacombs
+1x Marsh Flats
+1x Prismatic Vista
+3x Forest
+2x Swamp
+1x Plains
+1x Mind Twist
+1x Skullclamp
+1x Bitterblossom
+1x Sylvan Library
+1x Umezawa's Jitte
+1x Chord of Calling
+1x Grist, the Hunger Tide
+1x Blasting Station
+1x Birthing Pod
+1x Garruk Wildspeaker
+1x Garruk Relentless
+Sideboard
+1x Scalding Tarn
+1x Tropical Island
+1x Cryptbreaker
+1x Reanimate
+1x Remand
+1x Luminarch Aspirant
+1x Heirloom Blade
+1x Sedgemoor Witch
+1x Reclamation Sage
+1x Courser of Kruphix
+1x Goblin Rabblemaster
+1x Rotting Regisaur
+1x Magus of the Order
+1x Arlinn, the Pack's Hope
+1x Embercleave
+
+19.2.
+3-0
+W,B,G
+Mid,Com

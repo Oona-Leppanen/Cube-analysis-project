@@ -1,0 +1,56 @@
+1x Walking Ballista
+1x Thing in the Ice
+1x Snapcaster Mage
+1x Monastery Mentor
+1x Trinket Mage
+1x Pia and Kiran Nalaar
+1x Venser, Shaper Savant
+1x Elesh Norn, Grand Cenobite
+1x Blightsteel Colossus
+1x Mishra's Bauble
+1x Riverglide Pathway
+1x Celestial Colonnade
+1x Hallowed Fountain
+1x Inspiring Vantage
+1x Needle Spires
+2x Plains
+3x Mountain
+6x Island
+1x Path to Exile
+1x Gitaxian Probe
+1x Opt
+1x Mystical Tutor
+1x Chart a Course
+1x Mana Leak
+1x Expressive Iteration
+1x Izzet Charm
+1x Force of Negation
+1x Tinker
+1x Show and Tell
+1x Thirst for Knowledge
+1x Nahiri, the Harbinger
+1x Time Warp
+Sideboard
+1x Tectonic Edge
+1x Legion's Landing
+1x Soldier of the Pantheon
+1x Dragon Hunter
+1x Kytheon, Hero of Akros
+1x Lightning Helix
+1x Dreadhorde Arcanist
+1x Goblin Cratermaker
+1x Suspicious Stowaway
+1x Remand
+1x Unexpectedly Absent
+1x Knight of Autumn
+1x Spell Queller
+1x Showdown of the Skalds
+1x Prime Speaker Vannifar
+1x Kenrith, the Returned King
+1x Sun Titan
+1x Treasure Cruise
+
+16.10.2021
+0-2-1
+W,U,R
+Mid,Com

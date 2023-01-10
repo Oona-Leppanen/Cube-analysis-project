@@ -1,0 +1,54 @@
+1x Priest of Fell Rites
+1x Imperial Recruiter
+1x Solemn Simulacrum
+1x Elesh Norn, Grand Cenobite
+1x Terastodon
+1x Woodfall Primus
+1x Myr Battlesphere
+1x Scrubland
+1x Watery Grave
+1x Darkslick Shores
+1x Spirebluff Canal
+1x Indatha Triome
+1x Ash Barrens
+1x Fabled Passage
+1x Polluted Delta
+4x Mountain
+3x Island
+2x Swamp
+1x Serum Visions
+1x Entomb
+1x Chart a Course
+1x Unmarked Grave
+1x Persist
+1x Exhume
+1x Rakdos Signet
+1x Liquimetal Torque
+1x Thirst for Knowledge
+1x Necromancy
+1x Prismari Command
+1x Dack Fayden
+1x Worn Powerstone
+1x Sneak Attack
+1x Mystic Confluence
+1x Treasure Cruise
+Sideboard
+1x Tolarian Academy
+1x Everflowing Chalice
+1x Goblin Guide
+1x Ephemerate
+1x Earthshaker Khenra
+1x Priest of Forgotten Gods
+1x Memory Lapse
+1x Unexpectedly Absent
+1x Thalia's Lieutenant
+1x Thalia, Guardian of Thraben
+1x Metalworker
+1x Adeline, Resplendent Cathar
+1x Embercleave
+1x Bedlam Reveler
+
+11.12.2021
+1-1-1
+W,U,B,R
+Mid,Com

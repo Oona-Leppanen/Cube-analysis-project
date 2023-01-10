@@ -1,0 +1,53 @@
+1x Hangarback Walker
+1x Dauntless Bodyguard
+1x Student of Warfare
+1x Mother of Runes
+1x Intrepid Adversary
+1x Luminarch Aspirant
+1x Jace, Vryn's Prodigy
+1x Phantasmal Image
+1x Porcelain Legionnaire
+1x Monastery Mentor
+1x Sower of Temptation
+1x Glen Elendra Archmage
+1x Karakas
+1x Hengegate Pathway
+1x Raugrin Triome
+7x Island
+6x Plains
+1x Mana Tithe
+1x Opt
+1x Bonesplitter
+1x Lose Focus
+1x Mana Leak
+1x Counterspell
+1x Umezawa's Jitte
+1x Force of Negation
+1x Narset, Parter of Veils
+1x Heirloom Blade
+1x Elspeth, Knight-Errant
+1x Time Warp
+Sideboard
+1x Figure of Destiny
+1x Falkenrath Gorger
+1x Hard Evidence
+1x Enlightened Tutor
+1x Winter Orb
+1x Finale of Devastation
+1x Robber of the Rich
+1x Search for Azcanta
+1x Soulherder
+1x Eternal Witness
+1x Agadeem's Awakening
+1x Thran Dynamo
+1x Grief
+1x Ravages of War
+1x Primal Command
+1x Glorybringer
+1x Doomskar
+1x Sun Titan
+
+11.12.2021
+1-1-1
+W,U
+Agg,Con

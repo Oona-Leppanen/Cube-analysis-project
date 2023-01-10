@@ -1,0 +1,56 @@
+1x Snapcaster Mage
+1x Thing in the Ice
+1x Seasoned Pyromancer
+1x Fury
+1x Archon of Cruelty
+1x Ashen Rider
+1x Kozilek, Butcher of Truth
+1x Mox Diamond
+1x Riverglide Pathway
+1x Blightstep Pathway
+1x Needleverge Pathway
+1x Seachrome Coast
+1x Scrubland
+1x Badlands
+1x Savai Triome
+1x Arid Mesa
+5x Island
+1x Mountain
+1x Plains
+1x Serum Visions
+1x Gitaxian Probe
+1x Ponder
+1x Vampiric Tutor
+1x Lightning Bolt
+1x Lose Focus
+1x Mana Leak
+1x Lightning Helix
+1x Rip Apart
+1x Izzet Charm
+1x Force of Negation
+1x Vindicate
+1x Prismari Command
+1x Daretti, Ingenious Iconoclast
+1x Memory Deluge
+1x Sneak Attack
+1x Nahiri, the Harbinger
+Sideboard
+1x Golgari Rot Farm
+1x Simic Growth Chamber
+1x Secluded Steppe
+1x Thraben Inspector
+1x Sea Gate Stormcaller
+1x Recurring Nightmare
+1x Emry, Lurker of the Loch
+1x Brutal Cathar
+1x Fires of Invention
+1x Pia and Kiran Nalaar
+1x Solitude
+1x Timeless Dragon
+1x Alrund's Epiphany
+1x Siege-Gang Commander
+
+6.11.2021
+3-0
+W,U,B,R
+Con,Com
