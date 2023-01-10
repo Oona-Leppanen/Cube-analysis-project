@@ -1,0 +1,22 @@
+Type;Average_points;Winrate
+Aggro;5.21053;0.57895
+Midrange;3.55263;0.39474
+Control;5.06250;0.56250
+Combo;3.00000;0.33333
+Ramp;4.00000;0.44444
+Aggro Mid;4.78125;0.53125
+Aggro Con;3.60000;0.40000
+Aggro Combo;5.62500;0.62500
+Aggro Ramp;0.00000;0.00000
+Mid Control;6.00000;0.66667
+Mid Combo;4.20000;0.46667
+Mid Ramp;4.00000;0.44444
+Control Combo;6.00000;0.66667
+Control Ramp;5.25000;0.58333
+Combo Ramp;5.40000;0.60000
+over 2 types;0.00000;0.00000
+All aggros;4.90909;0.54545
+All mids;4.20833;0.46759
+All controls;5.04310;0.56034
+All combos;4.85870;0.53986
+All ramps;4.27143;0.47460

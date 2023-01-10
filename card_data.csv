@@ -1,0 +1,728 @@
+Card_name;Frequency_of_cards;Main_deck_count;Sideboard_count;Main_deck_rate;Sideboard_rate;Points_rate;Color;Mana_value;Type
+Hangarback Walker;12;11;1;0.91667;0.08333;0.5909090909090909;Colorless;0.0;Artifact Creature
+Thraben Inspector;15;12;3;0.8;0.2;0.5277777777777778;W;1.0;Creature
+Stoneforge Mystic;11;7;4;0.63636;0.36364;0.6190476190476191;W;2.0;Creature
+Wall of Omens;4;1;3;0.25;0.75;0.6666666666666666;W;2.0;Creature
+Phantasmal Image;10;10;0;1.0;0.0;0.5833333333333334;U;2.0;Creature
+Jace, Vryn's Prodigy;12;10;2;0.83333;0.16667;0.4666666666666667;U;2.0;Creature
+Restoration Angel;11;7;4;0.63636;0.36364;0.5;W;4.0;Creature
+Glen Elendra Archmage;12;12;0;1.0;0.0;0.5138888888888888;U;4.0;Creature
+Golos, Tireless Pilgrim;8;7;1;0.875;0.125;0.5714285714285714;BGRUW;5.0;Artifact Creature
+Cave of the Frost Dragon;13;12;1;0.92308;0.07692;0.5416666666666666;W;0.0;Land
+Karakas;8;7;1;0.875;0.125;0.5714285714285714;W;0.0;Land
+Shelldock Isle;10;10;0;1.0;0.0;0.55;U;0.0;Land
+Tundra;10;9;1;0.9;0.1;0.5370370370370371;WU;0.0;Land
+Godless Shrine;13;8;5;0.61538;0.38462;0.4583333333333333;BW;0.0;Land
+Darkslick Shores;5;5;0;1.0;0.0;0.6333333333333333;UB;0.0;Land
+Volcanic Island;9;8;1;0.88889;0.11111;0.5208333333333334;RU;0.0;Land
+Wandering Fumarole;4;1;3;0.25;0.75;0.6666666666666666;UR;0.0;Land
+Spirebluff Canal;8;4;4;0.5;0.5;0.5416666666666666;UR;0.0;Land
+Scalding Tarn;19;17;2;0.89474;0.10526;0.5098039215686274;UR;0.0;Land
+Prismatic Vista;11;11;0;1.0;0.0;0.6212121212121212;Colorless;0.0;Land
+Swords to Plowshares;13;13;0;1.0;0.0;0.5897435897435898;W;1.0;Instant
+Mana Tithe;12;10;2;0.83333;0.16667;0.4666666666666667;W;1.0;Instant
+Ponder;14;12;2;0.85714;0.14286;0.5694444444444444;U;1.0;Sorcery
+Counterspell;12;11;1;0.91667;0.08333;0.5454545454545454;U;2.0;Instant
+Lightning Strike;11;11;0;1.0;0.0;0.6515151515151515;R;2.0;Instant
+Narset, Parter of Veils;15;11;4;0.73333;0.26667;0.4545454545454545;U;3.0;Planeswalker
+Teferi, Time Raveler;13;9;4;0.69231;0.30769;0.5370370370370371;UW;3.0;Planeswalker
+Ashiok, Nightmare Weaver;9;5;4;0.55556;0.44444;0.5;UB;3.0;Planeswalker
+Kolaghan's Command;11;8;3;0.72727;0.27273;0.3958333333333333;BR;3.0;Instant
+Daretti, Ingenious Iconoclast;11;9;2;0.81818;0.18182;0.4629629629629629;BR;3.0;Planeswalker
+Vindicate;11;7;4;0.63636;0.36364;0.5476190476190477;BW;3.0;Sorcery
+Wrath of God;14;4;10;0.28571;0.71429;0.4583333333333333;W;4.0;Sorcery
+Coercive Portal;10;8;2;0.8;0.2;0.4583333333333333;Colorless;4.0;Artifact
+Teferi, Hero of Dominaria;10;7;3;0.7;0.3;0.6666666666666666;WU;5.0;Planeswalker
+Batterskull;8;5;3;0.625;0.375;0.6;Colorless;5.0;Artifact
+Everflowing Chalice;11;3;8;0.27273;0.72727;0.5555555555555556;Colorless;0.0;Artifact
+Balance;12;5;7;0.41667;0.58333;0.5;W;2.0;Sorcery
+Recruiter of the Guard;10;8;2;0.8;0.2;0.5208333333333334;W;3.0;Creature
+Toski, Bearer of Secrets;11;4;7;0.36364;0.63636;0.5;G;4.0;Creature
+Fiery Confluence;9;7;2;0.77778;0.22222;0.6190476190476191;R;4.0;Sorcery
+Braids, Cabal Minion;4;2;2;0.5;0.5;0.6666666666666666;B;4.0;Creature
+Hero of Bladehold;11;6;5;0.54545;0.45455;0.5555555555555556;W;4.0;Creature
+Gideon, Ally of Zendikar;11;9;2;0.81818;0.18182;0.3518518518518518;W;4.0;Planeswalker
+Inferno Titan;10;6;4;0.6;0.4;0.6111111111111112;R;6.0;Creature
+Nicol Bolas, Planeswalker;4;1;3;0.25;0.75;0.6666666666666666;UBR;8.0;Planeswalker
+Marsh Flats;16;13;3;0.8125;0.1875;0.5384615384615384;WB;0.0;Land
+Deathrite Shaman;9;7;2;0.77778;0.22222;0.5952380952380952;BG;1.0;Creature
+Vampire Hexmage;8;7;1;0.875;0.125;0.5476190476190477;B;2.0;Creature
+Dauthi Voidwalker;10;7;3;0.7;0.3;0.5952380952380952;B;2.0;Creature
+Elesh Norn, Grand Cenobite;11;8;3;0.72727;0.27273;0.4583333333333333;W;7.0;Creature
+Ulamog, the Ceaseless Hunger;10;7;3;0.7;0.3;0.4285714285714285;Colorless;10.0;Creature
+Hengegate Pathway;7;6;1;0.85714;0.14286;0.4444444444444444;WU;0.0;Land
+Branchloft Pathway;10;5;5;0.5;0.5;0.3;WG;0.0;Land
+Botanical Sanctum;5;2;3;0.4;0.6;0.5;UG;0.0;Land
+Bayou;10;8;2;0.8;0.2;0.5208333333333334;BG;0.0;Land
+Thespian's Stage;12;5;7;0.41667;0.58333;0.5;Colorless;0.0;Land
+Bloodstained Mire;17;17;0;1.0;0.0;0.392156862745098;BR;0.0;Land
+Verdant Catacombs;19;18;1;0.94737;0.05263;0.5277777777777778;BG;0.0;Land
+Dark Depths;11;7;4;0.63636;0.36364;0.5476190476190477;Colorless;0.0;Land
+Portent;5;5;0;1.0;0.0;0.5;U;1.0;Sorcery
+Fatal Push;11;10;1;0.90909;0.09091;0.55;B;1.0;Instant
+Vampiric Tutor;11;8;3;0.72727;0.27273;0.5833333333333334;B;1.0;Instant
+Jack-o'-Lantern;7;3;4;0.42857;0.57143;0.6111111111111112;Colorless;1.0;Artifact
+Remand;14;8;6;0.57143;0.42857;0.625;U;2.0;Instant
+Infernal Grasp;11;7;4;0.63636;0.36364;0.4285714285714285;B;2.0;Instant
+Oath of Druids;5;2;3;0.4;0.6;0.4166666666666667;G;2.0;Enchantment
+Vanishing Verse;12;7;5;0.58333;0.41667;0.4761904761904761;BW;2.0;Instant
+Prismatic Lens;7;6;1;0.85714;0.14286;0.5833333333333334;Colorless;2.0;Artifact
+Mind Stone;12;9;3;0.75;0.25;0.7037037037037037;Colorless;2.0;Artifact
+Grim Monolith;15;11;4;0.73333;0.26667;0.4393939393939394;Colorless;2.0;Artifact
+Simic Signet;9;6;3;0.66667;0.33333;0.6111111111111112;GU;2.0;Artifact
+Force of Negation;14;12;2;0.85714;0.14286;0.5277777777777778;U;3.0;Instant
+Basalt Monolith;8;2;6;0.25;0.75;0.5;Colorless;3.0;Artifact
+Day of Judgment;8;3;5;0.375;0.625;0.3888888888888889;W;4.0;Sorcery
+Damnation;9;4;5;0.44444;0.55556;0.5;B;4.0;Sorcery
+Mystic Confluence;11;11;0;1.0;0.0;0.6363636363636364;U;5.0;Instant
+Tolarian Academy;10;4;6;0.4;0.6;0.5;U;0.0;Land
+Baleful Strix;8;5;3;0.625;0.375;0.6;BU;2.0;Artifact Creature
+Flickerwisp;11;7;4;0.63636;0.36364;0.5;W;3.0;Creature
+Lingering Souls;13;11;2;0.84615;0.15385;0.4242424242424242;WB;3.0;Sorcery
+Thalia, Heretic Cathar;9;8;1;0.88889;0.11111;0.5;W;3.0;Creature
+Adeline, Resplendent Cathar;11;7;4;0.63636;0.36364;0.4047619047619047;W;3.0;Creature
+Maul of the Skyclaves;11;5;6;0.45455;0.54545;0.3333333333333333;W;3.0;Artifact
+Emry, Lurker of the Loch;12;6;6;0.5;0.5;0.5;U;3.0;Creature
+Brazen Borrower;7;4;3;0.57143;0.42857;0.5833333333333334;U;3.0;Creature
+Woe Strider;10;5;5;0.5;0.5;0.5666666666666667;B;3.0;Creature
+Knight of Autumn;10;3;7;0.3;0.7;0.3888888888888889;GW;3.0;Creature
+Arbor Elf;11;9;2;0.81818;0.18182;0.3888888888888889;G;1.0;Creature
+Avacyn's Pilgrim;12;8;4;0.66667;0.33333;0.4583333333333333;G;1.0;Creature
+Ignoble Hierarch;14;14;0;1.0;0.0;0.6309523809523809;G;1.0;Creature
+Intrepid Adversary;9;8;1;0.88889;0.11111;0.3958333333333333;W;2.0;Creature
+Lotus Cobra;10;8;2;0.8;0.2;0.5;G;2.0;Creature
+Sakura-Tribe Elder;10;7;3;0.7;0.3;0.3809523809523809;G;2.0;Creature
+Phyrexian Revoker;10;6;4;0.6;0.4;0.5277777777777778;Colorless;2.0;Artifact Creature
+Ramunap Excavator;9;6;3;0.66667;0.33333;0.5277777777777778;G;3.0;Creature
+Basri's Lieutenant;4;4;0;1.0;0.0;0.25;W;4.0;Creature
+Omnath, Locus of Creation;11;4;7;0.36364;0.63636;0.4166666666666667;GRUW;4.0;Creature
+Dragonlord Atarka;9;6;3;0.66667;0.33333;0.3333333333333333;RG;7.0;Creature
+Myr Battlesphere;14;10;4;0.71429;0.28571;0.5;Colorless;7.0;Artifact Creature
+Blightsteel Colossus;10;7;3;0.7;0.3;0.4047619047619047;Colorless;12.0;Artifact Creature
+Barkchannel Pathway;10;9;1;0.9;0.1;0.4629629629629629;GU;0.0;Land
+Riverglide Pathway;10;9;1;0.9;0.1;0.4444444444444444;UR;0.0;Land
+Sacred Foundry;13;11;2;0.84615;0.15385;0.3333333333333333;RW;0.0;Land
+Inspiring Vantage;9;6;3;0.66667;0.33333;0.25;WR;0.0;Land
+Temple Garden;12;7;5;0.58333;0.41667;0.5;GW;0.0;Land
+Razorverge Thicket;7;2;5;0.28571;0.71429;0.0;WG;0.0;Land
+Arid Mesa;22;20;2;0.90909;0.09091;0.4666666666666667;WR;0.0;Land
+Windswept Heath;19;18;1;0.94737;0.05263;0.5925925925925926;WG;0.0;Land
+Oust;7;1;6;0.14286;0.85714;0.0;W;1.0;Sorcery
+Abrade;12;11;1;0.91667;0.08333;0.4545454545454545;R;2.0;Instant
+Once Upon a Time;12;12;0;1.0;0.0;0.4861111111111111;G;2.0;Instant
+Eladamri's Call;10;6;4;0.6;0.4;0.2777777777777778;GW;2.0;Instant
+Orzhov Signet;7;5;2;0.71429;0.28571;0.4;BW;2.0;Artifact
+Boros Signet;11;6;5;0.54545;0.45455;0.3611111111111111;RW;2.0;Artifact
+Bala Ged Recovery;7;6;1;0.85714;0.14286;0.3055555555555556;G;3.0;Sorcery
+Elspeth, Knight-Errant;7;6;1;0.85714;0.14286;0.2777777777777778;W;4.0;Planeswalker
+Garruk Wildspeaker;13;13;0;1.0;0.0;0.4358974358974359;G;4.0;Planeswalker
+Nahiri, the Harbinger;11;7;4;0.63636;0.36364;0.4047619047619047;RW;4.0;Planeswalker
+Through the Breach;14;10;4;0.71429;0.28571;0.5;R;5.0;Instant
+Elspeth, Sun's Champion;10;6;4;0.6;0.4;0.3888888888888889;W;6.0;Planeswalker
+Duress;11;5;6;0.45455;0.54545;0.3333333333333333;B;1.0;Sorcery
+Kytheon, Hero of Akros;10;5;5;0.5;0.5;0.6666666666666666;W;1.0;Creature
+Lurrus of the Dream-Den;11;7;4;0.63636;0.36364;0.5238095238095238;WB;3.0;Creature
+Soulherder;13;2;11;0.15385;0.84615;0.4166666666666667;WU;3.0;Creature
+Deceiver Exarch;9;5;4;0.55556;0.44444;0.4333333333333333;U;3.0;Creature
+Tinker;11;7;4;0.63636;0.36364;0.5476190476190477;U;3.0;Sorcery
+Natural Order;9;3;6;0.33333;0.66667;0.5;G;4.0;Sorcery
+Grief;10;6;4;0.6;0.4;0.6111111111111112;B;4.0;Creature
+Tithe Taker;4;4;0;1.0;0.0;0.5416666666666666;W;2.0;Creature
+Wall of Roots;4;4;0;1.0;0.0;0.3333333333333333;G;2.0;Creature
+Sylvan Caryatid;7;7;0;1.0;0.0;0.5714285714285714;G;2.0;Creature
+Goblin Rabblemaster;12;8;4;0.66667;0.33333;0.5208333333333334;R;3.0;Creature
+Dryad of the Ilysian Grove;11;9;2;0.81818;0.18182;0.4814814814814814;G;3.0;Enchantment Creature
+General Ferrous Rokiric;4;3;1;0.75;0.25;0.5555555555555556;WR;3.0;Creature
+Spell Queller;3;1;2;0.33333;0.66667;0.3333333333333333;WU;3.0;Creature
+Glorybringer;13;12;1;0.92308;0.07692;0.4444444444444444;R;5.0;Creature
+Tovolar's Huntmaster;6;3;3;0.5;0.5;0.5555555555555556;G;6.0;Creature
+Cragcrown Pathway;10;6;4;0.6;0.4;0.3333333333333333;GR;0.0;Land
+Seachrome Coast;4;3;1;0.75;0.25;0.5555555555555556;WU;0.0;Land
+Needle Spires;4;3;1;0.75;0.25;0.3888888888888889;WR;0.0;Land
+Savannah;14;10;4;0.71429;0.28571;0.5333333333333333;GW;0.0;Land
+Underground Sea;8;7;1;0.875;0.125;0.5476190476190477;BU;0.0;Land
+Badlands;12;8;4;0.66667;0.33333;0.4791666666666667;BR;0.0;Land
+Ketria Triome;6;6;0;1.0;0.0;0.4166666666666667;URG;0.0;Land
+Raugrin Triome;11;11;0;1.0;0.0;0.4393939393939394;WUR;0.0;Land
+Prismatic Ending;8;4;4;0.5;0.5;0.5833333333333334;W;1.0;Sorcery
+Crop Rotation;10;3;7;0.3;0.7;0.7777777777777778;G;1.0;Instant
+Expedition Map;1;1;0;1.0;0.0;0.3333333333333333;Colorless;1.0;Artifact
+Search for Azcanta;2;1;1;0.5;0.5;0.3333333333333333;U;2.0;Enchantment
+Rip Apart;11;6;5;0.54545;0.45455;0.4166666666666667;RW;2.0;Sorcery
+Council's Judgment;13;11;2;0.84615;0.15385;0.4545454545454545;W;3.0;Sorcery
+Valakut Awakening;4;3;1;0.75;0.25;0.4444444444444444;R;3.0;Instant
+Treachery;8;6;2;0.75;0.25;0.5;U;5.0;Enchantment
+Commit // Memory;7;7;0;1.0;0.0;0.5952380952380952;U;4.0;Instant
+Tectonic Edge;4;1;3;0.25;0.75;0.8333333333333334;Colorless;0.0;Land
+Rishadan Port;13;8;5;0.61538;0.38462;0.5625;Colorless;0.0;Land
+Gaea's Cradle;9;6;3;0.66667;0.33333;0.6944444444444444;G;0.0;Land
+Student of Warfare;11;6;5;0.54545;0.45455;0.4722222222222222;W;1.0;Creature
+Kitchen Finks;12;8;4;0.66667;0.33333;0.625;GW;3.0;Creature
+Karn Liberated;6;3;3;0.5;0.5;0.6666666666666666;Colorless;7.0;Planeswalker
+Priest of Fell Rites;12;4;8;0.33333;0.66667;0.4583333333333333;WB;2.0;Creature
+Imperial Recruiter;10;7;3;0.7;0.3;0.5;R;3.0;Creature
+Solemn Simulacrum;7;5;2;0.71429;0.28571;0.5;Colorless;4.0;Artifact Creature
+Terastodon;6;2;4;0.33333;0.66667;0.75;G;8.0;Creature
+Woodfall Primus;7;5;2;0.71429;0.28571;0.4333333333333333;G;8.0;Creature
+Scrubland;13;11;2;0.84615;0.15385;0.4848484848484848;BW;0.0;Land
+Watery Grave;13;12;1;0.92308;0.07692;0.5138888888888888;BU;0.0;Land
+Indatha Triome;12;8;4;0.66667;0.33333;0.5;WBG;0.0;Land
+Ash Barrens;13;7;6;0.53846;0.46154;0.5714285714285714;Colorless;0.0;Land
+Fabled Passage;14;13;1;0.92857;0.07143;0.6025641025641025;Colorless;0.0;Land
+Polluted Delta;16;15;1;0.9375;0.0625;0.4333333333333333;UB;0.0;Land
+Serum Visions;11;8;3;0.72727;0.27273;0.625;U;1.0;Sorcery
+Entomb;11;9;2;0.81818;0.18182;0.5740740740740741;B;1.0;Instant
+Chart a Course;7;7;0;1.0;0.0;0.5;U;2.0;Sorcery
+Unmarked Grave;13;10;3;0.76923;0.23077;0.5;B;2.0;Sorcery
+Persist;9;6;3;0.66667;0.33333;0.5555555555555556;B;2.0;Sorcery
+Exhume;11;9;2;0.81818;0.18182;0.5925925925925926;B;2.0;Sorcery
+Rakdos Signet;6;4;2;0.66667;0.33333;0.25;BR;2.0;Artifact
+Liquimetal Torque;12;4;8;0.33333;0.66667;0.6666666666666666;Colorless;2.0;Artifact
+Thirst for Knowledge;12;7;5;0.58333;0.41667;0.4047619047619047;U;3.0;Instant
+Necromancy;10;8;2;0.8;0.2;0.5;B;3.0;Enchantment
+Prismari Command;11;7;4;0.63636;0.36364;0.4761904761904761;RU;3.0;Instant
+Dack Fayden;13;10;3;0.76923;0.23077;0.4833333333333333;RU;3.0;Planeswalker
+Worn Powerstone;12;7;5;0.58333;0.41667;0.5;Colorless;3.0;Artifact
+Sneak Attack;13;11;2;0.84615;0.15385;0.4696969696969697;R;4.0;Enchantment
+Treasure Cruise;12;8;4;0.66667;0.33333;0.7291666666666666;U;8.0;Sorcery
+Goblin Guide;7;3;4;0.42857;0.57143;0.6666666666666666;R;1.0;Creature
+Ephemerate;9;4;5;0.44444;0.55556;0.4583333333333333;W;1.0;Instant
+Earthshaker Khenra;11;7;4;0.63636;0.36364;0.5238095238095238;R;2.0;Creature
+Priest of Forgotten Gods;4;1;3;0.25;0.75;0.6666666666666666;B;2.0;Creature
+Memory Lapse;12;8;4;0.66667;0.33333;0.5625;U;2.0;Instant
+Unexpectedly Absent;15;9;6;0.6;0.4;0.4074074074074074;W;2.0;Instant
+Thalia's Lieutenant;7;3;4;0.42857;0.57143;0.4444444444444444;W;2.0;Creature
+Thalia, Guardian of Thraben;10;7;3;0.7;0.3;0.5952380952380952;W;2.0;Creature
+Metalworker;8;2;6;0.25;0.75;0.5;Colorless;3.0;Artifact Creature
+Embercleave;4;0;4;0.0;1.0;0.0;R;6.0;Artifact
+Bedlam Reveler;1;0;1;0.0;1.0;0.0;R;8.0;Creature
+Snapcaster Mage;10;10;0;1.0;0.0;0.5;U;2.0;Creature
+Thing in the Ice;9;6;3;0.66667;0.33333;0.6111111111111112;U;2.0;Creature
+Seasoned Pyromancer;12;7;5;0.58333;0.41667;0.6428571428571429;R;3.0;Creature
+Fury;13;11;2;0.84615;0.15385;0.5909090909090909;R;5.0;Creature
+Archon of Cruelty;10;7;3;0.7;0.3;0.6428571428571429;B;8.0;Creature
+Ashen Rider;2;1;1;0.5;0.5;1.0;WB;8.0;Creature
+Kozilek, Butcher of Truth;5;3;2;0.6;0.4;0.7777777777777778;Colorless;10.0;Creature
+Mox Diamond;11;9;2;0.81818;0.18182;0.6111111111111112;Colorless;0.0;Artifact
+Blightstep Pathway;12;7;5;0.58333;0.41667;0.4285714285714285;BR;0.0;Land
+Needleverge Pathway;11;6;5;0.54545;0.45455;0.5277777777777778;WR;0.0;Land
+Savai Triome;9;7;2;0.77778;0.22222;0.6666666666666666;WBR;0.0;Land
+Gitaxian Probe;16;15;1;0.9375;0.0625;0.4333333333333333;U;1.0;Sorcery
+Lightning Bolt;6;5;1;0.83333;0.16667;0.6333333333333333;R;1.0;Instant
+Lose Focus;11;10;1;0.90909;0.09091;0.5666666666666667;U;2.0;Instant
+Mana Leak;10;8;2;0.8;0.2;0.5833333333333334;U;2.0;Instant
+Lightning Helix;11;8;3;0.72727;0.27273;0.5625;RW;2.0;Instant
+Izzet Charm;11;5;6;0.45455;0.54545;0.4666666666666667;UR;2.0;Instant
+Memory Deluge;10;8;2;0.8;0.2;0.6458333333333334;U;4.0;Instant
+Golgari Rot Farm;4;1;3;0.25;0.75;0.1666666666666666;BG;0.0;Land
+Simic Growth Chamber;3;2;1;0.66667;0.33333;0.5;UG;0.0;Land
+Secluded Steppe;3;1;2;0.33333;0.66667;0.3333333333333333;W;0.0;Land
+Sea Gate Stormcaller;7;2;5;0.28571;0.71429;0.5833333333333334;U;2.0;Creature
+Recurring Nightmare;13;10;3;0.76923;0.23077;0.6833333333333333;B;3.0;Enchantment
+Brutal Cathar;6;3;3;0.5;0.5;0.2777777777777778;W;3.0;Creature
+Fires of Invention;5;1;4;0.2;0.8;0.3333333333333333;R;4.0;Enchantment
+Pia and Kiran Nalaar;12;8;4;0.66667;0.33333;0.4166666666666667;R;4.0;Creature
+Solitude;10;9;1;0.9;0.1;0.5555555555555556;W;5.0;Creature
+Timeless Dragon;4;2;2;0.5;0.5;0.25;W;5.0;Creature
+Alrund's Epiphany;5;2;3;0.4;0.6;0.5833333333333334;U;7.0;Sorcery
+Siege-Gang Commander;2;0;2;0.0;1.0;0.0;R;5.0;Creature
+Urza, Lord High Artificer;7;7;0;1.0;0.0;0.4047619047619047;U;4.0;Creature
+Wurmcoil Engine;11;10;1;0.90909;0.09091;0.5;Colorless;6.0;Artifact Creature
+Ulamog, the Infinite Gyre;11;4;7;0.36364;0.63636;0.3333333333333333;Colorless;11.0;Creature
+Urza's Bauble;8;5;3;0.625;0.375;0.6;Colorless;0.0;Artifact
+Chrome Mox;10;9;1;0.9;0.1;0.4444444444444444;Colorless;0.0;Artifact
+Fiery Islet;4;4;0;1.0;0.0;0.25;RU;0.0;Land
+Strip Mine;11;11;0;1.0;0.0;0.6060606060606061;Colorless;0.0;Land
+Urza's Saga;10;10;0;1.0;0.0;0.4833333333333333;Colorless;0.0;Enchantment Land
+Unholy Heat;8;7;1;0.875;0.125;0.3809523809523809;R;1.0;Instant
+Chromatic Sphere;4;2;2;0.5;0.5;0.0;Colorless;1.0;Artifact
+Selesnya Signet;7;3;4;0.42857;0.57143;0.5;GW;2.0;Artifact
+Show and Tell;11;7;4;0.63636;0.36364;0.3571428571428571;U;3.0;Sorcery
+Toxic Deluge;13;9;4;0.69231;0.30769;0.5370370370370371;B;3.0;Sorcery
+Overgrown Tomb;12;9;3;0.75;0.25;0.4074074074074074;BG;0.0;Land
+Lotus Petal;14;10;4;0.71429;0.28571;0.55;Colorless;0.0;Artifact
+Malakir Rebirth;6;2;4;0.33333;0.66667;0.8333333333333334;B;1.0;Instant
+Goblin Bombardment;10;4;6;0.4;0.6;0.5416666666666666;R;2.0;Enchantment
+Selfless Spirit;12;9;3;0.75;0.25;0.4629629629629629;W;2.0;Creature
+Daretti, Scrap Savant;12;3;9;0.25;0.75;0.7777777777777778;R;4.0;Planeswalker
+Yawgmoth, Thran Physician;12;8;4;0.66667;0.33333;0.5416666666666666;B;4.0;Creature
+Armageddon;8;5;3;0.625;0.375;0.4333333333333333;W;4.0;Sorcery
+Luminous Broodmoth;4;3;1;0.75;0.25;0.5;W;4.0;Creature
+Noble Hierarch;13;9;4;0.69231;0.30769;0.5740740740740741;G;1.0;Creature
+Birds of Paradise;12;12;0;1.0;0.0;0.4722222222222222;G;1.0;Creature
+Hydroid Krasis;9;8;1;0.88889;0.11111;0.5416666666666666;GU;2.0;Creature
+Ornithopter of Paradise;4;4;0;1.0;0.0;0.4583333333333333;Colorless;2.0;Artifact Creature
+Bloodbraid Elf;9;6;3;0.66667;0.33333;0.6111111111111112;RG;4.0;Creature
+Steam Vents;11;11;0;1.0;0.0;0.5151515151515151;RU;0.0;Land
+Tropical Island;14;12;2;0.85714;0.14286;0.7638888888888888;GU;0.0;Land
+Taiga;8;6;2;0.75;0.25;0.5833333333333334;GR;0.0;Land
+Stomping Ground;11;9;2;0.81818;0.18182;0.4074074074074074;GR;0.0;Land
+Zagoth Triome;9;9;0;1.0;0.0;0.6666666666666666;UBG;0.0;Land
+Wooded Foothills;17;15;2;0.88235;0.11765;0.5111111111111111;RG;0.0;Land
+Hard Evidence;12;5;7;0.41667;0.58333;0.5666666666666667;U;1.0;Sorcery
+Flame Slash;11;10;1;0.90909;0.09091;0.6333333333333333;R;1.0;Sorcery
+Green Sun's Zenith;11;7;4;0.63636;0.36364;0.5238095238095238;G;1.0;Sorcery
+Abundant Harvest;11;9;2;0.81818;0.18182;0.4629629629629629;G;1.0;Sorcery
+Expressive Iteration;8;7;1;0.875;0.125;0.5238095238095238;RU;2.0;Sorcery
+Growth Spiral;11;5;6;0.45455;0.54545;0.7;GU;2.0;Instant
+Wrenn and Six;9;6;3;0.66667;0.33333;0.5833333333333334;GR;2.0;Planeswalker
+Maelstrom Pulse;11;5;6;0.45455;0.54545;0.5;BG;3.0;Sorcery
+Ugin, the Spirit Dragon;12;7;5;0.58333;0.41667;0.3571428571428571;Colorless;8.0;Planeswalker
+Tranquil Thicket;7;3;4;0.42857;0.57143;0.4444444444444444;G;0.0;Land
+Bomat Courier;10;6;4;0.6;0.4;0.6111111111111112;R;1.0;Artifact Creature
+Dragon's Rage Channeler;10;7;3;0.7;0.3;0.4761904761904761;R;1.0;Creature
+Falkenrath Gorger;7;0;7;0.0;1.0;0.0;R;1.0;Creature
+Goblin Engineer;9;1;8;0.11111;0.88889;0.6666666666666666;R;2.0;Creature
+Flametongue Yearling;5;3;2;0.6;0.4;0.5;R;2.0;Creature
+Memory Jar;7;2;5;0.28571;0.71429;0.3333333333333333;Colorless;5.0;Artifact
+Fyndhorn Elves;13;11;2;0.84615;0.15385;0.5454545454545454;G;1.0;Creature
+Devoted Druid;11;7;4;0.63636;0.36364;0.4285714285714285;G;2.0;Creature
+Tarmogoyf;9;8;1;0.88889;0.11111;0.6041666666666666;G;2.0;Creature
+Hullbreacher;10;7;3;0.7;0.3;0.4523809523809524;U;3.0;Creature
+Bonecrusher Giant;11;8;3;0.72727;0.27273;0.6875;R;2.0;Instant
+Eternal Witness;12;6;6;0.5;0.5;0.7222222222222222;G;3.0;Creature
+Leovold, Emissary of Trest;12;5;7;0.41667;0.58333;0.5666666666666667;BGU;3.0;Creature
+Blood Crypt;9;6;3;0.66667;0.33333;0.5555555555555556;BR;0.0;Land
+Raging Ravine;13;10;3;0.76923;0.23077;0.5333333333333333;GR;0.0;Land
+Field of the Dead;7;3;4;0.42857;0.57143;0.3888888888888889;Colorless;0.0;Land
+Misty Rainforest;21;20;1;0.95238;0.04762;0.5166666666666667;UG;0.0;Land
+Izzet Signet;7;4;3;0.57143;0.42857;0.5416666666666666;RU;2.0;Artifact
+Timetwister;8;6;2;0.75;0.25;0.5555555555555556;U;3.0;Sorcery
+Grist, the Hunger Tide;13;9;4;0.69231;0.30769;0.4814814814814814;BG;3.0;Planeswalker
+Sword of Fire and Ice;9;7;2;0.77778;0.22222;0.6190476190476191;Colorless;3.0;Artifact
+Chandra, Torch of Defiance;11;11;0;1.0;0.0;0.6515151515151515;R;4.0;Planeswalker
+Garruk Relentless;4;4;0;1.0;0.0;0.5416666666666666;G;4.0;Planeswalker
+Arlinn, the Pack's Hope;9;6;3;0.66667;0.33333;0.5277777777777778;RG;4.0;Planeswalker
+Escape to the Wilds;8;3;5;0.375;0.625;0.5555555555555556;RG;5.0;Sorcery
+Shark Typhoon;13;10;3;0.76923;0.23077;0.6333333333333333;U;6.0;Enchantment
+Turntimber Symbiosis;5;4;1;0.8;0.2;0.625;G;7.0;Sorcery
+Forgotten Cave;6;3;3;0.5;0.5;0.8888888888888888;R;0.0;Land
+Pest Infestation;9;6;3;0.66667;0.33333;0.4722222222222222;G;1.0;Sorcery
+Reckless Stormseeker;7;3;4;0.42857;0.57143;0.5;R;3.0;Creature
+Legion Warboss;8;5;3;0.625;0.375;0.4666666666666667;R;3.0;Creature
+Mulldrifter;1;0;1;0.0;1.0;0.0;U;5.0;Creature
+Approach of the Second Sun;5;2;3;0.4;0.6;0.3333333333333333;W;7.0;Sorcery
+Walking Ballista;8;7;1;0.875;0.125;0.4761904761904761;Colorless;0.0;Artifact Creature
+Elvish Mystic;11;10;1;0.90909;0.09091;0.5;G;1.0;Creature
+Robber of the Rich;13;10;3;0.76923;0.23077;0.5;R;2.0;Creature
+Voracious Hydra;10;6;4;0.6;0.4;0.5;G;2.0;Creature
+Laelia, the Blade Reforged;9;9;0;1.0;0.0;0.6111111111111112;R;3.0;Creature
+Tireless Tracker;13;10;3;0.76923;0.23077;0.3;G;3.0;Creature
+Blooming Marsh;9;6;3;0.66667;0.33333;0.3611111111111111;BG;0.0;Land
+Demonic Tutor;11;11;0;1.0;0.0;0.4090909090909091;B;2.0;Sorcery
+Shatterskull Smashing;13;12;1;0.92308;0.07692;0.5833333333333334;R;2.0;Land
+Smuggler's Copter;13;11;2;0.84615;0.15385;0.5;Colorless;2.0;Artifact
+Dismember;13;12;1;0.92308;0.07692;0.5416666666666666;B;3.0;Instant
+Esika's Chariot;13;11;2;0.84615;0.15385;0.5454545454545454;G;4.0;Artifact
+Smoldering Egg;1;0;1;0.0;1.0;0.0;R;2.0;Creature
+Augur of Autumn;11;9;2;0.81818;0.18182;0.3703703703703703;G;3.0;Creature
+Karn, Scion of Urza;15;10;5;0.66667;0.33333;0.5166666666666667;Colorless;4.0;Planeswalker
+Deep Forest Hermit;10;4;6;0.4;0.6;0.5;G;5.0;Creature
+Nicol Bolas, God-Pharaoh;2;0;2;0.0;1.0;0.0;UBR;7.0;Planeswalker
+Emeria's Call;14;9;5;0.64286;0.35714;0.4814814814814814;W;7.0;Sorcery
+Mother of Runes;11;8;3;0.72727;0.27273;0.4166666666666667;W;1.0;Creature
+Scavenging Ooze;11;6;5;0.54545;0.45455;0.4166666666666667;G;2.0;Creature
+Elite Spellbinder;12;9;3;0.75;0.25;0.4444444444444444;W;3.0;Creature
+Skyclave Apparition;13;11;2;0.84615;0.15385;0.4696969696969697;W;3.0;Creature
+Ophiomancer;10;10;0;1.0;0.0;0.45;B;3.0;Creature
+Archangel Avacyn;3;2;1;0.66667;0.33333;0.3333333333333333;W;5.0;Creature
+Grave Titan;10;7;3;0.7;0.3;0.3571428571428571;B;6.0;Creature
+Mishra's Bauble;10;9;1;0.9;0.1;0.4629629629629629;Colorless;0.0;Artifact
+Brightclimb Pathway;10;7;3;0.7;0.3;0.3809523809523809;WB;0.0;Land
+Darkbore Pathway;10;7;3;0.7;0.3;0.7619047619047619;BG;0.0;Land
+Wasteland;9;9;0;1.0;0.0;0.3703703703703703;Colorless;0.0;Land
+Thoughtseize;9;9;0;1.0;0.0;0.4814814814814814;B;1.0;Sorcery
+Bitterblossom;11;8;3;0.72727;0.27273;0.6041666666666666;B;2.0;Tribal Enchantment
+Assassin's Trophy;10;7;3;0.7;0.3;0.2857142857142857;BG;2.0;Instant
+Snuff Out;11;9;2;0.81818;0.18182;0.5185185185185185;B;4.0;Instant
+Elspeth Conquers Death;4;3;1;0.75;0.25;0.3888888888888889;W;5.0;Enchantment
+Casualties of War;4;1;3;0.25;0.75;0.0;BG;6.0;Sorcery
+Survival of the Fittest;8;4;4;0.5;0.5;0.3333333333333333;G;2.0;Enchantment
+Rofellos, Llanowar Emissary;11;8;3;0.72727;0.27273;0.6041666666666666;G;2.0;Creature
+Search for Tomorrow;4;2;2;0.5;0.5;0.1666666666666666;G;3.0;Sorcery
+The Scarab God;5;2;3;0.4;0.6;0.5;UB;5.0;Creature
+Plow Under;1;0;1;0.0;1.0;0.0;G;5.0;Sorcery
+Griselbrand;10;8;2;0.8;0.2;0.375;B;8.0;Creature
+Giver of Runes;12;8;4;0.66667;0.33333;0.6041666666666666;W;1.0;Creature
+Vendilion Clique;14;11;3;0.78571;0.21429;0.4848484848484848;U;3.0;Creature
+Hall of Storm Giants;7;6;1;0.85714;0.14286;0.5555555555555556;U;0.0;Land
+Raffine's Tower;4;4;0;1.0;0.0;0.625;WUB;0.0;Land
+Flooded Strand;20;19;1;0.95;0.05;0.543859649122807;WU;0.0;Land
+Maze of Ith;11;4;7;0.36364;0.63636;0.625;Colorless;0.0;Land
+Swift Reconfiguration;4;4;0;1.0;0.0;0.5833333333333334;W;1.0;Enchantment
+Consider;8;8;0;1.0;0.0;0.5833333333333334;U;1.0;Instant
+Golgari Signet;6;3;3;0.5;0.5;0.6666666666666666;BG;2.0;Artifact
+Azorius Signet;11;8;3;0.72727;0.27273;0.6458333333333334;UW;2.0;Artifact
+Dimir Signet;11;6;5;0.54545;0.45455;0.5277777777777778;BU;2.0;Artifact
+Fact or Fiction;8;5;3;0.625;0.375;0.7333333333333333;U;4.0;Instant
+Supreme Verdict;10;3;7;0.3;0.7;0.4444444444444444;UW;4.0;Sorcery
+Force of Will;11;10;1;0.90909;0.09091;0.5333333333333333;U;5.0;Instant
+Dig Through Time;13;9;4;0.69231;0.30769;0.4074074074074074;U;8.0;Instant
+Eater of Virtue;6;5;1;0.83333;0.16667;0.5;Colorless;1.0;Artifact
+Thought Scour;8;5;3;0.625;0.375;0.5;U;1.0;Instant
+Murderous Cut;6;3;3;0.5;0.5;0.6666666666666666;B;5.0;Instant
+Time Spiral;8;3;5;0.375;0.625;0.3888888888888889;U;6.0;Sorcery
+Elvish Reclaimer;11;8;3;0.72727;0.27273;0.4166666666666667;G;1.0;Creature
+Reclamation Sage;10;7;3;0.7;0.3;0.4285714285714285;G;3.0;Creature
+Hullbreaker Horror;5;3;2;0.6;0.4;0.6111111111111112;U;7.0;Creature
+Celestial Colonnade;12;9;3;0.75;0.25;0.5;UW;0.0;Land
+Portable Hole;7;5;2;0.71429;0.28571;0.3666666666666666;W;1.0;Artifact
+Daze;11;7;4;0.63636;0.36364;0.4285714285714285;U;2.0;Instant
+Thirst for Discovery;6;4;2;0.66667;0.33333;0.625;U;3.0;Instant
+Mayhem Devil;13;3;10;0.23077;0.76923;0.7222222222222222;BR;3.0;Creature
+Uro, Titan of Nature's Wrath;5;2;3;0.4;0.6;0.5;UG;3.0;Creature
+Chord of Calling;7;4;3;0.57143;0.42857;0.5833333333333334;G;3.0;Instant
+Spike Feeder;10;0;10;0.0;1.0;0.0;G;3.0;Creature
+Light Up the Stage;5;2;3;0.4;0.6;0.5833333333333334;R;3.0;Sorcery
+Porcelain Legionnaire;12;8;4;0.66667;0.33333;0.5833333333333334;W;3.0;Artifact Creature
+The Gitrog Monster;8;5;3;0.625;0.375;0.4666666666666667;BG;5.0;Creature
+Sundering Titan;9;4;5;0.44444;0.55556;0.4583333333333333;Colorless;8.0;Artifact Creature
+Llanowar Elves;8;8;0;1.0;0.0;0.4375;G;1.0;Creature
+Grim Flayer;7;2;5;0.28571;0.71429;0.5;BG;2.0;Creature
+Rankle, Master of Pranks;13;10;3;0.76923;0.23077;0.5666666666666667;B;4.0;Creature
+Oracle of Mul Daya;10;7;3;0.7;0.3;0.6428571428571429;G;4.0;Creature
+Magus of the Order;6;3;3;0.5;0.5;0.3888888888888889;G;4.0;Creature
+Thragtusk;13;11;2;0.84615;0.15385;0.4848484848484848;G;5.0;Creature
+Deranged Hermit;3;3;0;1.0;0.0;0.6666666666666666;G;5.0;Creature
+Engineered Explosives;12;5;7;0.41667;0.58333;0.6333333333333333;Colorless;0.0;Artifact
+Hive of the Eye Tyrant;9;8;1;0.88889;0.11111;0.5625;B;0.0;Land
+Lair of the Hydra;7;5;2;0.71429;0.28571;0.3333333333333333;G;0.0;Land
+Field of Ruin;4;2;2;0.5;0.5;0.6666666666666666;Colorless;0.0;Land
+Agadeem's Awakening;10;4;6;0.4;0.6;0.5833333333333334;B;3.0;Sorcery
+Thran Dynamo;8;4;4;0.5;0.5;0.7083333333333334;Colorless;4.0;Artifact
+Inquisition of Kozilek;10;9;1;0.9;0.1;0.6851851851851852;B;1.0;Sorcery
+Dark Ritual;8;2;6;0.25;0.75;0.75;B;1.0;Instant
+Chromatic Star;8;4;4;0.5;0.5;0.5833333333333334;Colorless;1.0;Artifact
+Rift Bolt;7;5;2;0.71429;0.28571;0.4666666666666667;R;3.0;Sorcery
+Birthing Pod;10;4;6;0.4;0.6;0.5;G;4.0;Artifact
+Craterhoof Behemoth;10;5;5;0.5;0.5;0.3333333333333333;G;8.0;Creature
+Ancient Stone Idol;8;3;5;0.375;0.625;0.3888888888888889;Colorless;10.0;Artifact Creature
+Vizier of Remedies;8;1;7;0.125;0.875;0.5;W;2.0;Creature
+Charming Prince;10;8;2;0.8;0.2;0.4583333333333333;W;2.0;Creature
+Seasoned Hallowblade;12;10;2;0.83333;0.16667;0.5;W;2.0;Creature
+Dire Fleet Daredevil;7;4;3;0.57143;0.42857;0.5416666666666666;R;2.0;Creature
+Jetmir's Garden;3;3;0;1.0;0.0;0.4444444444444444;GRW;0.0;Land
+Mutavault;12;8;4;0.66667;0.33333;0.5208333333333334;Colorless;0.0;Land
+Legion's Landing;10;5;5;0.5;0.5;0.5666666666666667;W;1.0;Enchantment
+Seal of Fire;9;6;3;0.66667;0.33333;0.6388888888888888;R;1.0;Enchantment
+Winter Orb;8;4;4;0.5;0.5;0.5;Colorless;2.0;Artifact
+Wheel of Fortune;10;7;3;0.7;0.3;0.4285714285714285;R;3.0;Sorcery
+The Wandering Emperor;4;4;0;1.0;0.0;0.6666666666666666;W;4.0;Planeswalker
+Showdown of the Skalds;9;5;4;0.55556;0.44444;0.6333333333333333;RW;4.0;Enchantment
+Blackcleave Cliffs;9;7;2;0.77778;0.22222;0.5714285714285714;BR;0.0;Land
+Putrid Imp;10;4;6;0.4;0.6;0.4583333333333333;B;1.0;Creature
+Hymn to Tourach;10;5;5;0.5;0.5;0.4666666666666667;B;2.0;Sorcery
+Heliod, Sun-Crowned;7;2;5;0.28571;0.71429;0.5833333333333334;W;3.0;Enchantment Creature
+Falkenrath Aristocrat;14;6;8;0.42857;0.57143;0.4444444444444444;BR;4.0;Creature
+Monastery Swiftspear;11;8;3;0.72727;0.27273;0.625;R;1.0;Creature
+Falkenrath Pit Fighter;10;5;5;0.5;0.5;0.6333333333333333;R;1.0;Creature
+Zurgo Bellstriker;9;5;4;0.55556;0.44444;0.6666666666666666;R;1.0;Creature
+Luminarch Aspirant;10;9;1;0.9;0.1;0.4629629629629629;W;2.0;Creature
+Kari Zev, Skyship Raider;14;13;1;0.92857;0.07143;0.5256410256410257;R;2.0;Creature
+Bloodthirsty Adversary;9;6;3;0.66667;0.33333;0.6666666666666666;R;2.0;Creature
+Embereth Shieldbreaker;9;5;4;0.55556;0.44444;0.6333333333333333;R;1.0;Sorcery
+Monastery Mentor;14;10;4;0.71429;0.28571;0.5166666666666667;W;3.0;Creature
+Hanweir Garrison;10;8;2;0.8;0.2;0.625;R;3.0;Creature
+Spikefield Hazard;7;6;1;0.85714;0.14286;0.5277777777777778;R;1.0;Instant
+Pyrite Spellbomb;5;3;2;0.6;0.4;0.6111111111111112;R;1.0;Artifact
+Crucible of Worlds;12;6;6;0.5;0.5;0.4444444444444444;Colorless;3.0;Artifact
+Murderous Redcap;8;4;4;0.5;0.5;0.5416666666666666;BR;4.0;Creature
+Champion of the Parish;11;7;4;0.63636;0.36364;0.5238095238095238;W;1.0;Creature
+Esper Sentinel;5;4;1;0.8;0.2;0.5833333333333334;W;1.0;Artifact Creature
+Dauntless Bodyguard;10;7;3;0.7;0.3;0.4523809523809524;W;1.0;Creature
+Usher of the Fallen;12;7;5;0.58333;0.41667;0.5476190476190477;W;1.0;Creature
+Soul-Scar Mage;9;5;4;0.55556;0.44444;0.6333333333333333;R;1.0;Creature
+Sungold Sentinel;5;5;0;1.0;0.0;0.6;W;2.0;Creature
+Anafenza, Kin-Tree Spirit;8;5;3;0.625;0.375;0.5333333333333333;W;2.0;Creature
+Karmic Guide;4;2;2;0.5;0.5;0.5833333333333334;W;5.0;Creature
+Den of the Bugbear;8;8;0;1.0;0.0;0.4791666666666667;R;0.0;Land
+Plateau;13;9;4;0.69231;0.30769;0.5740740740740741;RW;0.0;Land
+Path to Exile;11;9;2;0.81818;0.18182;0.4629629629629629;W;1.0;Instant
+Faithless Looting;9;9;0;1.0;0.0;0.4259259259259259;R;1.0;Sorcery
+Searing Spear;8;8;0;1.0;0.0;0.5208333333333334;R;2.0;Instant
+Lightning Greaves;7;1;6;0.14286;0.85714;0.6666666666666666;Colorless;2.0;Artifact
+Occult Epiphany;7;5;2;0.71429;0.28571;0.4666666666666667;U;1.0;Instant
+Time Warp;12;7;5;0.58333;0.41667;0.4523809523809524;U;5.0;Sorcery
+Stonecoil Serpent;12;8;4;0.66667;0.33333;0.5208333333333334;Colorless;0.0;Artifact Creature
+Rabbit Battery;3;3;0;1.0;0.0;0.5555555555555556;R;1.0;Artifact Creature
+Figure of Destiny;10;6;4;0.6;0.4;0.5555555555555556;RW;1.0;Creature
+Cathar Commando;10;9;1;0.9;0.1;0.4814814814814814;W;2.0;Creature
+Najeela, the Blade-Blossom;4;1;3;0.25;0.75;0.5;R;3.0;Creature
+Tarfire;7;6;1;0.85714;0.14286;0.6388888888888888;R;1.0;Tribal Instant
+Fireblast;12;10;2;0.83333;0.16667;0.5;R;6.0;Instant
+Traverse the Ulvenwald;8;3;5;0.375;0.625;0.1111111111111111;G;1.0;Sorcery
+Goblin Welder;9;4;5;0.44444;0.55556;0.75;R;1.0;Creature
+Carrion Feeder;14;5;9;0.35714;0.64286;0.6333333333333333;B;1.0;Creature
+Lesser Masticore;8;2;6;0.25;0.75;0.5;Colorless;2.0;Artifact Creature
+Bloodghast;11;5;6;0.45455;0.54545;0.4;B;2.0;Creature
+Blade of the Oni;6;4;2;0.66667;0.33333;0.375;B;2.0;Artifact Creature
+Good-Fortune Unicorn;6;2;4;0.33333;0.66667;0.6666666666666666;WG;3.0;Creature
+Rotting Regisaur;14;6;8;0.42857;0.57143;0.3055555555555556;B;3.0;Creature
+Questing Beast;11;10;1;0.90909;0.09091;0.4;G;4.0;Creature
+Ravenous Chupacabra;6;5;1;0.83333;0.16667;0.6;B;4.0;Creature
+Cryptbreaker;12;8;4;0.66667;0.33333;0.5;B;1.0;Creature
+Gravecrawler;12;2;10;0.16667;0.83333;0.3333333333333333;B;1.0;Creature
+Bloodsoaked Champion;10;7;3;0.7;0.3;0.4047619047619047;B;1.0;Creature
+Scrapheap Scrounger;10;7;3;0.7;0.3;0.4761904761904761;B;2.0;Artifact Creature
+Wight;2;2;0;1.0;0.0;0.3333333333333333;B;2.0;Creature
+Dark Confidant;14;9;5;0.64286;0.35714;0.4629629629629629;B;2.0;Creature
+Midnight Reaper;12;3;9;0.25;0.75;0.5;B;3.0;Creature
+Hazoret the Fervent;8;4;4;0.5;0.5;0.5833333333333334;R;4.0;Creature
+Burst Lightning;3;3;0;1.0;0.0;0.6111111111111112;R;1.0;Instant
+Sulfuric Vortex;10;7;3;0.7;0.3;0.5476190476190477;R;3.0;Enchantment
+Painful Truths;1;1;0;1.0;0.0;0.3333333333333333;B;3.0;Sorcery
+Grim Lavamancer;11;8;3;0.72727;0.27273;0.625;R;1.0;Creature
+Ragavan, Nimble Pilferer;12;12;0;1.0;0.0;0.5833333333333334;R;1.0;Creature
+Goblin Cratermaker;6;3;3;0.5;0.5;0.6111111111111112;R;2.0;Creature
+Emrakul, the Aeons Torn;10;6;4;0.6;0.4;0.5;Colorless;15.0;Creature
+Lavaclaw Reaches;3;3;0;1.0;0.0;0.6666666666666666;BR;0.0;Land
+Ancient Tomb;12;9;3;0.75;0.25;0.6851851851851852;Colorless;0.0;Land
+Light Up the Night;4;3;1;0.75;0.25;0.6111111111111112;R;1.0;Sorcery
+Liliana of the Veil;9;7;2;0.77778;0.22222;0.5;B;3.0;Planeswalker
+Chandra, Acolyte of Flame;11;8;3;0.72727;0.27273;0.5416666666666666;R;3.0;Planeswalker
+Mishra's Factory;9;8;1;0.88889;0.11111;0.6666666666666666;Colorless;0.0;Land
+Dreadhorde Arcanist;6;2;4;0.33333;0.66667;0.5833333333333334;R;2.0;Creature
+Mimic Vat;2;0;2;0.0;1.0;0.0;Colorless;3.0;Artifact
+Smokestack;8;2;6;0.25;0.75;0.3333333333333333;Colorless;4.0;Artifact
+Carnage Tyrant;7;5;2;0.71429;0.28571;0.5;G;6.0;Creature
+Zealous Conscripts;11;9;2;0.81818;0.18182;0.4629629629629629;R;5.0;Creature
+Kiki-Jiki, Mirror Breaker;8;5;3;0.625;0.375;0.4;R;5.0;Creature
+Clearwater Pathway;11;9;2;0.81818;0.18182;0.5925925925925926;UB;0.0;Land
+Imperial Seal;6;4;2;0.66667;0.33333;0.25;B;1.0;Sorcery
+Splinter Twin;9;5;4;0.55556;0.44444;0.4;R;4.0;Enchantment
+Young Pyromancer;11;7;4;0.63636;0.36364;0.6190476190476191;R;2.0;Creature
+Jace, Wielder of Mysteries;3;0;3;0.0;1.0;0.0;U;4.0;Planeswalker
+Opposition;13;6;7;0.46154;0.53846;0.6944444444444444;U;4.0;Enchantment
+Upheaval;11;5;6;0.45455;0.54545;0.7666666666666667;U;6.0;Sorcery
+Gilded Goose;15;13;2;0.86667;0.13333;0.6282051282051282;G;1.0;Creature
+Hostage Taker;9;6;3;0.66667;0.33333;0.5833333333333334;UB;4.0;Creature
+Breeding Pool;12;7;5;0.58333;0.41667;0.5714285714285714;GU;0.0;Land
+Sylvan Library;9;8;1;0.88889;0.11111;0.5625;G;2.0;Enchantment
+Harmonize;5;3;2;0.6;0.4;0.2777777777777778;G;4.0;Sorcery
+Nissa, Who Shakes the World;11;7;4;0.63636;0.36364;0.3809523809523809;G;5.0;Planeswalker
+Copperline Gorge;5;1;4;0.2;0.8;0.3333333333333333;RG;0.0;Land
+Shambling Vent;5;4;1;0.8;0.2;0.625;WB;0.0;Land
+Reanimate;11;7;4;0.63636;0.36364;0.5238095238095238;B;1.0;Sorcery
+Cryptic Command;14;12;2;0.85714;0.14286;0.5416666666666666;U;4.0;Instant
+Dread Wanderer;14;6;8;0.42857;0.57143;0.4444444444444444;B;1.0;Creature
+Knight of the Ebon Legion;14;5;9;0.35714;0.64286;0.5;B;1.0;Creature
+Skyclave Shade;11;4;7;0.36364;0.63636;0.5416666666666666;B;2.0;Creature
+Oona's Prowler;12;5;7;0.41667;0.58333;0.5;B;2.0;Creature
+Vryn Wingmare;2;1;1;0.5;0.5;0.3333333333333333;W;3.0;Creature
+Sedgemoor Witch;11;6;5;0.54545;0.45455;0.3333333333333333;B;3.0;Creature
+Palace Jailer;12;10;2;0.83333;0.16667;0.4666666666666667;W;4.0;Creature
+Barren Moor;1;1;0;1.0;0.0;0.3333333333333333;B;0.0;Land
+Bloodchief's Thirst;12;11;1;0.91667;0.08333;0.6212121212121212;B;1.0;Sorcery
+Damn;11;7;4;0.63636;0.36364;0.3333333333333333;WB;2.0;Sorcery
+Collective Brutality;9;7;2;0.77778;0.22222;0.4285714285714285;B;2.0;Sorcery
+History of Benalia;6;5;1;0.83333;0.16667;0.4;W;3.0;Enchantment
+Liliana, the Last Hope;13;7;6;0.53846;0.46154;0.5714285714285714;B;3.0;Planeswalker
+Grafted Wargear;9;7;2;0.77778;0.22222;0.4523809523809524;Colorless;3.0;Artifact
+Castle Ardenvale;2;2;0;1.0;0.0;0.4166666666666667;W;0.0;Land
+Hallowed Fountain;10;6;4;0.6;0.4;0.5277777777777778;UW;0.0;Land
+Xenagos, the Reveler;4;1;3;0.25;0.75;0.5;RG;4.0;Planeswalker
+Kenrith, the Returned King;6;0;6;0.0;1.0;0.0;WUBRG;5.0;Creature
+Gilded Lotus;4;2;2;0.5;0.5;0.3333333333333333;Colorless;5.0;Artifact
+Dragon Hunter;8;4;4;0.5;0.5;0.5416666666666666;W;1.0;Creature
+Blade Splicer;11;8;3;0.72727;0.27273;0.5;W;3.0;Creature
+Evolving Wilds;3;3;0;1.0;0.0;0.7222222222222222;Colorless;0.0;Land
+Bone Shards;11;9;2;0.81818;0.18182;0.5185185185185185;B;1.0;Sorcery
+Bonesplitter;8;6;2;0.75;0.25;0.6666666666666666;Colorless;1.0;Artifact
+Baleful Mastery;4;2;2;0.5;0.5;0.4166666666666667;B;4.0;Instant
+Gavony Township;3;0;3;0.0;1.0;0.0;WG;0.0;Land
+Brainstorm;7;4;3;0.57143;0.42857;0.4166666666666667;U;1.0;Instant
+Lodestone Golem;10;6;4;0.6;0.4;0.6388888888888888;Colorless;4.0;Artifact Creature
+Doomskar;4;0;4;0.0;1.0;0.0;W;5.0;Sorcery
+Sun Titan;5;3;2;0.6;0.4;0.3888888888888889;W;6.0;Creature
+Stirring Wildwood;1;1;0;1.0;0.0;0.3333333333333333;WG;0.0;Land
+Gideon of the Trials;1;1;0;1.0;0.0;0.3333333333333333;W;3.0;Planeswalker
+Parallax Wave;13;6;7;0.46154;0.53846;0.4166666666666667;W;4.0;Enchantment
+Pestermite;10;4;6;0.4;0.6;0.4166666666666667;U;3.0;Creature
+Torrential Gearhulk;5;2;3;0.4;0.6;0.5;U;6.0;Artifact Creature
+Sensei's Divining Top;9;6;3;0.66667;0.33333;0.4444444444444444;Colorless;1.0;Artifact
+Miscalculation;10;10;0;1.0;0.0;0.5;U;2.0;Instant
+Coalition Relic;9;8;1;0.88889;0.11111;0.5416666666666666;Colorless;3.0;Artifact
+Mindslaver;9;4;5;0.44444;0.55556;0.5416666666666666;Colorless;6.0;Artifact
+Phyrexian Tower;11;4;7;0.36364;0.63636;0.4583333333333333;B;0.0;Land
+Thief of Sanity;7;3;4;0.42857;0.57143;0.6111111111111112;UB;3.0;Creature
+Riftwing Cloudskate;7;5;2;0.71429;0.28571;0.5666666666666667;U;5.0;Creature
+Jadar, Ghoulcaller of Nephalia;11;6;5;0.54545;0.45455;0.3333333333333333;B;2.0;Creature
+Spellseeker;4;3;1;0.75;0.25;0.4444444444444444;U;3.0;Creature
+Venser, Shaper Savant;10;9;1;0.9;0.1;0.4259259259259259;U;4.0;Creature
+Triplicate Titan;8;7;1;0.875;0.125;0.5;Colorless;9.0;Artifact Creature
+Opt;11;10;1;0.90909;0.09091;0.5;U;1.0;Instant
+Unearth;3;3;0;1.0;0.0;0.3333333333333333;B;1.0;Sorcery
+Animate Dead;11;9;2;0.81818;0.18182;0.5185185185185185;B;2.0;Enchantment
+Waterlogged Grove;3;2;1;0.66667;0.33333;0.5;GU;0.0;Land
+Blood Artist;8;4;4;0.5;0.5;0.625;B;2.0;Creature
+Polukranos, World Eater;3;1;2;0.33333;0.66667;0.6666666666666666;G;4.0;Creature
+Titania, Protector of Argoth;8;6;2;0.75;0.25;0.5555555555555556;G;5.0;Creature
+Archangel of Thune;5;1;4;0.2;0.8;0.3333333333333333;W;5.0;Creature
+Nexus of Fate;3;0;3;0.0;1.0;0.0;U;7.0;Instant
+Cavalier of Gales;3;2;1;0.66667;0.33333;0.5;U;5.0;Creature
+Consecrated Sphinx;4;4;0;1.0;0.0;0.5416666666666666;U;6.0;Creature
+Lonely Sandbar;3;2;1;0.66667;0.33333;0.4166666666666667;U;0.0;Land
+Creeping Tar Pit;11;8;3;0.72727;0.27273;0.5833333333333334;BU;0.0;Land
+Umezawa's Jitte;12;11;1;0.91667;0.08333;0.6363636363636364;Colorless;2.0;Artifact
+Dryad Arbor;3;1;2;0.33333;0.66667;0.5;G;0.0;Land Creature
+Gutterbones;8;1;7;0.125;0.875;0.8333333333333334;B;1.0;Creature
+Ajani Vengeant;2;1;1;0.5;0.5;0.6666666666666666;WR;4.0;Planeswalker
+Ethereal Forager;8;5;3;0.625;0.375;0.5333333333333333;U;6.0;Creature
+Sleight of Hand;8;7;1;0.875;0.125;0.6904761904761905;U;1.0;Sorcery
+Preordain;7;7;0;1.0;0.0;0.5238095238095238;U;1.0;Sorcery
+Impulse;8;7;1;0.875;0.125;0.5714285714285714;U;2.0;Instant
+Jace, the Mind Sculptor;9;9;0;1.0;0.0;0.5925925925925926;U;4.0;Planeswalker
+Gruul Signet;7;3;4;0.42857;0.57143;0.3888888888888889;GR;2.0;Artifact
+Altar of Dementia;7;0;7;0.0;1.0;0.0;Colorless;2.0;Artifact
+Lutri, the Spellchaser;12;0;12;0.0;1.0;0.6666666666666666;UR;3.0;Creature
+Spell Pierce;5;4;1;0.8;0.2;0.5416666666666666;U;1.0;Instant
+Frantic Search;7;6;1;0.85714;0.14286;0.6111111111111112;U;3.0;Instant
+Iona, Shield of Emeria;1;1;0;1.0;0.0;1.0;W;9.0;Creature
+Temple of Silence;1;1;0;1.0;0.0;1.0;WB;0.0;Land
+Concealed Courtyard;7;3;4;0.42857;0.57143;0.5;WB;0.0;Land
+Faith's Fetters;1;1;0;1.0;0.0;1.0;W;4.0;Enchantment
+Looter il-Kor;1;1;0;1.0;0.0;1.0;U;2.0;Creature
+Temple of Malady;1;0;1;0.0;1.0;0.0;BG;0.0;Land
+Negate;2;1;1;0.5;0.5;0.5;U;2.0;Instant
+Manamorphose;1;0;1;0.0;1.0;0.0;RG;2.0;Instant
+Cabal Initiate;2;1;1;0.5;0.5;0.3333333333333333;B;2.0;Creature
+Fauna Shaman;9;6;3;0.66667;0.33333;0.5277777777777778;G;2.0;Creature
+Tasigur, the Golden Fang;2;1;1;0.5;0.5;0.3333333333333333;UBG;6.0;Creature
+Hornet Queen;6;3;3;0.5;0.5;0.3888888888888889;G;7.0;Creature
+Life // Death;9;3;6;0.33333;0.66667;0.5555555555555556;B;2.0;Sorcery
+Primal Command;6;3;3;0.5;0.5;0.5;G;5.0;Sorcery
+Krosan Verge;2;1;1;0.5;0.5;0.5;WG;0.0;Land
+Lore Seeker;6;1;5;0.16667;0.83333;0.6666666666666666;Colorless;2.0;Artifact Creature
+Heirloom Blade;6;2;4;0.33333;0.66667;0.5;Colorless;3.0;Artifact
+Reveillark;10;2;8;0.2;0.8;0.5;W;5.0;Creature
+Joraga Treespeaker;10;9;1;0.9;0.1;0.5185185185185185;G;1.0;Creature
+Fastbond;10;3;7;0.3;0.7;0.3888888888888889;G;1.0;Enchantment
+Knight of the Reliquary;8;4;4;0.5;0.5;0.5;GW;3.0;Creature
+Cogwork Librarian;8;0;8;0.0;1.0;0.0;Colorless;4.0;Artifact Creature
+Expansion // Explosion;1;0;1;0.0;1.0;0.0;UR;6.0;Instant
+Putrid Goblin;8;3;5;0.375;0.625;0.7222222222222222;B;2.0;Creature
+Melira, Sylvok Outcast;8;3;5;0.375;0.625;0.4444444444444444;G;2.0;Creature
+Mind Twist;8;7;1;0.875;0.125;0.6190476190476191;B;1.0;Sorcery
+Skullclamp;13;11;2;0.84615;0.15385;0.5454545454545454;Colorless;1.0;Artifact
+Blasting Station;6;3;3;0.5;0.5;0.5555555555555556;Colorless;3.0;Artifact
+Courser of Kruphix;9;6;3;0.66667;0.33333;0.7222222222222222;G;3.0;Enchantment Creature
+Outland Liberator;10;4;6;0.4;0.6;0.2083333333333333;G;2.0;Creature
+Nissa, Vastwood Seer;5;5;0;1.0;0.0;0.5666666666666667;G;3.0;Creature
+Primeval Titan;8;7;1;0.875;0.125;0.2857142857142857;G;6.0;Creature
+Finale of Devastation;11;3;8;0.27273;0.72727;0.5;G;2.0;Sorcery
+Castle Embereth;3;2;1;0.66667;0.33333;0.5833333333333334;R;0.0;Land
+Village Rites;2;0;2;0.0;1.0;0.0;B;1.0;Instant
+Mystical Tutor;7;5;2;0.71429;0.28571;0.5;U;1.0;Instant
+Dromoka's Command;1;0;1;0.0;1.0;0.0;WG;2.0;Instant
+Life from the Loam;8;1;7;0.125;0.875;0.1666666666666666;G;2.0;Sorcery
+Shardless Agent;10;4;6;0.4;0.6;0.7083333333333334;UG;3.0;Artifact Creature
+Murderous Rider;8;7;1;0.875;0.125;0.4523809523809524;B;3.0;Instant
+Retrofitter Foundry;7;4;3;0.57143;0.42857;0.375;Colorless;1.0;Artifact
+Fable of the Mirror-Breaker;7;7;0;1.0;0.0;0.4523809523809524;R;3.0;Creature
+Briarbridge Tracker;7;4;3;0.57143;0.42857;0.5;G;3.0;Creature
+Hedron Archive;2;0;2;0.0;1.0;0.0;Colorless;4.0;Artifact
+Hellrider;13;7;6;0.53846;0.46154;0.5476190476190477;R;4.0;Creature
+Worldly Tutor;5;4;1;0.8;0.2;0.375;G;1.0;Instant
+Orcish Lumberjack;6;2;4;0.33333;0.66667;0.75;RG;1.0;Creature
+Elves of Deep Shadow;5;5;0;1.0;0.0;0.5;G;1.0;Creature
+Nurturing Peatland;4;4;0;1.0;0.0;0.5833333333333334;BG;0.0;Land
+Ziatora's Proving Ground;4;3;1;0.75;0.25;0.3333333333333333;BGR;0.0;Land
+Crystal Vein;3;2;1;0.66667;0.33333;0.75;Colorless;0.0;Land
+Edge of Autumn;6;4;2;0.66667;0.33333;0.5416666666666666;G;2.0;Sorcery
+Suspicious Stowaway;9;8;1;0.88889;0.11111;0.5833333333333334;U;2.0;Creature
+Cemetery Gatekeeper;3;3;0;1.0;0.0;0.5;R;2.0;Creature
+Strangle;3;3;0;1.0;0.0;0.5;R;1.0;Sorcery
+Reckless Impulse;3;3;0;1.0;0.0;0.6111111111111112;R;2.0;Sorcery
+Exploration;3;1;2;0.33333;0.66667;0.3333333333333333;G;1.0;Enchantment
+Yorion, Sky Nomad;5;2;3;0.4;0.6;0.5833333333333334;UW;5.0;Creature
+Phyrexian Metamorph;10;10;0;1.0;0.0;0.5833333333333334;U;4.0;Artifact Creature
+Sphinx of the Steel Wind;6;3;3;0.5;0.5;0.5555555555555556;WUB;8.0;Artifact Creature
+Sorcerous Spyglass;1;1;0;1.0;0.0;0.6666666666666666;Colorless;2.0;Artifact
+Runaway Steam-Kin;1;0;1;0.0;1.0;0.0;R;2.0;Creature
+Angrath's Rampage;1;0;1;0.0;1.0;0.0;BR;2.0;Sorcery
+Spectral Procession;1;0;1;0.0;1.0;0.0;W;6.0;Sorcery
+Glasspool Mimic;5;4;1;0.8;0.2;0.5416666666666666;U;3.0;Creature
+Phyrexian Triniform;3;3;0;1.0;0.0;0.7777777777777778;Colorless;9.0;Artifact Creature
+Mystic Sanctuary;2;2;0;1.0;0.0;0.5;U;0.0;Land
+Great Furnace;3;1;2;0.33333;0.66667;0.6666666666666666;R;0.0;Land
+Enlightened Tutor;3;1;2;0.33333;0.66667;0.6666666666666666;W;1.0;Instant
+Chromatic Lantern;2;1;1;0.5;0.5;0.6666666666666666;Colorless;3.0;Artifact
+Wildfire;3;2;1;0.66667;0.33333;0.8333333333333334;R;6.0;Sorcery
+Trinket Mage;3;1;2;0.33333;0.66667;0.1666666666666666;U;3.0;Creature
+Soldier of the Pantheon;1;0;1;0.0;1.0;0.0;W;1.0;Creature
+Prime Speaker Vannifar;4;0;4;0.0;1.0;0.0;UG;4.0;Creature
+Springbloom Druid;2;2;0;1.0;0.0;0.5833333333333334;G;3.0;Creature
+Timeless Witness;1;1;0;1.0;0.0;0.5;G;4.0;Creature
+Temple of Malice;1;1;0;1.0;0.0;0.5;BR;0.0;Land
+Channel;2;1;1;0.5;0.5;0.5;G;2.0;Sorcery
+Shallow Grave;2;1;1;0.5;0.5;0.3333333333333333;B;2.0;Instant
+Corpse Dance;2;1;1;0.5;0.5;0.3333333333333333;B;3.0;Instant
+Darksteel Citadel;4;1;3;0.25;0.75;0.5;Colorless;0.0;Artifact Land
+Xathrid Necromancer;3;1;2;0.33333;0.66667;0.6666666666666666;B;3.0;Creature
+Niv-Mizzet Reborn;8;1;7;0.125;0.875;0.3333333333333333;WUBRG;5.0;Creature
+Rakdos Cackler;9;5;4;0.55556;0.44444;0.6333333333333333;BR;1.0;Creature
+Fateful Absence;6;4;2;0.66667;0.33333;0.4166666666666667;W;2.0;Instant
+Ilharg, the Raze-Boar;1;1;0;1.0;0.0;0.3333333333333333;R;5.0;Creature
+Blazing Rootwalla;3;2;1;0.66667;0.33333;0.6666666666666666;R;1.0;Creature
+Ob Nixilis Reignited;1;0;1;0.0;1.0;0.0;B;5.0;Planeswalker
+Forked Bolt;1;1;0;1.0;0.0;0.3333333333333333;R;1.0;Sorcery
+Chain Lightning;7;6;1;0.85714;0.14286;0.5277777777777778;R;1.0;Sorcery
+Eidolon of the Great Revel;10;3;7;0.3;0.7;0.7777777777777778;R;2.0;Enchantment Creature
+Adanto Vanguard;13;6;7;0.46154;0.53846;0.4722222222222222;W;2.0;Creature
+Feldon of the Third Path;1;0;1;0.0;1.0;0.0;R;3.0;Creature
+Seat of the Synod;2;1;1;0.5;0.5;0.5;U;0.0;Land
+Baral, Chief of Compliance;3;1;2;0.33333;0.66667;0.6666666666666666;U;2.0;Creature
+Containment Construct;3;1;2;0.33333;0.66667;0.6666666666666666;Colorless;2.0;Artifact Creature
+Metallic Mimic;6;3;3;0.5;0.5;0.5555555555555556;Colorless;2.0;Artifact Creature
+Ranger-Captain of Eos;4;2;2;0.5;0.5;0.5833333333333334;W;3.0;Creature
+Silent Clearing;3;3;0;1.0;0.0;0.5555555555555556;BW;0.0;Land
+Sunbaked Canyon;3;3;0;1.0;0.0;0.5555555555555556;RW;0.0;Land
+Spara's Headquarters;3;3;0;1.0;0.0;0.3333333333333333;WUG;0.0;Land
+Vivien, Monsters' Advocate;2;2;0;1.0;0.0;0.5;G;5.0;Planeswalker
+Viscera Seer;7;0;7;0.0;1.0;0.0;B;1.0;Creature
+Ravages of War;4;3;1;0.75;0.25;0.6111111111111112;W;4.0;Sorcery
+Firebolt;2;2;0;1.0;0.0;0.5833333333333334;R;1.0;Sorcery
+Explore;2;1;1;0.5;0.5;1.0;G;2.0;Sorcery
+Castle Locthwain;1;1;0;1.0;0.0;0.8333333333333334;B;0.0;Land
+Pack Rat;2;1;1;0.5;0.5;0.3333333333333333;B;2.0;Creature
+Burning of Xinye;2;0;2;0.0;1.0;0.0;R;6.0;Sorcery
+Bring to Light;2;0;2;0.0;1.0;0.0;UG;5.0;Sorcery
+Master of Death;3;2;1;0.66667;0.33333;0.4166666666666667;BU;3.0;Creature
+Kaito Shizuki;4;3;1;0.75;0.25;0.2777777777777778;BU;3.0;Planeswalker
+Hopeful Initiate;2;1;1;0.5;0.5;0.6666666666666666;W;1.0;Creature
+Murktide Regent;4;2;2;0.5;0.5;0.5;U;7.0;Creature
+Horizon Canopy;4;2;2;0.5;0.5;1.0;GW;0.0;Land
+Censor;2;2;0;1.0;0.0;0.5833333333333334;U;2.0;Instant
+Dread Fugue;4;2;2;0.5;0.5;0.3333333333333333;B;1.0;Sorcery
+Ledger Shredder;3;2;1;0.66667;0.33333;0.8333333333333334;U;2.0;Creature
+Xander's Lounge;3;3;0;1.0;0.0;0.6666666666666666;BRU;0.0;Land
+Necrogen Spellbomb;1;0;1;0.0;1.0;0.0;B;1.0;Artifact
+Thassa's Oracle;2;0;2;0.0;1.0;0.0;U;2.0;Creature
+Lumbering Falls;1;1;0;1.0;0.0;0.6666666666666666;UG;0.0;Land
+Tooth and Nail;1;1;0;1.0;0.0;0.6666666666666666;G;7.0;Sorcery
+Mizzium Mortars;1;0;1;0.0;1.0;0.0;R;2.0;Sorcery
+Ancient Grudge;1;0;1;0.0;1.0;0.0;R;2.0;Instant
+Tourach, Dread Cantor;1;0;1;0.0;1.0;0.0;B;2.0;Creature
+Sea Gate Restoration;1;0;1;0.0;1.0;0.0;U;7.0;Sorcery
+The Meathook Massacre;3;1;2;0.33333;0.66667;0.0;B;2.0;Enchantment
+Sower of Temptation;1;1;0;1.0;0.0;0.5;U;4.0;Creature
+Containment Priest;3;2;1;0.66667;0.33333;0.4166666666666667;W;2.0;Creature
+Tainted Pact;1;0;1;0.0;1.0;0.0;B;2.0;Instant
+Temple of Enlightenment;1;1;0;1.0;0.0;0.5;WU;0.0;Land
+Cabal Therapy;1;1;0;1.0;0.0;0.5;B;1.0;Sorcery
+Safehold Elite;2;1;1;0.5;0.5;0.3333333333333333;WG;2.0;Creature
+Power Word Kill;2;1;1;0.5;0.5;0.6666666666666666;B;2.0;Instant
+Mental Note;1;0;1;0.0;1.0;0.0;U;1.0;Instant
+Lion Sash;2;2;0;1.0;0.0;0.6666666666666666;W;2.0;Artifact Creature
+White Plume Adventurer;2;2;0;1.0;0.0;0.6666666666666666;W;3.0;Creature
+Erinis, Gloom Stalker;1;1;0;1.0;0.0;1.0;G;3.0;Creature
+Lovestruck Beast;2;2;0;1.0;0.0;1.0;G;3.0;Creature
+Ulvenwald Oddity;2;2;0;1.0;0.0;0.6666666666666666;G;4.0;Creature
+Minsc & Boo, Timeless Heroes;2;2;0;1.0;0.0;0.6666666666666666;RG;4.0;Planeswalker
+Bounding Krasis;2;0;2;0.0;1.0;0.0;UG;3.0;Creature
+Llanowar Visionary;2;2;0;1.0;0.0;0.4166666666666667;G;3.0;Creature
+The Royal Scions;2;2;0;1.0;0.0;0.3333333333333333;UR;3.0;Planeswalker
+Gale, Waterdeep Prodigy;2;0;2;0.0;1.0;0.0;U;3.0;Creature
+March of Otherworldly Light;1;1;0;1.0;0.0;0.6666666666666666;W;1.0;Instant
+Sprite Dragon;1;1;0;1.0;0.0;0.0;UR;2.0;Creature
+Garruk, Unleashed;1;1;0;1.0;0.0;1.0;G;4.0;Planeswalker
